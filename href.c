@@ -121,7 +121,7 @@ int strHrefIndex(char* strFromHTML, char* href)
 
 void rdHtmlFile(char* htmlName)
 {
-	printf("%s\n", htmlName);
+	//printf("%s\n", htmlName);
 	FILE *file = fopen(htmlName, "r");
 	char strFromHTML[LENHTML];
 	data_links dt_links;

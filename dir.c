@@ -11,7 +11,7 @@ void selcFile(char *file_exten, char *dir_links)
 	char *links_dir = (char*)malloc(MAXDIR * sizeof(char));
 	char *path = (char*)malloc(MAXDIR * sizeof(char));
 	getcwd(cwd, MAXDIR);
-	size_t needed_size_dir = snprintf(NULL, 0,"%s/%s", cwd, dir_links);
+	size_t needed_size_dir = snprintf(NULL, 0,"%s/%s", cwd, dir_links) + 2;
 	snprintf(links_dir, needed_size_dir,"%s/%s", cwd, dir_links);
 	if ((dir = opendir(links_dir)) != NULL) {
 		while ((ent = readdir(dir)) != NULL) {
