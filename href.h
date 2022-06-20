@@ -8,6 +8,7 @@
 #include <string.h>
 #include <curl/curl.h>
 #include "flink.h"
+#include "shref.h"
 
 #define LENHTML 20000
 #define MAXLINK 500
