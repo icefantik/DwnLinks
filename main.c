@@ -4,7 +4,6 @@
 #include <dirent.h>
 #include <unistd.h>
 
-#define DIRLINKS "Links"
 #define MAXDIR 500
 #define CWDDIR 255
 #define MAXPATH 901
@@ -38,7 +37,7 @@ void fslc(char *file_exten, char *dir_links)
 			{
 				if (st.st_mode & S_IFREG) { //check is files
 					if (strcmp(fexten(ent->d_name), file_exten) == 0) {
-						rdHtmlFile(path);
+						frdHtml(path);
 					}
 				}
 			} else {

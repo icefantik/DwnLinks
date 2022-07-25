@@ -9,19 +9,16 @@
 #include <curl/curl.h>
 #include "flink.h"
 #include "shref.h"
+#include "dir.h"
 
 #define LENHTML 20000
 #define MAXLINK 500
 #define HTLEXT 5
 #define TAGHREF "href"
-#define DOWNDIR "Download"
 #define FEXTEN 101
 #define FNAME 101
 
-
-void downloadLinks(data_links);
-int strHrefIndex(char*, char*);
-void rdHtmlFile(char*);
+void frdHtml(char*);
 char* fexten(char*);
 
 #endif

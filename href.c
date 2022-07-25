@@ -13,16 +13,17 @@ size_t write_data(void *ptr, size_t size, size_t nmemb, FILE *stream) {
 // download list links and save file
 void dwlstlinks(data_links dt_links)
 {
-	char path[5000]; // path to witch file save
-	char *exten_file, *name_file; 
+	//char path[500000]; // path to witch file save
+	char *exten_file, *name_file;	
 	for (int i = 0, len_url; i < dt_links.len_links; ++i) {
+		char path[500000];
 		len_url = strlen(dt_links.links[i]);
 		exten_file = getExtenLink(dt_links.links[i], len_url);	
 		name_file = getNameFileLink(dt_links.links[i], len_url);
 		rplcSlshLnk(name_file);
-
+		
 		sprintf(path, "%s/%s.%s", DOWNDIR, name_file, exten_file);
-		dwlink(path, dt_links.links[i]);		
+		dwlink(path, dt_links.links[i]);
 	}
 }
 
@@ -35,13 +36,13 @@ void dwlink(char *path, char *url)
 	if (curl)
 	{
 		FILE *fp = fopen(path,"wb");
-        	curl_easy_setopt(curl, CURLOPT_URL, url);
-		curl_easy_setopt(curl, CURLOPT_WRITEFUNCTION, write_data);
-        	curl_easy_setopt(curl, CURLOPT_WRITEDATA, fp);
-        	res = curl_easy_perform(curl);
-        	if (fp == NULL) {
+		if (fp == NULL) {
         		printf("Couldn't open %s: Segmentation faild file not create/open.\n", path);
         	} else {
+			curl_easy_setopt(curl, CURLOPT_URL, url);
+                	curl_easy_setopt(curl, CURLOPT_WRITEFUNCTION, write_data);
+                	curl_easy_setopt(curl, CURLOPT_WRITEDATA, fp);
+                	res = curl_easy_perform(curl);
         		fclose(fp);
         	}
 		curl_easy_cleanup(curl);
@@ -62,7 +63,6 @@ char* getExtenLink(char* url, int len_url)
 	}
 	file_exten[index_exten] = '\0';
 	reverse(file_exten, index_exten);
-	//printf("%s\n", file_exten);
 	return file_exten;
 }
 
@@ -81,9 +81,8 @@ int getStartIndexHref(char* str_from_html, char* href)
 	return -1;
 }
 
-void rdHtmlFile(char* html_name)
+void frdHtml(char* html_name)
 {
-	//printf("%s\n", htmlName);
 	FILE *file = fopen(html_name, "r");
 	char str_from_html[LENHTML];
 	data_links dt_links;
@@ -106,7 +105,6 @@ void rdHtmlFile(char* html_name)
 
 char* fexten(char* name_file)
 {
-	printf("1\n");
 	int index_fexten = 0, len_fname = strlen(name_file);
 	char* fext = malloc(len_fname * sizeof(char)); // string file extension
 	for (int i = len_fname - 1; name_file[i] != '.' && i >= 0; --i, ++index_fexten) {
@@ -114,6 +112,5 @@ char* fexten(char* name_file)
 	} // get formation extension in href
 	fext[index_fexten++] = '\0'; // end symbol extension
 	reverse(fext, strlen(fext)); // revers extension
-	printf("2\n %s\n", fext);
 	return fext;
 }
