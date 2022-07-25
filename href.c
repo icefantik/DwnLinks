@@ -1,11 +1,9 @@
 #include "href.h"
 
 void reverse(char*, int);
-char* getNameFileLink(char*, int);
-char* getExtenFromLink(char*, int);
+char* getExtenLink(char*, int);
 char *subStr(char*, int, int, char*);
 void dwlink(char *path, char *url);
-void rplcSlshLnk(char *name_file);
 
 size_t write_data(void *ptr, size_t size, size_t nmemb, FILE *stream) {
     size_t written = fwrite(ptr, size, nmemb, stream);
@@ -19,7 +17,7 @@ void dwlstlinks(data_links dt_links)
 	char *exten_file, *name_file; 
 	for (int i = 0, len_url; i < dt_links.len_links; ++i) {
 		len_url = strlen(dt_links.links[i]);
-		exten_file = getExtenFromLink(dt_links.links[i], len_url);	
+		exten_file = getExtenLink(dt_links.links[i], len_url);	
 		name_file = getNameFileLink(dt_links.links[i], len_url);
 		rplcSlshLnk(name_file);
 
@@ -50,7 +48,7 @@ void dwlink(char *path, char *url)
 	}
 }
 
-char* getExtenFromLink(char* url, int len_url)
+char* getExtenLink(char* url, int len_url)
 {
 	int index_exten = 0;
 	char* file_exten = (char*)malloc(sizeof(char) * FEXTEN * 2);
@@ -68,7 +66,7 @@ char* getExtenFromLink(char* url, int len_url)
 	return file_exten;
 }
 
-int strHrefIndex(char* str_from_html, char* href)
+int getStartIndexHref(char* str_from_html, char* href)
 {
 	int i, j, k, length;
 	int tmp = strlen(href) - 1;
@@ -93,7 +91,7 @@ void rdHtmlFile(char* html_name)
 	while(fgets(str_from_html, sizeof(str_from_html), file))
 	{
 		if (strstr(str_from_html, TAGHREF) != NULL) {
-			int href_start_index = strHrefIndex(str_from_html, TAGHREF), index_link = 0;
+			int href_start_index = getStartIndexHref(str_from_html, TAGHREF), index_link = 0;
 			char link[MAXLINK];
 			while (str_from_html[href_start_index] != '\"') {
 				link[index_link++] = str_from_html[href_start_index++];
@@ -108,6 +106,7 @@ void rdHtmlFile(char* html_name)
 
 char* fexten(char* name_file)
 {
+	printf("1\n");
 	int index_fexten = 0, len_fname = strlen(name_file);
 	char* fext = malloc(len_fname * sizeof(char)); // string file extension
 	for (int i = len_fname - 1; name_file[i] != '.' && i >= 0; --i, ++index_fexten) {
@@ -115,5 +114,6 @@ char* fexten(char* name_file)
 	} // get formation extension in href
 	fext[index_fexten++] = '\0'; // end symbol extension
 	reverse(fext, strlen(fext)); // revers extension
+	printf("2\n %s\n", fext);
 	return fext;
 }

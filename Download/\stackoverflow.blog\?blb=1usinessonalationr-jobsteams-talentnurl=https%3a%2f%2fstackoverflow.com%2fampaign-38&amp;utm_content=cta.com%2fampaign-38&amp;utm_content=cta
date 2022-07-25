@@ -153,7 +153,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 
-<img height="1" width="1" style="display:none" alt="" src="https://www.googleadservices.com/pagead/conversion/961466557/?guid=ON&script=0&random=102547302&url=https://stackoverflow.blog/?blb=1usinessonalationr-jobsteams-talentnurl=https%3a%2f%2fstackoverflow.com%2fampaign-38&amp;utm_content=cta" />
+<img height="1" width="1" style="display:none" alt="" src="https://www.googleadservices.com/pagead/conversion/961466557/?guid=ON&script=0&random=552487777&url=https://stackoverflow.blog/?blb=1usinessonalationr-jobsteams-talentnurl=https%3a%2f%2fstackoverflow.com%2fampaign-38&amp;utm_content=cta" />
 
   
   <div id="wrapper" class="hfeed">
@@ -234,10 +234,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <div class="grid mxn16 ff-row-wrap md:fd-column">
     
               <div class="grid--cell12 overflow-hidden p16 pb48 sm:pb16 sm:fd-column">  
-          <article id="post-20446" class="grid gs32 md:fd-column pb48 bb bc-black-1 post-20446 post type-post status-publish format-standard has-post-thumbnail hentry category-code-for-a-living tag-event-driven-architectures tag-kafka tag-message-brokers tag-se-stackoverflow tag-se-tech tag-topics">
+          <article id="post-20457" class="grid gs32 md:fd-column pb48 bb bc-black-1 post-20457 post type-post status-publish format-standard has-post-thumbnail hentry category-code-for-a-living category-partner-content tag-automation tag-partner-content tag-partnercontent tag-robotic-process-automation tag-se-stackoverflow tag-se-tech">
   <div class="grid--cell9 mb0">
-      <a href="https://stackoverflow.blog/2022/07/21/event-driven-topic-design-using-kafka/" class="d-block bar-lg overflow-hidden imgfill ps-relative bg-black-025 bs-md h:bs-lg ps-releative">
-    <img width="1024" height="538" src="https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/071322-Stack-Overflow-Kafka-1200x630.jpg" class="w100 h100 d-block ps-absolute t0 r0 l0 b0 wp-post-image" alt="" srcset="https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/071322-Stack-Overflow-Kafka-1200x630.jpg 1200w , https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/071322-Stack-Overflow-Kafka-300x158.jpg 300w , https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/071322-Stack-Overflow-Kafka-768x403.jpg 768w , https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/071322-Stack-Overflow-Kafka-1536x806.jpg 1536w , https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/071322-Stack-Overflow-Kafka-2048x1075.jpg 2048w " sizes="(max-width: 1024px) 100vw, 1024px" /> 
+      <a href="https://stackoverflow.blog/2022/07/25/automate-the-boring-parts-of-your-job/" class="d-block bar-lg overflow-hidden imgfill ps-relative bg-black-025 bs-md h:bs-lg ps-releative">
+    <img width="1024" height="538" src="https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/050722-UiPath-Sponsored-post-1-1200x630.jpg" class="w100 h100 d-block ps-absolute t0 r0 l0 b0 wp-post-image" alt="" srcset="https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/050722-UiPath-Sponsored-post-1-1200x630.jpg 1200w , https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/050722-UiPath-Sponsored-post-1-300x158.jpg 300w , https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/050722-UiPath-Sponsored-post-1-768x403.jpg 768w , https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/050722-UiPath-Sponsored-post-1-1536x806.jpg 1536w , https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/050722-UiPath-Sponsored-post-1-2048x1075.jpg 2048w " sizes="(max-width: 1024px) 100vw, 1024px" /> 
 
       </a>
   </div>
@@ -247,30 +247,30 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <section class="mb16">
   <a href="https://stackoverflow.blog/code-for-a-living/" class="s-tag bar-md va-middle mr12">code-for-a-living</a>  
   <span class="fc-black-300 tt-uppercase va-middle ls-sm">
-    July 21, 2022  </span>
+    July 25, 2022  </span>
 </section>
 
       <h2 class="fs-headline2 lh-sm mb24">
         <a
-          href="https://stackoverflow.blog/2022/07/21/event-driven-topic-design-using-kafka/"
-          title="Design patterns for asynchronous API communication"
+          href="https://stackoverflow.blog/2022/07/25/automate-the-boring-parts-of-your-job/"
+          title="Automate the boring parts of your job"
           rel="bookmark"
           class="fc-black-800 h:fc-blue-500"
         >
-          Design patterns for asynchronous API communication        </a>
+          Automate the boring parts of your job        </a>
       </h2>
     </header>
 
-    <div class="fs-body3 mb24 lh-excerpt">An event-driven architecture can reduce dependencies, increase safety, and make your application easy to scale. But designing your systems and topics is a non-trivial task</div>    
+    <div class="fs-body3 mb24 lh-excerpt">Turns out the robots are here to make your job more interesting. </div>    
     <div class="mt-auto bt bc-black-1 pt32 sm:pt0 sm:bt0">
       <div class="grid ai-center author vcard fs-body2">
   <div class="grid__cell mr12 ws-nowrap">
           <div class="bar-circle overflow-hidden d-inline-block ">  
-        <img alt='Avatar for ' src='https://149351115.v2.pressablecdn.com/wp-content/uploads/2021/05/daniel-2.png' srcset='https://149351115.v2.pressablecdn.com/wp-content/uploads/2021/05/daniel-2.png 2x ' class='avatar avatar-40 photo avatar-default d-block' height='40' width='40' loading='lazy'/>      </div>
+        <img alt='Avatar for ' src='https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/unnamed-18.jpg' srcset='https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/unnamed-18.jpg 2x ' class='avatar avatar-40 photo avatar-default d-block' height='40' width='40' loading='lazy'/>      </div>
       </div>
   <div class="grid__cell fc-black-350">
     <span class="d-block fw-bold fc-black-900">
-      <a href="https://stackoverflow.blog/author/daniel-orner/" title="Posts by Daniel Orner" class="author url fn" rel="author">Daniel Orner</a>    </span>
+      <a href="https://stackoverflow.blog/author/oana-chicioroaga-community-rpa-content-manager-at-uipath/" title="Posts by Oana Chicioroaga, Community RPA Content Manager at UiPath" class="author url fn" rel="author">Oana Chicioroaga, Community RPA Content Manager at UiPath</a>    </span>
       </div>
 </div>
 
@@ -281,6 +281,48 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       
       
       
+          
+      
+      
+      
+              <div class="grid--cell3 overflow-hidden p16 pb48 sm:pb16">
+          <article id="post-20446" class="d-flex fd-column h100 post-20446 post type-post status-publish format-standard has-post-thumbnail hentry category-code-for-a-living tag-event-driven-architectures tag-kafka tag-message-brokers tag-se-stackoverflow tag-se-tech tag-topics">
+    <a href="https://stackoverflow.blog/2022/07/21/event-driven-topic-design-using-kafka/" class="d-block bar-lg overflow-hidden imgfill ps-relative bg-black-025 bs-md h:bs-lg ps-releative">
+    <img width="1024" height="538" src="https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/071322-Stack-Overflow-Kafka-1200x630.jpg" class="w100 h100 d-block ps-absolute t0 r0 l0 b0 wp-post-image" alt="" loading="lazy" srcset="https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/071322-Stack-Overflow-Kafka-1200x630.jpg 1200w , https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/071322-Stack-Overflow-Kafka-300x158.jpg 300w , https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/071322-Stack-Overflow-Kafka-768x403.jpg 768w , https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/071322-Stack-Overflow-Kafka-1536x806.jpg 1536w , https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/071322-Stack-Overflow-Kafka-2048x1075.jpg 2048w " sizes="(max-width: 1024px) 100vw, 1024px" /> 
+
+      </a>
+
+  <header class="mt24 sm:mt16">
+    <section class="mb16">
+  <a href="https://stackoverflow.blog/code-for-a-living/" class="s-tag bar-md va-middle mr12">code-for-a-living</a>  
+  <span class="fc-black-300 tt-uppercase va-middle ls-sm">
+    July 21, 2022  </span>
+</section>
+    <h2 class="fs-headline1 lh-sm ww-break-word">
+  <a
+    href="https://stackoverflow.blog/2022/07/21/event-driven-topic-design-using-kafka/"
+    title="Design patterns for asynchronous API communication"
+    rel="bookmark"
+    class="fc-black-800 h:fc-blue-500"
+  >
+    Design patterns for asynchronous API communication  </a>
+</h2>  </header>
+
+  <div class="fs-body3 mb24 lh-excerpt">An event-driven architecture can reduce dependencies, increase safety, and make your application easy to scale. But designing your systems and topics is a non-trivial task</div>
+  <div class="mt-auto bb bc-black-1 pb16">
+    <div class="grid ai-center author vcard fs-body2">
+  <div class="grid__cell mr12 ws-nowrap">
+          <div class="bar-circle overflow-hidden d-inline-block ">  
+        <img alt='Avatar for ' src='https://149351115.v2.pressablecdn.com/wp-content/uploads/2021/05/daniel-2.png' srcset='https://149351115.v2.pressablecdn.com/wp-content/uploads/2021/05/daniel-2.png 2x ' class='avatar avatar-40 photo avatar-default d-block' height='40' width='40' loading='lazy'/>      </div>
+      </div>
+  <div class="grid__cell fc-black-350">
+    <span class="d-block fw-bold fc-black-900">
+      <a href="https://stackoverflow.blog/author/daniel-orner/" title="Posts by Daniel Orner" class="author url fn" rel="author">Daniel Orner</a>    </span>
+      </div>
+</div>
+
+  </div>
+</article>        </div>
           
       
       
@@ -361,48 +403,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <span class="d-block fw-bold fc-black-900">
       <a href="https://stackoverflow.blog/author/jliuzzo/" title="Posts by Joy Liuzzo" class="author url fn" rel="author">Joy Liuzzo</a>    </span>
       </div>
-</div>
-
-  </div>
-</article>        </div>
-          
-      
-      
-      
-              <div class="grid--cell3 overflow-hidden p16 pb48 sm:pb16">
-          <article id="post-20369" class="d-flex fd-column h100 post-20369 post type-post status-publish format-standard has-post-thumbnail hentry category-design tag-design tag-se-all tag-se-stackoverflow tag-themes">
-    <a href="https://stackoverflow.blog/2022/07/11/stack-exchange-sites-are-getting-prettier-faster-introducing-themes/" class="d-block bar-lg overflow-hidden imgfill ps-relative bg-black-025 bs-md h:bs-lg ps-releative">
-    <img width="1024" height="538" src="https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/Frame-2-1200x630.png" class="w100 h100 d-block ps-absolute t0 r0 l0 b0 wp-post-image" alt="" loading="lazy" srcset="https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/Frame-2-1200x630.png 1200w , https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/Frame-2-300x158.png 300w , https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/Frame-2-768x403.png 768w , https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/Frame-2-1536x806.png 1536w , https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/Frame-2-2048x1075.png 2048w " sizes="(max-width: 1024px) 100vw, 1024px" /> 
-
-      </a>
-
-  <header class="mt24 sm:mt16">
-    <section class="mb16">
-  <a href="https://stackoverflow.blog/design/" class="s-tag bar-md va-middle mr12">design</a>  
-  <span class="fc-black-300 tt-uppercase va-middle ls-sm">
-    July 11, 2022  </span>
-</section>
-    <h2 class="fs-headline1 lh-sm ww-break-word">
-  <a
-    href="https://stackoverflow.blog/2022/07/11/stack-exchange-sites-are-getting-prettier-faster-introducing-themes/"
-    title="Stack Exchange sites are getting prettier faster: Introducing Themes"
-    rel="bookmark"
-    class="fc-black-800 h:fc-blue-500"
-  >
-    Stack Exchange sites are getting prettier faster: Introducing Themes  </a>
-</h2>  </header>
-
-  <div class="fs-body3 mb24 lh-excerpt">Our April Fools joke has a nice side effect: it's easier to make Stack Exchange sites more distinct. </div>
-  <div class="mt-auto bb bc-black-1 pb16">
-    <div class="grid ai-center author vcard fs-body2">
-  <div class="grid__cell mr12 ws-nowrap">
-          <div class="bar-circle overflow-hidden d-inline-block ">  
-        <img alt='Avatar for Piper Lawson' src='https://secure.gravatar.com/avatar/5c9f174e4a2a746dc14834d3375dabb6?s=40&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/5c9f174e4a2a746dc14834d3375dabb6?s=80&#038;d=mm&#038;r=g 2x' class='avatar avatar-40 photo d-block' height='40' width='40' loading='lazy'/>      </div>
-      </div>
-  <div class="grid__cell fc-black-350">
-    <span class="d-block fw-bold fc-black-900">
-      <a href="https://stackoverflow.blog/author/plawson/" title="Posts by Piper Lawson" class="author url fn" rel="author">Piper Lawson</a>    </span>
-    Director of Product Design  </div>
 </div>
 
   </div>
@@ -520,6 +520,48 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   </div>        </div>
       
               <div class="grid--cell6 overflow-hidden p16 pb48 sm:pb16">
+          <article id="post-20369" class="d-flex fd-column h100 post-20369 post type-post status-publish format-standard has-post-thumbnail hentry category-design tag-design tag-se-all tag-se-stackoverflow tag-themes">
+    <a href="https://stackoverflow.blog/2022/07/11/stack-exchange-sites-are-getting-prettier-faster-introducing-themes/" class="d-block bar-lg overflow-hidden imgfill ps-relative bg-black-025 bs-md h:bs-lg ps-releative">
+    <img width="1024" height="538" src="https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/Frame-2-1200x630.png" class="w100 h100 d-block ps-absolute t0 r0 l0 b0 wp-post-image" alt="" loading="lazy" srcset="https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/Frame-2-1200x630.png 1200w , https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/Frame-2-300x158.png 300w , https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/Frame-2-768x403.png 768w , https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/Frame-2-1536x806.png 1536w , https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/Frame-2-2048x1075.png 2048w " sizes="(max-width: 1024px) 100vw, 1024px" /> 
+
+      </a>
+
+  <header class="mt24 sm:mt16">
+    <section class="mb16">
+  <a href="https://stackoverflow.blog/design/" class="s-tag bar-md va-middle mr12">design</a>  
+  <span class="fc-black-300 tt-uppercase va-middle ls-sm">
+    July 11, 2022  </span>
+</section>
+    <h2 class="fs-headline1 lh-sm ww-break-word">
+  <a
+    href="https://stackoverflow.blog/2022/07/11/stack-exchange-sites-are-getting-prettier-faster-introducing-themes/"
+    title="Stack Exchange sites are getting prettier faster: Introducing Themes"
+    rel="bookmark"
+    class="fc-black-800 h:fc-blue-500"
+  >
+    Stack Exchange sites are getting prettier faster: Introducing Themes  </a>
+</h2>  </header>
+
+  <div class="fs-body3 mb24 lh-excerpt">Our April Fools joke has a nice side effect: it's easier to make Stack Exchange sites more distinct. </div>
+  <div class="mt-auto bb bc-black-1 pb16">
+    <div class="grid ai-center author vcard fs-body2">
+  <div class="grid__cell mr12 ws-nowrap">
+          <div class="bar-circle overflow-hidden d-inline-block ">  
+        <img alt='Avatar for Piper Lawson' src='https://secure.gravatar.com/avatar/5c9f174e4a2a746dc14834d3375dabb6?s=40&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/5c9f174e4a2a746dc14834d3375dabb6?s=80&#038;d=mm&#038;r=g 2x' class='avatar avatar-40 photo d-block' height='40' width='40' loading='lazy'/>      </div>
+      </div>
+  <div class="grid__cell fc-black-350">
+    <span class="d-block fw-bold fc-black-900">
+      <a href="https://stackoverflow.blog/author/plawson/" title="Posts by Piper Lawson" class="author url fn" rel="author">Piper Lawson</a>    </span>
+    Director of Product Design  </div>
+</div>
+
+  </div>
+</article>        </div>
+          
+      
+      
+      
+              <div class="grid--cell3 overflow-hidden p16 pb48 sm:pb16">
           <article id="post-20358" class="d-flex fd-column h100 post-20358 post type-post status-publish format-standard has-post-thumbnail hentry category-code-for-a-living tag-perl tag-se-stackoverflow tag-se-tech tag-unix">
     <a href="https://stackoverflow.blog/2022/07/06/why-perl-is-still-relevant-in-2022/" class="d-block bar-lg overflow-hidden imgfill ps-relative bg-black-025 bs-md h:bs-lg ps-releative">
     <img width="1024" height="538" src="https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/290622-Stack-Overflow-Why-Perl-is-still-relevant-in-2022-1200x630.jpg" class="w100 h100 d-block ps-absolute t0 r0 l0 b0 wp-post-image" alt="" loading="lazy" srcset="https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/290622-Stack-Overflow-Why-Perl-is-still-relevant-in-2022-1200x630.jpg 1200w , https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/290622-Stack-Overflow-Why-Perl-is-still-relevant-in-2022-300x158.jpg 300w , https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/290622-Stack-Overflow-Why-Perl-is-still-relevant-in-2022-768x403.jpg 768w , https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/290622-Stack-Overflow-Why-Perl-is-still-relevant-in-2022-1536x806.jpg 1536w , https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/290622-Stack-Overflow-Why-Perl-is-still-relevant-in-2022-2048x1075.jpg 2048w " sizes="(max-width: 1024px) 100vw, 1024px" /> 
@@ -766,48 +808,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <div class="grid__cell fc-black-350">
     <span class="d-block fw-bold fc-black-900">
       <a href="https://stackoverflow.blog/author/dgibson/" title="Posts by David Gibson" class="author url fn" rel="author">David Gibson</a> and <a href="https://stackoverflow.blog/author/rdonovan/" title="Posts by Ryan Donovan" class="author url fn" rel="author">Ryan Donovan</a>    </span>
-      </div>
-</div>
-
-  </div>
-</article>        </div>
-          
-      
-      
-      
-              <div class="grid--cell3 overflow-hidden p16 pb48 sm:pb16">
-          <article id="post-20290" class="d-flex fd-column h100 post-20290 post type-post status-publish format-standard has-post-thumbnail hentry category-code-for-a-living tag-apple tag-conference tag-se-stackoverflow tag-se-tech tag-wwdc">
-    <a href="https://stackoverflow.blog/2022/06/20/what-apples-wwdc-2022-means-for-developers/" class="d-block bar-lg overflow-hidden imgfill ps-relative bg-black-025 bs-md h:bs-lg ps-releative">
-    <img width="1024" height="538" src="https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/06/200622-Stack-Overflow-WWDC-1200x630.jpg" class="w100 h100 d-block ps-absolute t0 r0 l0 b0 wp-post-image" alt="" loading="lazy" srcset="https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/06/200622-Stack-Overflow-WWDC-1200x630.jpg 1200w , https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/06/200622-Stack-Overflow-WWDC-300x158.jpg 300w , https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/06/200622-Stack-Overflow-WWDC-768x403.jpg 768w , https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/06/200622-Stack-Overflow-WWDC-1536x806.jpg 1536w , https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/06/200622-Stack-Overflow-WWDC-2048x1075.jpg 2048w " sizes="(max-width: 1024px) 100vw, 1024px" /> 
-
-      </a>
-
-  <header class="mt24 sm:mt16">
-    <section class="mb16">
-  <a href="https://stackoverflow.blog/code-for-a-living/" class="s-tag bar-md va-middle mr12">code-for-a-living</a>  
-  <span class="fc-black-300 tt-uppercase va-middle ls-sm">
-    June 20, 2022  </span>
-</section>
-    <h2 class="fs-headline1 lh-sm ww-break-word">
-  <a
-    href="https://stackoverflow.blog/2022/06/20/what-apples-wwdc-2022-means-for-developers/"
-    title="What Apple’s WWDC 2022 means for developers"
-    rel="bookmark"
-    class="fc-black-800 h:fc-blue-500"
-  >
-    What Apple’s WWDC 2022 means for developers  </a>
-</h2>  </header>
-
-  <div class="fs-body3 mb24 lh-excerpt">Improvements to SwiftUI, new weather SDK, better machine learning tools, and more.</div>
-  <div class="mt-auto bb bc-black-1 pb16">
-    <div class="grid ai-center author vcard fs-body2">
-  <div class="grid__cell mr12 ws-nowrap">
-          <div class="bar-circle overflow-hidden d-inline-block ">  
-        <img alt='Avatar for ' src='https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/01/DSC_0121-2-e1643653552669.jpg' srcset='https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/01/DSC_0121-2-e1643653552669.jpg 2x ' class='avatar avatar-40 photo avatar-default d-block' height='40' width='40' loading='lazy'/>      </div>
-      </div>
-  <div class="grid__cell fc-black-350">
-    <span class="d-block fw-bold fc-black-900">
-      <a href="https://stackoverflow.blog/author/wayne-bishop/" title="Posts by Wayne Bishop" class="author url fn" rel="author">Wayne Bishop</a>    </span>
       </div>
 </div>
 
@@ -1139,7 +1139,3 @@ window._linkedin_data_partner_ids.push(_linkedin_partner_id);
 </script>
 </body>
 </html>
-<!--
-	generated in 0.506 seconds
-	102123 bytes batcached for 300 seconds
--->

@@ -307,7 +307,7 @@ your communities            </h3>
                 </ul>
 
                 <p class="md:mb0">
-Site design / logo &#169; 2022 Stack Exchange Inc; user contributions licensed under <a href="https://stackoverflow.com/help/licensing">CC BY-SA</a>.                    <span id="svnrev">rev&nbsp;2022.7.21.42639</span>
+Site design / logo &#169; 2022 Stack Exchange Inc; user contributions licensed under <a href="https://stackoverflow.com/help/licensing">CC BY-SA</a>.                    <span id="svnrev">rev&nbsp;2022.7.25.42650</span>
                 </p>
             </div>
         </div>
@@ -320,11 +320,11 @@ Site design / logo &#169; 2022 Stack Exchange Inc; user contributions licensed u
     </noscript>
     <script>
         var settings = {
-            fkey: '1ffd37ca2c754f36483c16d80f8cfc39685db8c8648e0f26574c77cedb461388',
+            fkey: '619bb6896f9c0bcc8d0f3cbf4713b616b541dda92dfdbb6b6535b1cd1e959baf',
             contentPath: "https://cdn.sstatic.net/stackexchange"
         };
         $(function() {
-            StackExchange.init({"serverTime":1658709253});
+            StackExchange.init({"serverTime":1658762213});
             StackExchange.topbar.init();
         });
     </script>

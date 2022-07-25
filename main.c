@@ -9,17 +9,17 @@
 #define CWDDIR 255
 #define MAXPATH 901
 
-void selcFile(char*, char*);
+void fslc(char*, char*);
 
 int main()
 {	
 	setlocale(LC_ALL, "Rus");
-	selcFile("html", DIRLINKS); // select files from dirlinks dir
-	selcFile("html", DOWNDIR);  // select files from download dir
+	fslc("html", DIRLINKS); // select files from dirlinks dir
+	fslc("html", DOWNDIR);  // select files from download dir
 	return 0;
 }
 
-void selcFile(char *file_exten, char *dir_links)
+void fslc(char *file_exten, char *dir_links)
 {
 	DIR *dir;
 	struct dirent *ent;
