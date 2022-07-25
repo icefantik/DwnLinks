@@ -4,7 +4,7 @@ void reverse(char*, int);
 char* getNameFileLink(char*, int);
 char* getExtenFromLink(char*, int);
 char *subStr(char*, int, int, char*);
-void dwlLink(char *path, char *url);
+void dwlink(char *path, char *url);
 void rplcSlshLnk(char *name_file);
 
 size_t write_data(void *ptr, size_t size, size_t nmemb, FILE *stream) {
@@ -12,9 +12,10 @@ size_t write_data(void *ptr, size_t size, size_t nmemb, FILE *stream) {
     return written;
 }
 
-void downloadLinks(data_links dt_links)
+// download list links and save file
+void dwlstlinks(data_links dt_links)
 {
-	char path[5000];
+	char path[5000]; // path to witch file save
 	char *exten_file, *name_file; 
 	for (int i = 0, len_url; i < dt_links.len_links; ++i) {
 		len_url = strlen(dt_links.links[i]);
@@ -22,11 +23,13 @@ void downloadLinks(data_links dt_links)
 		name_file = getNameFileLink(dt_links.links[i], len_url);
 		rplcSlshLnk(name_file);
 
-		sprintf(path, "%s/%s.%s", DOWNDIR, name_file, exten_file);				 dwlLink(path, dt_links.links[i]);		
+		sprintf(path, "%s/%s.%s", DOWNDIR, name_file, exten_file);
+		dwlink(path, dt_links.links[i]);		
 	}
 }
 
-void dwlLink(char *path, char *url)
+// download file on link from href
+void dwlink(char *path, char *url)
 {
 	CURL *curl;
         CURLcode res;
@@ -65,13 +68,13 @@ char* getExtenFromLink(char* url, int len_url)
 	return file_exten;
 }
 
-int strHrefIndex(char* strFromHTML, char* href)
+int strHrefIndex(char* str_from_html, char* href)
 {
 	int i, j, k, length;
 	int tmp = strlen(href) - 1;
-	for (i = 0; strFromHTML[i] != '\0'; ++i) 
+	for (i = 0; str_from_html[i] != '\0'; ++i) 
 	{
-		for (j = i, k = 0, length = strlen(href)-1; k <= length && strFromHTML[j] == href[k]; ++j, ++k) {
+		for (j = i, k = 0, length = strlen(href)-1; k <= length && str_from_html[j] == href[k]; ++j, ++k) {
 			if (k > 0 && k == tmp) {
 				return j + (strlen(TAGHREF) - 1);
 			}
@@ -80,37 +83,37 @@ int strHrefIndex(char* strFromHTML, char* href)
 	return -1;
 }
 
-void rdHtmlFile(char* htmlName)
+void rdHtmlFile(char* html_name)
 {
 	//printf("%s\n", htmlName);
-	FILE *file = fopen(htmlName, "r");
-	char strFromHTML[LENHTML];
+	FILE *file = fopen(html_name, "r");
+	char str_from_html[LENHTML];
 	data_links dt_links;
 	dt_links.len_links = 0;
-	while(fgets(strFromHTML, sizeof(strFromHTML), file))
+	while(fgets(str_from_html, sizeof(str_from_html), file))
 	{
-		if (strstr(strFromHTML, TAGHREF) != NULL) {
-			int hrefStartIndex = strHrefIndex(strFromHTML, TAGHREF), indexLink = 0;
+		if (strstr(str_from_html, TAGHREF) != NULL) {
+			int href_start_index = strHrefIndex(str_from_html, TAGHREF), index_link = 0;
 			char link[MAXLINK];
-			while (strFromHTML[hrefStartIndex] != '\"') {
-				link[indexLink++] = strFromHTML[hrefStartIndex++];
+			while (str_from_html[href_start_index] != '\"') {
+				link[index_link++] = str_from_html[href_start_index++];
 			}
 			strcpy(dt_links.links[dt_links.len_links++], link);
 			//printf("%s\n", link);
 		}
 	}
 	fclose(file);
-	downloadLinks(dt_links);
+	dwlstlinks(dt_links);
 }
 
-char* fexten(char* nameFile)
+char* fexten(char* name_file)
 {
-	int index_fexten = 0;
-	char* fext = malloc((HTLEXT + 1) * sizeof(char));
-	for (int i = strlen(nameFile) - 1; nameFile[i] != '.' && i >= 0; --i, ++index_fexten) {
-		fext[index_fexten] = nameFile[i];
-	}
-	fext[index_fexten++] = '\0';
-	reverse(fext, strlen(fext));
+	int index_fexten = 0, len_fname = strlen(name_file);
+	char* fext = malloc(len_fname * sizeof(char)); // string file extension
+	for (int i = len_fname - 1; name_file[i] != '.' && i >= 0; --i, ++index_fexten) {
+		fext[index_fexten] = name_file[i];
+	} // get formation extension in href
+	fext[index_fexten++] = '\0'; // end symbol extension
+	reverse(fext, strlen(fext)); // revers extension
 	return fext;
 }
