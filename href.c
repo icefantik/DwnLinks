@@ -1,6 +1,6 @@
 #include "href.h"
 
-#define MAXLEN_PATH 4069
+#define MAXLEN_PATH 4096
 #define MAXLEN_NAMEFILE 255
 
 void reverse(char*, int);
@@ -13,13 +13,24 @@ size_t write_data(void *ptr, size_t size, size_t nmemb, FILE *stream) {
     return written;
 }
 
+char* sliceNameFile(char * name_file)
+{
+	int index_result_str = 0;
+	char result[MAXLEN_PATH + 1];
+	for (int i = 0; i < MAXLEN_PATH; ++i) {
+		result[index_result_str++] = name_file[i];
+	}
+	result[MAXLEN_PATH + 1] = '\0';
+	return result;	
+}
+
 // download list links and save file
 void dwlstlinks(data_links dt_links)
 {
 	//char path[500000]; // path to witch file save
 	char *exten_file, *name_file;	
 	for (int i = 0, len_url; i < dt_links.len_links; ++i) {
-		char path[4096 + 1];
+		char path[MAXLEN_PATH+1];
 		len_url = strlen(dt_links.links[i]);
 		exten_file = getExtenLink(dt_links.links[i], len_url);	
 		name_file = getNameFileLink(dt_links.links[i], len_url);
