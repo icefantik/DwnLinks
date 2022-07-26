@@ -26,8 +26,13 @@ void dwlstlinks(data_links dt_links)
 		rplcSlshLnk(name_file);
 		
 		sprintf(path, "%s/%s.%s", DOWNDIR, name_file, exten_file);
-		printf("%ld\n", strlen(name_file));
-		dwlink(path, dt_links.links[i]);
+		if (strlen(name_file) > MAXLEN_NAMEFILE) {
+			
+		}
+		else
+		{
+			dwlink(path, dt_links.links[i]);
+		}
 	}
 }
 
@@ -100,11 +105,10 @@ void frdHtml(char* html_name)
 				link[index_link++] = str_from_html[href_start_index++];
 			}
 			strcpy(dt_links.links[dt_links.len_links++], link);
-			//printf("%s\n", link);
 		}
 	}
 	fclose(file);
-	dwlstlinks(dt_links);
+	//dwlstlinks(dt_links);
 }
 
 char* fexten(char* name_file)
