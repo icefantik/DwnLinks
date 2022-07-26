@@ -215,7 +215,7 @@ your communities            </h3>
 
     </div> 
 
-        <!-- StackExchange.Website 2022.7.15.873 -->
+        <!-- StackExchange.Website 2022.7.26.641 -->
     <footer id="footer" class="site-footer js-footer" role="contentinfo">
         <div class="site-footer--container">
                 <div class="site-footer--logo">
@@ -307,7 +307,7 @@ your communities            </h3>
                 </ul>
 
                 <p class="md:mb0">
-Site design / logo &#169; 2022 Stack Exchange Inc; user contributions licensed under <a href="https://stackoverflow.com/help/licensing">CC BY-SA</a>.                    <span id="svnrev">rev&nbsp;2022.7.25.42654</span>
+Site design / logo &#169; 2022 Stack Exchange Inc; user contributions licensed under <a href="https://stackoverflow.com/help/licensing">CC BY-SA</a>.                    <span id="svnrev">rev&nbsp;2022.7.26.42663</span>
                 </p>
             </div>
         </div>
@@ -320,11 +320,11 @@ Site design / logo &#169; 2022 Stack Exchange Inc; user contributions licensed u
     </noscript>
     <script>
         var settings = {
-            fkey: '56929a80cf5b3f5b23153dcb591bc27eabb5bbdc158e291b19bbc436104da558',
+            fkey: '011cc55db17cc493fa0fae2e0ea9e20912f4bdc8060fd4337c86c73fe27b6b57',
             contentPath: "https://cdn.sstatic.net/stackexchange"
         };
         $(function() {
-            StackExchange.init({"serverTime":1658779434});
+            StackExchange.init({"serverTime":1658841241});
             StackExchange.topbar.init();
         });
     </script>

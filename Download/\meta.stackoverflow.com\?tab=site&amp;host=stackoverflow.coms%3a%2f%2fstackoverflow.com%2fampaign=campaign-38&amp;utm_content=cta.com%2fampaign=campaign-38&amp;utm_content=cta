@@ -54,7 +54,7 @@
         StackExchange.realtime.subscribeToTopBarNotifications('552');
         });
     </script>
-    <script type="application/json" data-role="module-args" data-module-name="Shared/options.mod">{"options":{"locale":"en","serverTime":1658779408,"routeName":"Home/Index","stackAuthUrl":"https://stackauth.com","networkMetaHostname":"meta.stackexchange.com","site":{"name":"Meta Stack Overflow","description":"Q\u0026A about the site for professional and enthusiast programmers","isNoticesTabEnabled":true,"enableNewTagCreationWarning":false,"insertSpaceAfterNameTabCompletion":false,"id":552,"cookieDomain":".stackoverflow.com","isChildMeta":true,"parentUrl":"https://stackoverflow.com","isMetaSite":true,"negativeVoteScoreFloor":null,"enableSocialMediaInSharePopup":true,"protocol":"https"},"user":{"fkey":"56929a80cf5b3f5b23153dcb591bc27eabb5bbdc158e291b19bbc436104da558","tid":"ebcd18f7-a780-fa79-8206-f867e6426f40","rep":0,"isAnonymous":true,"isAnonymousNetworkWide":true},"realtime":{"newest":true,"active":true,"tagged":true,"staleDisconnectIntervalInHours":0},"events":{"postType":{"question":1},"postEditionSection":{"title":1,"body":2,"tags":3}},"svgIconPath":"https://meta.stackoverflow.com/Content/Img/stacks-icons","svgIconHash":"e07884e71a43"}}</script>
+    <script type="application/json" data-role="module-args" data-module-name="Shared/options.mod">{"options":{"locale":"en","serverTime":1658841214,"routeName":"Home/Index","stackAuthUrl":"https://stackauth.com","networkMetaHostname":"meta.stackexchange.com","site":{"name":"Meta Stack Overflow","description":"Q\u0026A about the site for professional and enthusiast programmers","isNoticesTabEnabled":true,"enableNewTagCreationWarning":false,"insertSpaceAfterNameTabCompletion":false,"id":552,"cookieDomain":".stackoverflow.com","isChildMeta":true,"parentUrl":"https://stackoverflow.com","isMetaSite":true,"negativeVoteScoreFloor":null,"enableSocialMediaInSharePopup":true,"protocol":"https"},"user":{"fkey":"011cc55db17cc493fa0fae2e0ea9e20912f4bdc8060fd4337c86c73fe27b6b57","tid":"98af10cf-6a81-f660-937d-ca29ca2603df","rep":0,"isAnonymous":true,"isAnonymousNetworkWide":true},"realtime":{"newest":true,"active":true,"tagged":true,"staleDisconnectIntervalInHours":0},"events":{"postType":{"question":1},"postEditionSection":{"title":1,"body":2,"tags":3}},"svgIconPath":"https://meta.stackoverflow.com/Content/Img/stacks-icons","svgIconHash":"e07884e71a43"}}</script>
 <script type="application/json" data-role="module-args" data-module-name="Shared/settings.mod">{"settings":{"userMessaging":{},"tags":{},"subscriptions":{"defaultBasicMaxTrueUpSeats":250,"defaultFreemiumMaxTrueUpSeats":50,"defaultMaxTrueUpSeats":1000},"snippets":{"renderDomain":"stacksnippets.net","snippetsEnabled":true},"site":{"allowImageUploads":true,"enableImgurHttps":true,"enableUserHovercards":true,"forceHttpsImages":true,"styleCode":true},"questions":{"enableQuestionTitleLengthLiveWarning":true,"maxTitleSize":150,"questionTitleLengthStartLiveWarningChars":50},"intercom":{"appId":"inf0secd","hostBaseUrl":"https://stacksnippets.net"},"paths":{},"monitoring":{"clientTimingsAbsoluteTimeout":30000,"clientTimingsDebounceTimeout":1000},"mentions":{"maxNumUsersInDropdown":50},"markdown":{"enableTables":true},"legal":{"oneTrustConfigId":"c3d9f1e3-55f3-4eba-b268-46cee4c6789c"},"flags":{"allowRetractingCommentFlags":true,"allowRetractingFlags":true},"elections":{"opaVoteResultsBaseUrl":"https://www.opavote.com/results/"},"comments":{},"accounts":{"currentPasswordRequiredForChangingStackIdPassword":true}}}</script>
 <script>StackExchange.init();</script>
 
@@ -619,20 +619,224 @@ your communities            </h3>
                         
 
 
-<div id="question-summary-419427" class="s-post-summary js-post-summary" data-post-id="419427" data-post-type-id="1">
+<div id="question-summary-419449" class="s-post-summary js-post-summary" data-post-id="419449" data-post-type-id="1">
     <div class="s-post-summary--stats js-post-summary-stats">
         
 
-                <div class="s-post-summary--stats-item s-post-summary--stats-item__emphasized" title="Score of 12">
-            <span class="s-post-summary--stats-item-number">12</span>
+                <div class="s-post-summary--stats-item s-post-summary--stats-item__emphasized" title="Score of -5">
+            <span class="s-post-summary--stats-item-number">-5</span>
+            <span class="s-post-summary--stats-item-unit">votes</span>
+        </div>
+        <div class="s-post-summary--stats-item  " title="0 answers">
+            <span class="s-post-summary--stats-item-number">0</span>
+            <span class="s-post-summary--stats-item-unit">answers</span>
+        </div>
+        <div class="s-post-summary--stats-item " title="24 views">
+            <span class="s-post-summary--stats-item-number">24</span>
+            <span class="s-post-summary--stats-item-unit">views</span>
+        </div>
+
+
+
+    </div>
+    <div class="s-post-summary--content">
+
+        <h3 class="s-post-summary--content-title">
+
+            
+
+            <a href="/questions/419449/why-are-there-so-many-new-contributor-with-reputation-score-of-1-lately-on-stack" class="s-link">why are there so many new contributor with reputation score of 1 lately on Stack Overflow</a>
+        </h3>
+        <div class="s-post-summary--meta">
+            <div class="s-post-summary--meta-tags tags js-tags t-discussion t-reputation t-new-contributor-indicator">
+
+<a href="/questions/tagged/discussion" class="post-tag required-tag flex--item mt0 js-tagname-discussion" title="show questions tagged &#39;discussion&#39;" rel="tag">discussion</a> <a href="/questions/tagged/reputation" class="post-tag flex--item mt0 js-tagname-reputation" title="show questions tagged &#39;reputation&#39;" rel="tag">reputation</a> <a href="/questions/tagged/new-contributor-indicator" class="post-tag flex--item mt0 js-tagname-new-contributor-indicator" title="show questions tagged &#39;new-contributor-indicator&#39;" rel="tag">new-contributor-indicator</a> 
+            </div>
+            
+
+
+<div class="s-user-card s-user-card__minimal">
+
+            <a href="/users/1379184/bertc" class="s-avatar s-avatar__16 s-user-card--avatar">        <div class="gravatar-wrapper-16 js-user-hover-target" data-user-id="1379184">
+            <img src="https://i.stack.imgur.com/vmho7.jpg?s=32&amp;g=1" alt="user avatar" width="16" , height="16" class="s-avatar--image" />
+        </div>
+</a>
+
+    <div class="s-user-card--info">
+            <div class="s-user-card--link d-flex gs4" >
+                <a href="/users/1379184/bertc" class="flex--item">BertC</a>
+            </div>
+        
+                <ul class="s-user-card--awards">
+            <li class="s-user-card--rep"><span class="todo-no-class-here" title="reputation score " dir="ltr">1,430</span></li>
+
+        </ul>
+
+        
+    </div>
+
+        <time class="s-user-card--time">
+                <a href="/questions/419449/why-are-there-so-many-new-contributor-with-reputation-score-of-1-lately-on-stack" class="s-link s-link__muted">asked <span title="2022-07-26 12:58:15Z" class="relativetime">15 mins ago</span></a>
+            </time>
+</div>
+
+        </div>
+    </div>
+</div>
+
+                        
+
+
+<div id="question-summary-419417" class="s-post-summary js-post-summary" data-post-id="419417" data-post-type-id="1">
+    <div class="s-post-summary--stats js-post-summary-stats">
+        
+
+                <div class="s-post-summary--stats-item s-post-summary--stats-item__emphasized" title="Score of -3">
+            <span class="s-post-summary--stats-item-number">-3</span>
+            <span class="s-post-summary--stats-item-unit">votes</span>
+        </div>
+        <div class="s-post-summary--stats-item  " title="0 answers">
+            <span class="s-post-summary--stats-item-number">0</span>
+            <span class="s-post-summary--stats-item-unit">answers</span>
+        </div>
+        <div class="s-post-summary--stats-item " title="379 views">
+            <span class="s-post-summary--stats-item-number">379</span>
+            <span class="s-post-summary--stats-item-unit">views</span>
+        </div>
+
+
+
+    </div>
+    <div class="s-post-summary--content">
+
+        <h3 class="s-post-summary--content-title">
+
+            
+
+            <a href="/questions/419417/why-did-a-moderator-delete-this-question" class="s-link">Why did a moderator delete this question? [duplicate]</a>
+        </h3>
+        <div class="s-post-summary--meta">
+            <div class="s-post-summary--meta-tags tags js-tags t-discussion t-specific-question t-deleted-questions t-moderators">
+
+<a href="/questions/tagged/discussion" class="post-tag required-tag flex--item mt0 js-tagname-discussion" title="show questions tagged &#39;discussion&#39;" rel="tag">discussion</a> <a href="/questions/tagged/specific-question" class="post-tag flex--item mt0 js-tagname-specific-question" title="show questions tagged &#39;specific-question&#39;" rel="tag">specific-question</a> <a href="/questions/tagged/deleted-questions" class="post-tag flex--item mt0 js-tagname-deleted-questions" title="show questions tagged &#39;deleted-questions&#39;" rel="tag">deleted-questions</a> <a href="/questions/tagged/moderators" class="post-tag flex--item mt0 js-tagname-moderators" title="show questions tagged &#39;moderators&#39;" rel="tag">moderators</a> 
+            </div>
+            
+
+
+<div class="s-user-card s-user-card__minimal">
+
+            <a href="/users/4032703/ejoshuas-stand-with-ukraine" class="s-avatar s-avatar__16 s-user-card--avatar">        <div class="gravatar-wrapper-16 js-user-hover-target" data-user-id="4032703">
+            <img src="https://i.stack.imgur.com/oxjij.png?s=32&amp;g=1" alt="user avatar" width="16" , height="16" class="s-avatar--image" />
+        </div>
+</a>
+
+    <div class="s-user-card--info">
+            <div class="s-user-card--link d-flex gs4" >
+                <a href="/users/4032703/ejoshuas-stand-with-ukraine" class="flex--item">EJoshuaS - Stand with Ukraine</a>
+            </div>
+        
+                <ul class="s-user-card--awards">
+            <li class="s-user-card--rep"><span class="todo-no-class-here" title="reputation score 11,192" dir="ltr">11.2k</span></li>
+
+        </ul>
+
+        
+    </div>
+
+        <time class="s-user-card--time">
+                <a href="/questions/419417/why-did-a-moderator-delete-this-question" class="s-link s-link__muted">modified <span title="2022-07-26 12:18:16Z" class="relativetime">55 mins ago</span></a>
+            </time>
+</div>
+
+        </div>
+    </div>
+</div>
+
+                        
+
+
+<div id="question-summary-419445" class="s-post-summary js-post-summary" data-post-id="419445" data-post-type-id="1">
+    <div class="s-post-summary--stats js-post-summary-stats">
+        
+
+                <div class="s-post-summary--stats-item s-post-summary--stats-item__emphasized" title="Score of 6">
+            <span class="s-post-summary--stats-item-number">6</span>
             <span class="s-post-summary--stats-item-unit">votes</span>
         </div>
         <div class="s-post-summary--stats-item has-answers " title="1 answer">
             <span class="s-post-summary--stats-item-number">1</span>
             <span class="s-post-summary--stats-item-unit">answer</span>
         </div>
-        <div class="s-post-summary--stats-item " title="281 views">
-            <span class="s-post-summary--stats-item-number">281</span>
+        <div class="s-post-summary--stats-item " title="109 views">
+            <span class="s-post-summary--stats-item-number">109</span>
+            <span class="s-post-summary--stats-item-unit">views</span>
+        </div>
+
+
+
+    </div>
+    <div class="s-post-summary--content">
+
+        <h3 class="s-post-summary--content-title">
+
+            
+
+            <a href="/questions/419445/how-should-i-share-codeideas-that-can-help-someone-get-closer-to-finding-an-ans" class="s-link">How should I share code+ideas that can help someone get closer to finding an answer but doesn&#39;t entirely answer their question?</a>
+        </h3>
+        <div class="s-post-summary--meta">
+            <div class="s-post-summary--meta-tags tags js-tags t-discussion t-answers t-not-an-answer">
+
+<a href="/questions/tagged/discussion" class="post-tag required-tag flex--item mt0 js-tagname-discussion" title="show questions tagged &#39;discussion&#39;" rel="tag">discussion</a> <a href="/questions/tagged/answers" class="post-tag flex--item mt0 js-tagname-answers" title="show questions tagged &#39;answers&#39;" rel="tag">answers</a> <a href="/questions/tagged/not-an-answer" class="post-tag flex--item mt0 js-tagname-not-an-answer" title="show questions tagged &#39;not-an-answer&#39;" rel="tag">not-an-answer</a> 
+            </div>
+            
+
+
+<div class="s-user-card s-user-card__minimal">
+
+            <a href="/users/6278923/mcky" class="s-avatar s-avatar__16 s-user-card--avatar">        <div class="gravatar-wrapper-16 js-user-hover-target" data-user-id="6278923">
+            <img src="https://www.gravatar.com/avatar/e25da90bc056287ddeb2b6a21928acc2?s=32&amp;d=identicon&amp;r=PG&amp;f=1" alt="user avatar" width="16" , height="16" class="s-avatar--image" />
+        </div>
+</a>
+
+    <div class="s-user-card--info">
+            <div class="s-user-card--link d-flex gs4" >
+                <a href="/users/6278923/mcky" class="flex--item">mcky</a>
+            </div>
+        
+                <ul class="s-user-card--awards">
+            <li class="s-user-card--rep"><span class="todo-no-class-here" title="reputation score " dir="ltr">808</span></li>
+
+        </ul>
+
+        
+    </div>
+
+        <time class="s-user-card--time">
+                <a href="/questions/419445/how-should-i-share-codeideas-that-can-help-someone-get-closer-to-finding-an-ans?lastactivity" class="s-link s-link__muted">answered <span title="2022-07-26 09:35:05Z" class="relativetime">3 hours ago</span></a>
+            </time>
+</div>
+
+        </div>
+    </div>
+</div>
+
+                        
+
+
+<div id="question-summary-419427" class="s-post-summary js-post-summary" data-post-id="419427" data-post-type-id="1">
+    <div class="s-post-summary--stats js-post-summary-stats">
+        
+
+                <div class="s-post-summary--stats-item s-post-summary--stats-item__emphasized" title="Score of 33">
+            <span class="s-post-summary--stats-item-number">33</span>
+            <span class="s-post-summary--stats-item-unit">votes</span>
+        </div>
+        <div class="s-post-summary--stats-item has-answers " title="4 answers">
+            <span class="s-post-summary--stats-item-number">4</span>
+            <span class="s-post-summary--stats-item-unit">answers</span>
+        </div>
+        <div class="s-post-summary--stats-item " title="610 views">
+            <span class="s-post-summary--stats-item-number">610</span>
             <span class="s-post-summary--stats-item-unit">views</span>
         </div>
 
@@ -657,18 +861,18 @@ your communities            </h3>
 
 <div class="s-user-card s-user-card__minimal">
 
-            <a href="/users/10871900/dan1st" class="s-avatar s-avatar__16 s-user-card--avatar">        <div class="gravatar-wrapper-16 js-user-hover-target" data-user-id="10871900">
-            <img src="https://lh3.googleusercontent.com/-noQwojQppnY/AAAAAAAAAAI/AAAAAAAAACs/59RU8UyHFSk/photo.jpg?sz=32" alt="user avatar" width="16" , height="16" class="s-avatar--image" />
+            <a href="/users/4621513/mkrieger1" class="s-avatar s-avatar__16 s-user-card--avatar">        <div class="gravatar-wrapper-16 js-user-hover-target" data-user-id="4621513">
+            <img src="https://i.stack.imgur.com/uCfJK.png?s=32&amp;g=1" alt="user avatar" width="16" , height="16" class="s-avatar--image" />
         </div>
 </a>
 
     <div class="s-user-card--info">
             <div class="s-user-card--link d-flex gs4" >
-                <a href="/users/10871900/dan1st" class="flex--item">dan1st</a>
+                <a href="/users/4621513/mkrieger1" class="flex--item">mkrieger1</a>
             </div>
         
                 <ul class="s-user-card--awards">
-            <li class="s-user-card--rep"><span class="todo-no-class-here" title="reputation score 10,035" dir="ltr">10k</span></li>
+            <li class="s-user-card--rep"><span class="todo-no-class-here" title="reputation score 15,071" dir="ltr">15.1k</span></li>
 
         </ul>
 
@@ -676,7 +880,143 @@ your communities            </h3>
     </div>
 
         <time class="s-user-card--time">
-                <a href="/questions/419427/tips-for-searching-effectively-on-stack-overflow-novice-developer-training?lastactivity" class="s-link s-link__muted">modified <span title="2022-07-25 18:53:42Z" class="relativetime">1 hour ago</span></a>
+                <a href="/questions/419427/tips-for-searching-effectively-on-stack-overflow-novice-developer-training?lastactivity" class="s-link s-link__muted">answered <span title="2022-07-26 09:17:54Z" class="relativetime">3 hours ago</span></a>
+            </time>
+</div>
+
+        </div>
+    </div>
+</div>
+
+                        
+
+
+<div id="question-summary-417320" class="s-post-summary js-post-summary" data-post-id="417320" data-post-type-id="1">
+    <div class="s-post-summary--stats js-post-summary-stats">
+        
+
+                <div class="s-post-summary--stats-item s-post-summary--stats-item__emphasized" title="Score of 77">
+            <span class="s-post-summary--stats-item-number">77</span>
+            <span class="s-post-summary--stats-item-unit">votes</span>
+        </div>
+        <div class="s-post-summary--stats-item has-answers " title="2 answers">
+            <span class="s-post-summary--stats-item-number">2</span>
+            <span class="s-post-summary--stats-item-unit">answers</span>
+        </div>
+        <div class="s-post-summary--stats-item is-warm" title="4769 views">
+            <span class="s-post-summary--stats-item-number">5k</span>
+            <span class="s-post-summary--stats-item-unit">views</span>
+        </div>
+
+
+
+    </div>
+    <div class="s-post-summary--content">
+
+        <h3 class="s-post-summary--content-title">
+
+            
+
+            <a href="/questions/417320/the-options-tag-has-been-burninated" class="s-link">The [options] tag has been burninated</a>
+        </h3>
+        <div class="s-post-summary--meta">
+            <div class="s-post-summary--meta-tags tags js-tags t-discussion t-status-completed t-burninate-request">
+
+<a href="/questions/tagged/discussion" class="post-tag required-tag flex--item mt0 js-tagname-discussion" title="show questions tagged &#39;discussion&#39;" rel="tag">discussion</a> <a href="/questions/tagged/status-completed" class="post-tag moderator-tag flex--item mt0 js-tagname-status-completed" title="show questions tagged &#39;status-completed&#39;" rel="tag">status-completed</a> <a href="/questions/tagged/burninate-request" class="post-tag flex--item mt0 js-tagname-burninate-request" title="show questions tagged &#39;burninate-request&#39;" rel="tag">burninate-request</a> 
+            </div>
+            
+
+
+<div class="s-user-card s-user-card__minimal">
+
+            <a href="/users/6296561/zoe-stands-with-ukraine" class="s-avatar s-avatar__16 s-user-card--avatar">        <div class="gravatar-wrapper-16 js-user-hover-target" data-user-id="6296561">
+            <img src="https://i.stack.imgur.com/zgIdn.png?s=32&amp;g=1" alt="user avatar" width="16" , height="16" class="s-avatar--image" />
+        </div>
+</a>
+
+    <div class="s-user-card--info">
+            <div class="s-user-card--link d-flex gs4" >
+                <a href="/users/6296561/zoe-stands-with-ukraine" class="flex--item">Zoe stands with Ukraine</a><span class="flex--item s-badge ml2 s-badge__moderator s-badge__xs " title="Moderator">Mod</span>
+            </div>
+        
+                <ul class="s-user-card--awards">
+            <li class="s-user-card--rep"><span class="todo-no-class-here" title="reputation score 25,475" dir="ltr">25.5k</span></li>
+
+        </ul>
+
+        
+    </div>
+
+        <time class="s-user-card--time">
+                <a href="/questions/417320/the-options-tag-has-been-burninated?lastactivity" class="s-link s-link__muted">modified <span title="2022-07-26 04:43:08Z" class="relativetime">8 hours ago</span></a>
+            </time>
+</div>
+
+        </div>
+    </div>
+</div>
+
+                        
+
+
+<div id="question-summary-419441" class="s-post-summary js-post-summary" data-post-id="419441" data-post-type-id="1">
+    <div class="s-post-summary--stats js-post-summary-stats">
+        
+
+                <div class="s-post-summary--stats-item s-post-summary--stats-item__emphasized" title="Score of 15">
+            <span class="s-post-summary--stats-item-number">15</span>
+            <span class="s-post-summary--stats-item-unit">votes</span>
+        </div>
+        <div class="s-post-summary--stats-item  " title="0 answers">
+            <span class="s-post-summary--stats-item-number">0</span>
+            <span class="s-post-summary--stats-item-unit">answers</span>
+        </div>
+        <div class="s-post-summary--stats-item " title="143 views">
+            <span class="s-post-summary--stats-item-number">143</span>
+            <span class="s-post-summary--stats-item-unit">views</span>
+        </div>
+
+
+
+    </div>
+    <div class="s-post-summary--content">
+
+        <h3 class="s-post-summary--content-title">
+
+            
+
+            <a href="/questions/419441/time-to-burninate-the-enigmatic-variations" class="s-link">Time to burninate the enigmatic [variations]?</a>
+        </h3>
+        <div class="s-post-summary--meta">
+            <div class="s-post-summary--meta-tags tags js-tags t-discussion t-tags t-burninate-request">
+
+<a href="/questions/tagged/discussion" class="post-tag required-tag flex--item mt0 js-tagname-discussion" title="show questions tagged &#39;discussion&#39;" rel="tag">discussion</a> <a href="/questions/tagged/tags" class="post-tag flex--item mt0 js-tagname-tags" title="show questions tagged &#39;tags&#39;" rel="tag">tags</a> <a href="/questions/tagged/burninate-request" class="post-tag flex--item mt0 js-tagname-burninate-request" title="show questions tagged &#39;burninate-request&#39;" rel="tag">burninate-request</a> 
+            </div>
+            
+
+
+<div class="s-user-card s-user-card__minimal">
+
+            <a href="/users/15497888/henry-ecker" class="s-avatar s-avatar__16 s-user-card--avatar">        <div class="gravatar-wrapper-16 js-user-hover-target" data-user-id="15497888">
+            <img src="https://i.stack.imgur.com/VOU20.png?s=32&amp;g=1" alt="user avatar" width="16" , height="16" class="s-avatar--image" />
+        </div>
+</a>
+
+    <div class="s-user-card--info">
+            <div class="s-user-card--link d-flex gs4" >
+                <a href="/users/15497888/henry-ecker" class="flex--item">Henry Ecker</a>
+            </div>
+        
+                <ul class="s-user-card--awards">
+            <li class="s-user-card--rep"><span class="todo-no-class-here" title="reputation score 32,176" dir="ltr">32.2k</span></li>
+
+        </ul>
+
+        
+    </div>
+
+        <time class="s-user-card--time">
+                <a href="/questions/419441/time-to-burninate-the-enigmatic-variations" class="s-link s-link__muted">modified <span title="2022-07-26 03:06:19Z" class="relativetime">10 hours ago</span></a>
             </time>
 </div>
 
@@ -691,15 +1031,15 @@ your communities            </h3>
     <div class="s-post-summary--stats js-post-summary-stats">
         
 
-                <div class="s-post-summary--stats-item s-post-summary--stats-item__emphasized" title="Score of 20">
-            <span class="s-post-summary--stats-item-number">20</span>
+                <div class="s-post-summary--stats-item s-post-summary--stats-item__emphasized" title="Score of 21">
+            <span class="s-post-summary--stats-item-number">21</span>
             <span class="s-post-summary--stats-item-unit">votes</span>
         </div>
         <div class="s-post-summary--stats-item has-answers has-accepted-answer" title="one of the answers was accepted as the correct answer">
 <svg aria-hidden="true" class="svg-icon iconCheckmarkSm" width="14" height="14" viewBox="0 0 14 14"><path d="M13 3.41 11.59 2 5 8.59 2.41 6 1 7.41l4 4 8-8Z"/></svg>            <span class="s-post-summary--stats-item-number">4</span>
             <span class="s-post-summary--stats-item-unit">answers</span>
         </div>
-        <div class="s-post-summary--stats-item is-warm" title="2684 views">
+        <div class="s-post-summary--stats-item is-warm" title="2706 views">
             <span class="s-post-summary--stats-item-number">3k</span>
             <span class="s-post-summary--stats-item-unit">views</span>
         </div>
@@ -744,7 +1084,7 @@ your communities            </h3>
     </div>
 
         <time class="s-user-card--time">
-                <a href="/questions/316413/count-number-of-questions-answers-and-comments-on-a-tag?lastactivity" class="s-link s-link__muted">answered <span title="2022-07-25 18:38:32Z" class="relativetime">1 hour ago</span></a>
+                <a href="/questions/316413/count-number-of-questions-answers-and-comments-on-a-tag?lastactivity" class="s-link s-link__muted">answered <span title="2022-07-25 18:38:32Z" class="relativetime">18 hours ago</span></a>
             </time>
 </div>
 
@@ -759,16 +1099,16 @@ your communities            </h3>
     <div class="s-post-summary--stats js-post-summary-stats">
         
 
-                <div class="s-post-summary--stats-item s-post-summary--stats-item__emphasized" title="Score of 17">
-            <span class="s-post-summary--stats-item-number">17</span>
+                <div class="s-post-summary--stats-item s-post-summary--stats-item__emphasized" title="Score of 21">
+            <span class="s-post-summary--stats-item-number">21</span>
             <span class="s-post-summary--stats-item-unit">votes</span>
         </div>
         <div class="s-post-summary--stats-item  " title="0 answers">
             <span class="s-post-summary--stats-item-number">0</span>
             <span class="s-post-summary--stats-item-unit">answers</span>
         </div>
-        <div class="s-post-summary--stats-item " title="117 views">
-            <span class="s-post-summary--stats-item-number">117</span>
+        <div class="s-post-summary--stats-item " title="178 views">
+            <span class="s-post-summary--stats-item-number">178</span>
             <span class="s-post-summary--stats-item-unit">views</span>
         </div>
 
@@ -812,7 +1152,7 @@ your communities            </h3>
     </div>
 
         <time class="s-user-card--time">
-                <a href="/questions/419437/questions-tagged-x-shows-questions-without-tag-x" class="s-link s-link__muted">modified <span title="2022-07-25 17:41:38Z" class="relativetime">2 hours ago</span></a>
+                <a href="/questions/419437/questions-tagged-x-shows-questions-without-tag-x" class="s-link s-link__muted">modified <span title="2022-07-25 17:41:38Z" class="relativetime">19 hours ago</span></a>
             </time>
 </div>
 
@@ -827,16 +1167,16 @@ your communities            </h3>
     <div class="s-post-summary--stats js-post-summary-stats">
         
 
-                <div class="s-post-summary--stats-item s-post-summary--stats-item__emphasized" title="Score of 0">
-            <span class="s-post-summary--stats-item-number">0</span>
-            <span class="s-post-summary--stats-item-unit">votes</span>
+                <div class="s-post-summary--stats-item s-post-summary--stats-item__emphasized" title="Score of 1">
+            <span class="s-post-summary--stats-item-number">1</span>
+            <span class="s-post-summary--stats-item-unit">vote</span>
         </div>
         <div class="s-post-summary--stats-item  " title="0 answers">
             <span class="s-post-summary--stats-item-number">0</span>
             <span class="s-post-summary--stats-item-unit">answers</span>
         </div>
-        <div class="s-post-summary--stats-item " title="43 views">
-            <span class="s-post-summary--stats-item-number">43</span>
+        <div class="s-post-summary--stats-item " title="66 views">
+            <span class="s-post-summary--stats-item-number">66</span>
             <span class="s-post-summary--stats-item-unit">views</span>
         </div>
 
@@ -880,7 +1220,7 @@ your communities            </h3>
     </div>
 
         <time class="s-user-card--time">
-                <a href="/questions/419436/did-cosmos-just-get-added-as-an-azure-cosmosdb-synomym" class="s-link s-link__muted">modified <span title="2022-07-25 16:02:19Z" class="relativetime">4 hours ago</span></a>
+                <a href="/questions/419436/did-cosmos-just-get-added-as-an-azure-cosmosdb-synomym" class="s-link s-link__muted">modified <span title="2022-07-25 16:02:19Z" class="relativetime">21 hours ago</span></a>
             </time>
 </div>
 
@@ -895,16 +1235,16 @@ your communities            </h3>
     <div class="s-post-summary--stats js-post-summary-stats">
         
 
-                <div class="s-post-summary--stats-item s-post-summary--stats-item__emphasized" title="Score of -4">
-            <span class="s-post-summary--stats-item-number">-4</span>
+                <div class="s-post-summary--stats-item s-post-summary--stats-item__emphasized" title="Score of -3">
+            <span class="s-post-summary--stats-item-number">-3</span>
             <span class="s-post-summary--stats-item-unit">votes</span>
         </div>
         <div class="s-post-summary--stats-item  " title="0 answers">
             <span class="s-post-summary--stats-item-number">0</span>
             <span class="s-post-summary--stats-item-unit">answers</span>
         </div>
-        <div class="s-post-summary--stats-item " title="45 views">
-            <span class="s-post-summary--stats-item-number">45</span>
+        <div class="s-post-summary--stats-item " title="53 views">
+            <span class="s-post-summary--stats-item-number">53</span>
             <span class="s-post-summary--stats-item-unit">views</span>
         </div>
 
@@ -940,7 +1280,7 @@ your communities            </h3>
             </div>
         
                 <ul class="s-user-card--awards">
-            <li class="s-user-card--rep"><span class="todo-no-class-here" title="reputation score 27,335" dir="ltr">27.3k</span></li>
+            <li class="s-user-card--rep"><span class="todo-no-class-here" title="reputation score 27,343" dir="ltr">27.3k</span></li>
 
         </ul>
 
@@ -948,7 +1288,7 @@ your communities            </h3>
     </div>
 
         <time class="s-user-card--time">
-                <a href="/questions/419433/how-to-use-stack-exchange-data-explorer" class="s-link s-link__muted">modified <span title="2022-07-25 14:48:59Z" class="relativetime">5 hours ago</span></a>
+                <a href="/questions/419433/how-to-use-stack-exchange-data-explorer" class="s-link s-link__muted">modified <span title="2022-07-25 14:48:59Z" class="relativetime">22 hours ago</span></a>
             </time>
 </div>
 
@@ -963,16 +1303,16 @@ your communities            </h3>
     <div class="s-post-summary--stats js-post-summary-stats">
         
 
-                <div class="s-post-summary--stats-item s-post-summary--stats-item__emphasized" title="Score of 0">
-            <span class="s-post-summary--stats-item-number">0</span>
-            <span class="s-post-summary--stats-item-unit">votes</span>
+                <div class="s-post-summary--stats-item s-post-summary--stats-item__emphasized" title="Score of 1">
+            <span class="s-post-summary--stats-item-number">1</span>
+            <span class="s-post-summary--stats-item-unit">vote</span>
         </div>
         <div class="s-post-summary--stats-item has-answers " title="1 answer">
             <span class="s-post-summary--stats-item-number">1</span>
             <span class="s-post-summary--stats-item-unit">answer</span>
         </div>
-        <div class="s-post-summary--stats-item " title="65 views">
-            <span class="s-post-summary--stats-item-number">65</span>
+        <div class="s-post-summary--stats-item " title="92 views">
+            <span class="s-post-summary--stats-item-number">92</span>
             <span class="s-post-summary--stats-item-unit">views</span>
         </div>
 
@@ -1016,7 +1356,7 @@ your communities            </h3>
     </div>
 
         <time class="s-user-card--time">
-                <a href="/questions/419432/should-the-approve-tag-wiki-edits-privilege-be-granted-at-fewer-than-5-000-rep?lastactivity" class="s-link s-link__muted">modified <span title="2022-07-25 14:48:58Z" class="relativetime">5 hours ago</span></a>
+                <a href="/questions/419432/should-the-approve-tag-wiki-edits-privilege-be-granted-at-fewer-than-5-000-rep?lastactivity" class="s-link s-link__muted">modified <span title="2022-07-25 14:48:58Z" class="relativetime">22 hours ago</span></a>
             </time>
 </div>
 
@@ -1039,8 +1379,8 @@ your communities            </h3>
 <svg aria-hidden="true" class="svg-icon iconCheckmarkSm" width="14" height="14" viewBox="0 0 14 14"><path d="M13 3.41 11.59 2 5 8.59 2.41 6 1 7.41l4 4 8-8Z"/></svg>            <span class="s-post-summary--stats-item-number">1</span>
             <span class="s-post-summary--stats-item-unit">answer</span>
         </div>
-        <div class="s-post-summary--stats-item " title="271 views">
-            <span class="s-post-summary--stats-item-number">271</span>
+        <div class="s-post-summary--stats-item " title="276 views">
+            <span class="s-post-summary--stats-item-number">276</span>
             <span class="s-post-summary--stats-item-unit">views</span>
         </div>
 
@@ -1076,7 +1416,7 @@ your communities            </h3>
             </div>
         
                 <ul class="s-user-card--awards">
-            <li class="s-user-card--rep"><span class="todo-no-class-here" title="reputation score 29,933" dir="ltr">29.9k</span></li>
+            <li class="s-user-card--rep"><span class="todo-no-class-here" title="reputation score 29,943" dir="ltr">29.9k</span></li>
 
         </ul>
 
@@ -1084,7 +1424,7 @@ your communities            </h3>
     </div>
 
         <time class="s-user-card--time">
-                <a href="/questions/419419/what-should-we-do-with-this-keyword?lastactivity" class="s-link s-link__muted">modified <span title="2022-07-25 14:03:41Z" class="relativetime">5 hours ago</span></a>
+                <a href="/questions/419419/what-should-we-do-with-this-keyword?lastactivity" class="s-link s-link__muted">modified <span title="2022-07-25 14:03:41Z" class="relativetime">23 hours ago</span></a>
             </time>
 </div>
 
@@ -1107,8 +1447,8 @@ your communities            </h3>
             <span class="s-post-summary--stats-item-number">3</span>
             <span class="s-post-summary--stats-item-unit">answers</span>
         </div>
-        <div class="s-post-summary--stats-item " title="605 views">
-            <span class="s-post-summary--stats-item-number">605</span>
+        <div class="s-post-summary--stats-item " title="623 views">
+            <span class="s-post-summary--stats-item-number">623</span>
             <span class="s-post-summary--stats-item-unit">views</span>
         </div>
 
@@ -1144,7 +1484,7 @@ your communities            </h3>
             </div>
         
                 <ul class="s-user-card--awards">
-            <li class="s-user-card--rep"><span class="todo-no-class-here" title="reputation score 148,439" dir="ltr">148k</span></li>
+            <li class="s-user-card--rep"><span class="todo-no-class-here" title="reputation score 148,487" dir="ltr">148k</span></li>
 
         </ul>
 
@@ -1152,7 +1492,7 @@ your communities            </h3>
     </div>
 
         <time class="s-user-card--time">
-                <a href="/questions/419392/what-is-the-best-practice-for-following-up-after-your-question-has-been-answered?lastactivity" class="s-link s-link__muted">answered <span title="2022-07-25 10:59:00Z" class="relativetime">9 hours ago</span></a>
+                <a href="/questions/419392/what-is-the-best-practice-for-following-up-after-your-question-has-been-answered?lastactivity" class="s-link s-link__muted">answered <span title="2022-07-25 10:59:00Z" class="relativetime">yesterday</span></a>
             </time>
 </div>
 
@@ -1175,8 +1515,8 @@ your communities            </h3>
             <span class="s-post-summary--stats-item-number">0</span>
             <span class="s-post-summary--stats-item-unit">answers</span>
         </div>
-        <div class="s-post-summary--stats-item " title="409 views">
-            <span class="s-post-summary--stats-item-number">409</span>
+        <div class="s-post-summary--stats-item " title="410 views">
+            <span class="s-post-summary--stats-item-number">410</span>
             <span class="s-post-summary--stats-item-unit">views</span>
         </div>
 
@@ -1220,75 +1560,7 @@ your communities            </h3>
     </div>
 
         <time class="s-user-card--time">
-                <a href="/questions/419386/splitting-head-ache" class="s-link s-link__muted">modified <span title="2022-07-25 07:41:25Z" class="relativetime">12 hours ago</span></a>
-            </time>
-</div>
-
-        </div>
-    </div>
-</div>
-
-                        
-
-
-<div id="question-summary-419417" class="s-post-summary js-post-summary" data-post-id="419417" data-post-type-id="1">
-    <div class="s-post-summary--stats js-post-summary-stats">
-        
-
-                <div class="s-post-summary--stats-item s-post-summary--stats-item__emphasized" title="Score of -3">
-            <span class="s-post-summary--stats-item-number">-3</span>
-            <span class="s-post-summary--stats-item-unit">votes</span>
-        </div>
-        <div class="s-post-summary--stats-item  " title="0 answers">
-            <span class="s-post-summary--stats-item-number">0</span>
-            <span class="s-post-summary--stats-item-unit">answers</span>
-        </div>
-        <div class="s-post-summary--stats-item " title="356 views">
-            <span class="s-post-summary--stats-item-number">356</span>
-            <span class="s-post-summary--stats-item-unit">views</span>
-        </div>
-
-
-
-    </div>
-    <div class="s-post-summary--content">
-
-        <h3 class="s-post-summary--content-title">
-
-            
-
-            <a href="/questions/419417/why-did-a-moderator-delete-this-question" class="s-link">Why did a moderator delete this question? [duplicate]</a>
-        </h3>
-        <div class="s-post-summary--meta">
-            <div class="s-post-summary--meta-tags tags js-tags t-discussion t-specific-question t-deleted-questions t-moderators">
-
-<a href="/questions/tagged/discussion" class="post-tag required-tag flex--item mt0 js-tagname-discussion" title="show questions tagged &#39;discussion&#39;" rel="tag">discussion</a> <a href="/questions/tagged/specific-question" class="post-tag flex--item mt0 js-tagname-specific-question" title="show questions tagged &#39;specific-question&#39;" rel="tag">specific-question</a> <a href="/questions/tagged/deleted-questions" class="post-tag flex--item mt0 js-tagname-deleted-questions" title="show questions tagged &#39;deleted-questions&#39;" rel="tag">deleted-questions</a> <a href="/questions/tagged/moderators" class="post-tag flex--item mt0 js-tagname-moderators" title="show questions tagged &#39;moderators&#39;" rel="tag">moderators</a> 
-            </div>
-            
-
-
-<div class="s-user-card s-user-card__minimal">
-
-            <a href="/users/3750257/pppery" class="s-avatar s-avatar__16 s-user-card--avatar">        <div class="gravatar-wrapper-16 js-user-hover-target" data-user-id="3750257">
-            <img src="https://i.stack.imgur.com/KF8gx.png?s=32&amp;g=1" alt="user avatar" width="16" , height="16" class="s-avatar--image" />
-        </div>
-</a>
-
-    <div class="s-user-card--info">
-            <div class="s-user-card--link d-flex gs4" >
-                <a href="/users/3750257/pppery" class="flex--item">pppery</a>
-            </div>
-        
-                <ul class="s-user-card--awards">
-            <li class="s-user-card--rep"><span class="todo-no-class-here" title="reputation score " dir="ltr">3,595</span></li>
-
-        </ul>
-
-        
-    </div>
-
-        <time class="s-user-card--time">
-                <a href="/questions/419417/why-did-a-moderator-delete-this-question" class="s-link s-link__muted">modified <span title="2022-07-24 17:01:08Z" class="relativetime">yesterday</span></a>
+                <a href="/questions/419386/splitting-head-ache" class="s-link s-link__muted">modified <span title="2022-07-25 07:41:25Z" class="relativetime">yesterday</span></a>
             </time>
 </div>
 
@@ -1311,8 +1583,8 @@ your communities            </h3>
 <svg aria-hidden="true" class="svg-icon iconCheckmarkSm" width="14" height="14" viewBox="0 0 14 14"><path d="M13 3.41 11.59 2 5 8.59 2.41 6 1 7.41l4 4 8-8Z"/></svg>            <span class="s-post-summary--stats-item-number">1</span>
             <span class="s-post-summary--stats-item-unit">answer</span>
         </div>
-        <div class="s-post-summary--stats-item " title="145 views">
-            <span class="s-post-summary--stats-item-number">145</span>
+        <div class="s-post-summary--stats-item " title="152 views">
+            <span class="s-post-summary--stats-item-number">152</span>
             <span class="s-post-summary--stats-item-unit">views</span>
         </div>
 
@@ -1356,7 +1628,7 @@ your communities            </h3>
     </div>
 
         <time class="s-user-card--time">
-                <a href="/questions/419412/stack-overflow-vs-stack-exchange-accounts?lastactivity" class="s-link s-link__muted">answered <span title="2022-07-24 06:56:01Z" class="relativetime">yesterday</span></a>
+                <a href="/questions/419412/stack-overflow-vs-stack-exchange-accounts?lastactivity" class="s-link s-link__muted">answered <span title="2022-07-24 06:56:01Z" class="relativetime">2 days ago</span></a>
             </time>
 </div>
 
@@ -1379,8 +1651,8 @@ your communities            </h3>
             <span class="s-post-summary--stats-item-number">0</span>
             <span class="s-post-summary--stats-item-unit">answers</span>
         </div>
-        <div class="s-post-summary--stats-item " title="122 views">
-            <span class="s-post-summary--stats-item-number">122</span>
+        <div class="s-post-summary--stats-item " title="124 views">
+            <span class="s-post-summary--stats-item-number">124</span>
             <span class="s-post-summary--stats-item-unit">views</span>
         </div>
 
@@ -1424,7 +1696,7 @@ your communities            </h3>
     </div>
 
         <time class="s-user-card--time">
-                <a href="/questions/419399/the-timeline-should-show-who-tagged-a-collectives-answer-as-recommended" class="s-link s-link__muted">modified <span title="2022-07-24 00:19:12Z" class="relativetime">yesterday</span></a>
+                <a href="/questions/419399/the-timeline-should-show-who-tagged-a-collectives-answer-as-recommended" class="s-link s-link__muted">modified <span title="2022-07-24 00:19:12Z" class="relativetime">2 days ago</span></a>
             </time>
 </div>
 
@@ -1447,8 +1719,8 @@ your communities            </h3>
             <span class="s-post-summary--stats-item-number">1</span>
             <span class="s-post-summary--stats-item-unit">answer</span>
         </div>
-        <div class="s-post-summary--stats-item " title="105 views">
-            <span class="s-post-summary--stats-item-number">105</span>
+        <div class="s-post-summary--stats-item " title="111 views">
+            <span class="s-post-summary--stats-item-number">111</span>
             <span class="s-post-summary--stats-item-unit">views</span>
         </div>
 
@@ -1492,7 +1764,7 @@ your communities            </h3>
     </div>
 
         <time class="s-user-card--time">
-                <a href="/questions/419402/triage-queue-review-audit-failure-on-a-non-question?lastactivity" class="s-link s-link__muted">modified <span title="2022-07-24 00:16:32Z" class="relativetime">yesterday</span></a>
+                <a href="/questions/419402/triage-queue-review-audit-failure-on-a-non-question?lastactivity" class="s-link s-link__muted">modified <span title="2022-07-24 00:16:32Z" class="relativetime">2 days ago</span></a>
             </time>
 </div>
 
@@ -1515,7 +1787,7 @@ your communities            </h3>
 <svg aria-hidden="true" class="svg-icon iconCheckmarkSm" width="14" height="14" viewBox="0 0 14 14"><path d="M13 3.41 11.59 2 5 8.59 2.41 6 1 7.41l4 4 8-8Z"/></svg>            <span class="s-post-summary--stats-item-number">4</span>
             <span class="s-post-summary--stats-item-unit">answers</span>
         </div>
-        <div class="s-post-summary--stats-item is-warm" title="5085 views">
+        <div class="s-post-summary--stats-item is-warm" title="5095 views">
             <span class="s-post-summary--stats-item-number">5k</span>
             <span class="s-post-summary--stats-item-unit">views</span>
         </div>
@@ -1583,8 +1855,8 @@ your communities            </h3>
 <svg aria-hidden="true" class="svg-icon iconCheckmarkSm" width="14" height="14" viewBox="0 0 14 14"><path d="M13 3.41 11.59 2 5 8.59 2.41 6 1 7.41l4 4 8-8Z"/></svg>            <span class="s-post-summary--stats-item-number">1</span>
             <span class="s-post-summary--stats-item-unit">answer</span>
         </div>
-        <div class="s-post-summary--stats-item " title="59 views">
-            <span class="s-post-summary--stats-item-number">59</span>
+        <div class="s-post-summary--stats-item " title="60 views">
+            <span class="s-post-summary--stats-item-number">60</span>
             <span class="s-post-summary--stats-item-unit">views</span>
         </div>
 
@@ -1651,8 +1923,8 @@ your communities            </h3>
             <span class="s-post-summary--stats-item-number">1</span>
             <span class="s-post-summary--stats-item-unit">answer</span>
         </div>
-        <div class="s-post-summary--stats-item " title="150 views">
-            <span class="s-post-summary--stats-item-number">150</span>
+        <div class="s-post-summary--stats-item " title="155 views">
+            <span class="s-post-summary--stats-item-number">155</span>
             <span class="s-post-summary--stats-item-unit">views</span>
         </div>
 
@@ -1688,7 +1960,7 @@ your communities            </h3>
             </div>
         
                 <ul class="s-user-card--awards">
-            <li class="s-user-card--rep"><span class="todo-no-class-here" title="reputation score " dir="ltr">7,264</span></li>
+            <li class="s-user-card--rep"><span class="todo-no-class-here" title="reputation score " dir="ltr">7,304</span></li>
 
         </ul>
 
@@ -1719,8 +1991,8 @@ your communities            </h3>
 <svg aria-hidden="true" class="svg-icon iconCheckmarkSm" width="14" height="14" viewBox="0 0 14 14"><path d="M13 3.41 11.59 2 5 8.59 2.41 6 1 7.41l4 4 8-8Z"/></svg>            <span class="s-post-summary--stats-item-number">2</span>
             <span class="s-post-summary--stats-item-unit">answers</span>
         </div>
-        <div class="s-post-summary--stats-item " title="500 views">
-            <span class="s-post-summary--stats-item-number">500</span>
+        <div class="s-post-summary--stats-item " title="501 views">
+            <span class="s-post-summary--stats-item-number">501</span>
             <span class="s-post-summary--stats-item-unit">views</span>
         </div>
 
@@ -1756,7 +2028,7 @@ your communities            </h3>
             </div>
         
                 <ul class="s-user-card--awards">
-            <li class="s-user-card--rep"><span class="todo-no-class-here" title="reputation score 55,824" dir="ltr">55.8k</span></li>
+            <li class="s-user-card--rep"><span class="todo-no-class-here" title="reputation score 55,848" dir="ltr">55.8k</span></li>
 
         </ul>
 
@@ -1765,74 +2037,6 @@ your communities            </h3>
 
         <time class="s-user-card--time">
                 <a href="/questions/419119/should-we-merge-swiper-swiper-js-and-swiperjs?lastactivity" class="s-link s-link__muted">answered <span title="2022-07-23 17:18:10Z" class="relativetime">2 days ago</span></a>
-            </time>
-</div>
-
-        </div>
-    </div>
-</div>
-
-                        
-
-
-<div id="question-summary-417320" class="s-post-summary js-post-summary" data-post-id="417320" data-post-type-id="1">
-    <div class="s-post-summary--stats js-post-summary-stats">
-        
-
-                <div class="s-post-summary--stats-item s-post-summary--stats-item__emphasized" title="Score of 75">
-            <span class="s-post-summary--stats-item-number">75</span>
-            <span class="s-post-summary--stats-item-unit">votes</span>
-        </div>
-        <div class="s-post-summary--stats-item has-answers " title="2 answers">
-            <span class="s-post-summary--stats-item-number">2</span>
-            <span class="s-post-summary--stats-item-unit">answers</span>
-        </div>
-        <div class="s-post-summary--stats-item is-warm" title="4608 views">
-            <span class="s-post-summary--stats-item-number">5k</span>
-            <span class="s-post-summary--stats-item-unit">views</span>
-        </div>
-
-
-
-    </div>
-    <div class="s-post-summary--content">
-
-        <h3 class="s-post-summary--content-title">
-
-            
-
-            <a href="/questions/417320/the-options-tag-is-being-burninated" class="s-link">The [options] tag is being burninated</a>
-        </h3>
-        <div class="s-post-summary--meta">
-            <div class="s-post-summary--meta-tags tags js-tags t-discussion t-status-planned t-featured t-burninate-request">
-
-<a href="/questions/tagged/discussion" class="post-tag required-tag flex--item mt0 js-tagname-discussion" title="show questions tagged &#39;discussion&#39;" rel="tag">discussion</a> <a href="/questions/tagged/status-planned" class="post-tag moderator-tag flex--item mt0 js-tagname-status-planned" title="show questions tagged &#39;status-planned&#39;" rel="tag">status-planned</a> <a href="/questions/tagged/featured" class="post-tag moderator-tag flex--item mt0 js-tagname-featured" title="show questions tagged &#39;featured&#39;" rel="tag">featured</a> <a href="/questions/tagged/burninate-request" class="post-tag flex--item mt0 js-tagname-burninate-request" title="show questions tagged &#39;burninate-request&#39;" rel="tag">burninate-request</a> 
-            </div>
-            
-
-
-<div class="s-user-card s-user-card__minimal">
-
-            <a href="/users/1161484/daniel-widdis" class="s-avatar s-avatar__16 s-user-card--avatar">        <div class="gravatar-wrapper-16 js-user-hover-target" data-user-id="1161484">
-            <img src="https://i.stack.imgur.com/lg24v.png?s=32&amp;g=1" alt="user avatar" width="16" , height="16" class="s-avatar--image" />
-        </div>
-</a>
-
-    <div class="s-user-card--info">
-            <div class="s-user-card--link d-flex gs4" >
-                <a href="/users/1161484/daniel-widdis" class="flex--item">Daniel Widdis</a>
-            </div>
-        
-                <ul class="s-user-card--awards">
-            <li class="s-user-card--rep"><span class="todo-no-class-here" title="reputation score " dir="ltr">7,264</span></li>
-
-        </ul>
-
-        
-    </div>
-
-        <time class="s-user-card--time">
-                <a href="/questions/417320/the-options-tag-is-being-burninated?lastactivity" class="s-link s-link__muted">modified <span title="2022-07-23 17:03:20Z" class="relativetime">2 days ago</span></a>
             </time>
 </div>
 
@@ -1855,7 +2059,7 @@ your communities            </h3>
 <svg aria-hidden="true" class="svg-icon iconCheckmarkSm" width="14" height="14" viewBox="0 0 14 14"><path d="M13 3.41 11.59 2 5 8.59 2.41 6 1 7.41l4 4 8-8Z"/></svg>            <span class="s-post-summary--stats-item-number">5</span>
             <span class="s-post-summary--stats-item-unit">answers</span>
         </div>
-        <div class="s-post-summary--stats-item is-warm" title="1391 views">
+        <div class="s-post-summary--stats-item is-warm" title="1392 views">
             <span class="s-post-summary--stats-item-number">1k</span>
             <span class="s-post-summary--stats-item-unit">views</span>
         </div>
@@ -1900,7 +2104,7 @@ your communities            </h3>
     </div>
 
         <time class="s-user-card--time">
-                <a href="/questions/402154/what-should-we-do-with-the-sap-tag?lastactivity" class="s-link s-link__muted">modified <span title="2022-07-23 12:23:39Z" class="relativetime">2 days ago</span></a>
+                <a href="/questions/402154/what-should-we-do-with-the-sap-tag?lastactivity" class="s-link s-link__muted">modified <span title="2022-07-23 12:23:39Z" class="relativetime">Jul 23 at 12:23</span></a>
             </time>
 </div>
 
@@ -1915,16 +2119,16 @@ your communities            </h3>
     <div class="s-post-summary--stats js-post-summary-stats">
         
 
-                <div class="s-post-summary--stats-item s-post-summary--stats-item__emphasized" title="Score of 5">
-            <span class="s-post-summary--stats-item-number">5</span>
+                <div class="s-post-summary--stats-item s-post-summary--stats-item__emphasized" title="Score of 4">
+            <span class="s-post-summary--stats-item-number">4</span>
             <span class="s-post-summary--stats-item-unit">votes</span>
         </div>
         <div class="s-post-summary--stats-item has-answers has-accepted-answer" title="one of the answers was accepted as the correct answer">
 <svg aria-hidden="true" class="svg-icon iconCheckmarkSm" width="14" height="14" viewBox="0 0 14 14"><path d="M13 3.41 11.59 2 5 8.59 2.41 6 1 7.41l4 4 8-8Z"/></svg>            <span class="s-post-summary--stats-item-number">2</span>
             <span class="s-post-summary--stats-item-unit">answers</span>
         </div>
-        <div class="s-post-summary--stats-item " title="341 views">
-            <span class="s-post-summary--stats-item-number">341</span>
+        <div class="s-post-summary--stats-item " title="343 views">
+            <span class="s-post-summary--stats-item-number">343</span>
             <span class="s-post-summary--stats-item-unit">views</span>
         </div>
 
@@ -1960,7 +2164,7 @@ your communities            </h3>
             </div>
         
                 <ul class="s-user-card--awards">
-            <li class="s-user-card--rep"><span class="todo-no-class-here" title="reputation score 30,104" dir="ltr">30.1k</span></li>
+            <li class="s-user-card--rep"><span class="todo-no-class-here" title="reputation score 30,103" dir="ltr">30.1k</span></li>
 
         </ul>
 
@@ -1968,7 +2172,7 @@ your communities            </h3>
     </div>
 
         <time class="s-user-card--time">
-                <a href="/questions/419389/can-we-close-markdown-rendering-bugs-against-a-related-but-maybe-not-fitting-dup?lastactivity" class="s-link s-link__muted">modified <span title="2022-07-23 12:09:05Z" class="relativetime">2 days ago</span></a>
+                <a href="/questions/419389/can-we-close-markdown-rendering-bugs-against-a-related-but-maybe-not-fitting-dup?lastactivity" class="s-link s-link__muted">modified <span title="2022-07-23 12:09:05Z" class="relativetime">Jul 23 at 12:09</span></a>
             </time>
 </div>
 
@@ -1991,8 +2195,8 @@ your communities            </h3>
 <svg aria-hidden="true" class="svg-icon iconCheckmarkSm" width="14" height="14" viewBox="0 0 14 14"><path d="M13 3.41 11.59 2 5 8.59 2.41 6 1 7.41l4 4 8-8Z"/></svg>            <span class="s-post-summary--stats-item-number">1</span>
             <span class="s-post-summary--stats-item-unit">answer</span>
         </div>
-        <div class="s-post-summary--stats-item " title="80 views">
-            <span class="s-post-summary--stats-item-number">80</span>
+        <div class="s-post-summary--stats-item " title="84 views">
+            <span class="s-post-summary--stats-item-number">84</span>
             <span class="s-post-summary--stats-item-unit">views</span>
         </div>
 
@@ -2028,7 +2232,7 @@ your communities            </h3>
             </div>
         
                 <ul class="s-user-card--awards">
-            <li class="s-user-card--rep"><span class="todo-no-class-here" title="reputation score 25,474" dir="ltr">25.5k</span></li>
+            <li class="s-user-card--rep"><span class="todo-no-class-here" title="reputation score 25,475" dir="ltr">25.5k</span></li>
 
         </ul>
 
@@ -2036,7 +2240,7 @@ your communities            </h3>
     </div>
 
         <time class="s-user-card--time">
-                <a href="/questions/419408/this-tag-is-not-old-but-it-could-make-us-old?lastactivity" class="s-link s-link__muted">modified <span title="2022-07-23 11:41:42Z" class="relativetime">2 days ago</span></a>
+                <a href="/questions/419408/this-tag-is-not-old-but-it-could-make-us-old?lastactivity" class="s-link s-link__muted">modified <span title="2022-07-23 11:41:42Z" class="relativetime">Jul 23 at 11:41</span></a>
             </time>
 </div>
 
@@ -2059,8 +2263,8 @@ your communities            </h3>
 <svg aria-hidden="true" class="svg-icon iconCheckmarkSm" width="14" height="14" viewBox="0 0 14 14"><path d="M13 3.41 11.59 2 5 8.59 2.41 6 1 7.41l4 4 8-8Z"/></svg>            <span class="s-post-summary--stats-item-number">1</span>
             <span class="s-post-summary--stats-item-unit">answer</span>
         </div>
-        <div class="s-post-summary--stats-item " title="285 views">
-            <span class="s-post-summary--stats-item-number">285</span>
+        <div class="s-post-summary--stats-item " title="289 views">
+            <span class="s-post-summary--stats-item-number">289</span>
             <span class="s-post-summary--stats-item-unit">views</span>
         </div>
 
@@ -2127,8 +2331,8 @@ your communities            </h3>
             <span class="s-post-summary--stats-item-number">0</span>
             <span class="s-post-summary--stats-item-unit">answers</span>
         </div>
-        <div class="s-post-summary--stats-item " title="182 views">
-            <span class="s-post-summary--stats-item-number">182</span>
+        <div class="s-post-summary--stats-item " title="186 views">
+            <span class="s-post-summary--stats-item-number">186</span>
             <span class="s-post-summary--stats-item-unit">views</span>
         </div>
 
@@ -2263,8 +2467,8 @@ your communities            </h3>
             <span class="s-post-summary--stats-item-number">0</span>
             <span class="s-post-summary--stats-item-unit">answers</span>
         </div>
-        <div class="s-post-summary--stats-item " title="138 views">
-            <span class="s-post-summary--stats-item-number">138</span>
+        <div class="s-post-summary--stats-item " title="139 views">
+            <span class="s-post-summary--stats-item-number">139</span>
             <span class="s-post-summary--stats-item-unit">views</span>
         </div>
 
@@ -2300,7 +2504,7 @@ your communities            </h3>
             </div>
         
                 <ul class="s-user-card--awards">
-            <li class="s-user-card--rep"><span class="todo-no-class-here" title="reputation score 30,104" dir="ltr">30.1k</span></li>
+            <li class="s-user-card--rep"><span class="todo-no-class-here" title="reputation score 30,103" dir="ltr">30.1k</span></li>
 
         </ul>
 
@@ -2331,8 +2535,8 @@ your communities            </h3>
             <span class="s-post-summary--stats-item-number">1</span>
             <span class="s-post-summary--stats-item-unit">answer</span>
         </div>
-        <div class="s-post-summary--stats-item " title="94 views">
-            <span class="s-post-summary--stats-item-number">94</span>
+        <div class="s-post-summary--stats-item " title="95 views">
+            <span class="s-post-summary--stats-item-number">95</span>
             <span class="s-post-summary--stats-item-unit">views</span>
         </div>
 
@@ -2368,7 +2572,7 @@ your communities            </h3>
             </div>
         
                 <ul class="s-user-card--awards">
-            <li class="s-user-card--rep"><span class="todo-no-class-here" title="reputation score 37,640" dir="ltr">37.6k</span></li>
+            <li class="s-user-card--rep"><span class="todo-no-class-here" title="reputation score 37,663" dir="ltr">37.7k</span></li>
 
         </ul>
 
@@ -2436,7 +2640,7 @@ your communities            </h3>
             </div>
         
                 <ul class="s-user-card--awards">
-            <li class="s-user-card--rep"><span class="todo-no-class-here" title="reputation score 25,474" dir="ltr">25.5k</span></li>
+            <li class="s-user-card--rep"><span class="todo-no-class-here" title="reputation score 25,475" dir="ltr">25.5k</span></li>
 
         </ul>
 
@@ -2459,15 +2663,15 @@ your communities            </h3>
     <div class="s-post-summary--stats js-post-summary-stats">
         
 
-                <div class="s-post-summary--stats-item s-post-summary--stats-item__emphasized" title="Score of 88">
-            <span class="s-post-summary--stats-item-number">88</span>
+                <div class="s-post-summary--stats-item s-post-summary--stats-item__emphasized" title="Score of 89">
+            <span class="s-post-summary--stats-item-number">89</span>
             <span class="s-post-summary--stats-item-unit">votes</span>
         </div>
         <div class="s-post-summary--stats-item has-answers has-accepted-answer" title="one of the answers was accepted as the correct answer">
 <svg aria-hidden="true" class="svg-icon iconCheckmarkSm" width="14" height="14" viewBox="0 0 14 14"><path d="M13 3.41 11.59 2 5 8.59 2.41 6 1 7.41l4 4 8-8Z"/></svg>            <span class="s-post-summary--stats-item-number">4</span>
             <span class="s-post-summary--stats-item-unit">answers</span>
         </div>
-        <div class="s-post-summary--stats-item is-warm" title="2120 views">
+        <div class="s-post-summary--stats-item is-warm" title="2138 views">
             <span class="s-post-summary--stats-item-number">2k</span>
             <span class="s-post-summary--stats-item-unit">views</span>
         </div>
@@ -2504,7 +2708,7 @@ your communities            </h3>
             </div>
         
                 <ul class="s-user-card--awards">
-            <li class="s-user-card--rep"><span class="todo-no-class-here" title="reputation score 30,163" dir="ltr">30.2k</span></li>
+            <li class="s-user-card--rep"><span class="todo-no-class-here" title="reputation score 30,173" dir="ltr">30.2k</span></li>
 
         </ul>
 
@@ -2572,7 +2776,7 @@ your communities            </h3>
             </div>
         
                 <ul class="s-user-card--awards">
-            <li class="s-user-card--rep"><span class="todo-no-class-here" title="reputation score 41,551" dir="ltr">41.6k</span></li>
+            <li class="s-user-card--rep"><span class="todo-no-class-here" title="reputation score 41,550" dir="ltr">41.6k</span></li>
 
         </ul>
 
@@ -2671,7 +2875,7 @@ your communities            </h3>
 <svg aria-hidden="true" class="svg-icon iconCheckmarkSm" width="14" height="14" viewBox="0 0 14 14"><path d="M13 3.41 11.59 2 5 8.59 2.41 6 1 7.41l4 4 8-8Z"/></svg>            <span class="s-post-summary--stats-item-number">2</span>
             <span class="s-post-summary--stats-item-unit">answers</span>
         </div>
-        <div class="s-post-summary--stats-item is-warm" title="6545 views">
+        <div class="s-post-summary--stats-item is-warm" title="6546 views">
             <span class="s-post-summary--stats-item-number">7k</span>
             <span class="s-post-summary--stats-item-unit">views</span>
         </div>
@@ -2776,7 +2980,7 @@ your communities            </h3>
             </div>
         
                 <ul class="s-user-card--awards">
-            <li class="s-user-card--rep"><span class="todo-no-class-here" title="reputation score 30,163" dir="ltr">30.2k</span></li>
+            <li class="s-user-card--rep"><span class="todo-no-class-here" title="reputation score 30,173" dir="ltr">30.2k</span></li>
 
         </ul>
 
@@ -2807,8 +3011,8 @@ your communities            </h3>
             <span class="s-post-summary--stats-item-number">1</span>
             <span class="s-post-summary--stats-item-unit">answer</span>
         </div>
-        <div class="s-post-summary--stats-item " title="449 views">
-            <span class="s-post-summary--stats-item-number">449</span>
+        <div class="s-post-summary--stats-item " title="450 views">
+            <span class="s-post-summary--stats-item-number">450</span>
             <span class="s-post-summary--stats-item-unit">views</span>
         </div>
 
@@ -2844,7 +3048,7 @@ your communities            </h3>
             </div>
         
                 <ul class="s-user-card--awards">
-            <li class="s-user-card--rep"><span class="todo-no-class-here" title="reputation score 30,163" dir="ltr">30.2k</span></li>
+            <li class="s-user-card--rep"><span class="todo-no-class-here" title="reputation score 30,173" dir="ltr">30.2k</span></li>
 
         </ul>
 
@@ -2875,8 +3079,8 @@ your communities            </h3>
             <span class="s-post-summary--stats-item-number">0</span>
             <span class="s-post-summary--stats-item-unit">answers</span>
         </div>
-        <div class="s-post-summary--stats-item " title="270 views">
-            <span class="s-post-summary--stats-item-number">270</span>
+        <div class="s-post-summary--stats-item " title="273 views">
+            <span class="s-post-summary--stats-item-number">273</span>
             <span class="s-post-summary--stats-item-unit">views</span>
         </div>
 
@@ -2912,7 +3116,7 @@ your communities            </h3>
             </div>
         
                 <ul class="s-user-card--awards">
-            <li class="s-user-card--rep"><span class="todo-no-class-here" title="reputation score 30,163" dir="ltr">30.2k</span></li>
+            <li class="s-user-card--rep"><span class="todo-no-class-here" title="reputation score 30,173" dir="ltr">30.2k</span></li>
 
         </ul>
 
@@ -2943,7 +3147,7 @@ your communities            </h3>
             <span class="s-post-summary--stats-item-number">11</span>
             <span class="s-post-summary--stats-item-unit">answers</span>
         </div>
-        <div class="s-post-summary--stats-item is-warm" title="2443 views">
+        <div class="s-post-summary--stats-item is-warm" title="2444 views">
             <span class="s-post-summary--stats-item-number">2k</span>
             <span class="s-post-summary--stats-item-unit">views</span>
         </div>
@@ -2989,346 +3193,6 @@ your communities            </h3>
 
         <time class="s-user-card--time">
                 <a href="/questions/265858/can-we-remove-vote-lock-in?lastactivity" class="s-link s-link__muted">answered <span title="2022-07-21 15:52:04Z" class="relativetime">Jul 21 at 15:52</span></a>
-            </time>
-</div>
-
-        </div>
-    </div>
-</div>
-
-                        
-
-
-<div id="question-summary-404228" class="s-post-summary js-post-summary" data-post-id="404228" data-post-type-id="1">
-    <div class="s-post-summary--stats js-post-summary-stats">
-        
-
-                <div class="s-post-summary--stats-item s-post-summary--stats-item__emphasized" title="Score of 35">
-            <span class="s-post-summary--stats-item-number">35</span>
-            <span class="s-post-summary--stats-item-unit">votes</span>
-        </div>
-        <div class="s-post-summary--stats-item has-answers has-accepted-answer" title="one of the answers was accepted as the correct answer">
-<svg aria-hidden="true" class="svg-icon iconCheckmarkSm" width="14" height="14" viewBox="0 0 14 14"><path d="M13 3.41 11.59 2 5 8.59 2.41 6 1 7.41l4 4 8-8Z"/></svg>            <span class="s-post-summary--stats-item-number">1</span>
-            <span class="s-post-summary--stats-item-unit">answer</span>
-        </div>
-        <div class="s-post-summary--stats-item " title="542 views">
-            <span class="s-post-summary--stats-item-number">542</span>
-            <span class="s-post-summary--stats-item-unit">views</span>
-        </div>
-
-
-
-    </div>
-    <div class="s-post-summary--content">
-
-        <h3 class="s-post-summary--content-title">
-
-            
-
-            <a href="/questions/404228/clean-up-pod-tag" class="s-link">Clean up [pod] tag</a>
-        </h3>
-        <div class="s-post-summary--meta">
-            <div class="s-post-summary--meta-tags tags js-tags t-discussion t-status-completed t-tags t-retag-request t-blocklist-request">
-
-<a href="/questions/tagged/discussion" class="post-tag required-tag flex--item mt0 js-tagname-discussion" title="show questions tagged &#39;discussion&#39;" rel="tag">discussion</a> <a href="/questions/tagged/status-completed" class="post-tag moderator-tag flex--item mt0 js-tagname-status-completed" title="show questions tagged &#39;status-completed&#39;" rel="tag">status-completed</a> <a href="/questions/tagged/tags" class="post-tag flex--item mt0 js-tagname-tags" title="show questions tagged &#39;tags&#39;" rel="tag">tags</a> <a href="/questions/tagged/retag-request" class="post-tag flex--item mt0 js-tagname-retag-request" title="show questions tagged &#39;retag-request&#39;" rel="tag">retag-request</a> <a href="/questions/tagged/blocklist-request" class="post-tag flex--item mt0 js-tagname-blocklist-request" title="show questions tagged &#39;blocklist-request&#39;" rel="tag">blocklist-request</a> 
-            </div>
-            
-
-
-<div class="s-user-card s-user-card__minimal">
-
-            <a href="/users/1478931/v2blast" class="s-avatar s-avatar__16 s-user-card--avatar">        <div class="gravatar-wrapper-16 js-user-hover-target" data-user-id="1478931">
-            <img src="https://i.stack.imgur.com/WyDMc.png?s=32&amp;g=1" alt="user avatar" width="16" , height="16" class="s-avatar--image" />
-        </div>
-</a>
-
-    <div class="s-user-card--info">
-            <div class="s-user-card--link d-flex gs4" >
-                <a href="/users/1478931/v2blast" class="flex--item">V2Blast</a><span class="flex--item s-badge ml2 s-badge__staff s-badge__xs " title="Stack Overflow staff">Staff</span><span class="flex--item s-badge ml2 s-badge__moderator s-badge__xs " title="Moderator">Mod</span>
-            </div>
-        
-                <ul class="s-user-card--awards">
-            <li class="s-user-card--rep"><span class="todo-no-class-here" title="reputation score " dir="ltr">101</span></li>
-
-        </ul>
-
-        
-    </div>
-
-        <time class="s-user-card--time">
-                <a href="/questions/404228/clean-up-pod-tag?lastactivity" class="s-link s-link__muted">modified <span title="2022-07-21 15:30:40Z" class="relativetime">Jul 21 at 15:30</span></a>
-            </time>
-</div>
-
-        </div>
-    </div>
-</div>
-
-                        
-
-
-<div id="question-summary-418779" class="s-post-summary js-post-summary" data-post-id="418779" data-post-type-id="1">
-    <div class="s-post-summary--stats js-post-summary-stats">
-        
-
-                <div class="s-post-summary--stats-item s-post-summary--stats-item__emphasized" title="Score of 14">
-            <span class="s-post-summary--stats-item-number">14</span>
-            <span class="s-post-summary--stats-item-unit">votes</span>
-        </div>
-        <div class="s-post-summary--stats-item has-answers has-accepted-answer" title="one of the answers was accepted as the correct answer">
-<svg aria-hidden="true" class="svg-icon iconCheckmarkSm" width="14" height="14" viewBox="0 0 14 14"><path d="M13 3.41 11.59 2 5 8.59 2.41 6 1 7.41l4 4 8-8Z"/></svg>            <span class="s-post-summary--stats-item-number">1</span>
-            <span class="s-post-summary--stats-item-unit">answer</span>
-        </div>
-        <div class="s-post-summary--stats-item " title="219 views">
-            <span class="s-post-summary--stats-item-number">219</span>
-            <span class="s-post-summary--stats-item-unit">views</span>
-        </div>
-
-
-
-    </div>
-    <div class="s-post-summary--content">
-
-        <h3 class="s-post-summary--content-title">
-
-            
-
-            <a href="/questions/418779/how-to-burninate-this-tag" class="s-link">​[how-to] burninate this tag?</a>
-        </h3>
-        <div class="s-post-summary--meta">
-            <div class="s-post-summary--meta-tags tags js-tags t-discussion t-status-completed t-tags t-burninate-request t-blocklist-request">
-
-<a href="/questions/tagged/discussion" class="post-tag required-tag flex--item mt0 js-tagname-discussion" title="show questions tagged &#39;discussion&#39;" rel="tag">discussion</a> <a href="/questions/tagged/status-completed" class="post-tag moderator-tag flex--item mt0 js-tagname-status-completed" title="show questions tagged &#39;status-completed&#39;" rel="tag">status-completed</a> <a href="/questions/tagged/tags" class="post-tag flex--item mt0 js-tagname-tags" title="show questions tagged &#39;tags&#39;" rel="tag">tags</a> <a href="/questions/tagged/burninate-request" class="post-tag flex--item mt0 js-tagname-burninate-request" title="show questions tagged &#39;burninate-request&#39;" rel="tag">burninate-request</a> <a href="/questions/tagged/blocklist-request" class="post-tag flex--item mt0 js-tagname-blocklist-request" title="show questions tagged &#39;blocklist-request&#39;" rel="tag">blocklist-request</a> 
-            </div>
-            
-
-
-<div class="s-user-card s-user-card__minimal">
-
-            <a href="/users/1478931/v2blast" class="s-avatar s-avatar__16 s-user-card--avatar">        <div class="gravatar-wrapper-16 js-user-hover-target" data-user-id="1478931">
-            <img src="https://i.stack.imgur.com/WyDMc.png?s=32&amp;g=1" alt="user avatar" width="16" , height="16" class="s-avatar--image" />
-        </div>
-</a>
-
-    <div class="s-user-card--info">
-            <div class="s-user-card--link d-flex gs4" >
-                <a href="/users/1478931/v2blast" class="flex--item">V2Blast</a><span class="flex--item s-badge ml2 s-badge__staff s-badge__xs " title="Stack Overflow staff">Staff</span><span class="flex--item s-badge ml2 s-badge__moderator s-badge__xs " title="Moderator">Mod</span>
-            </div>
-        
-                <ul class="s-user-card--awards">
-            <li class="s-user-card--rep"><span class="todo-no-class-here" title="reputation score " dir="ltr">101</span></li>
-
-        </ul>
-
-        
-    </div>
-
-        <time class="s-user-card--time">
-                <a href="/questions/418779/how-to-burninate-this-tag?lastactivity" class="s-link s-link__muted">modified <span title="2022-07-21 15:28:02Z" class="relativetime">Jul 21 at 15:28</span></a>
-            </time>
-</div>
-
-        </div>
-    </div>
-</div>
-
-                        
-
-
-<div id="question-summary-419283" class="s-post-summary js-post-summary" data-post-id="419283" data-post-type-id="1">
-    <div class="s-post-summary--stats js-post-summary-stats">
-        
-
-                <div class="s-post-summary--stats-item s-post-summary--stats-item__emphasized" title="Score of 15">
-            <span class="s-post-summary--stats-item-number">15</span>
-            <span class="s-post-summary--stats-item-unit">votes</span>
-        </div>
-        <div class="s-post-summary--stats-item has-answers " title="7 answers">
-            <span class="s-post-summary--stats-item-number">7</span>
-            <span class="s-post-summary--stats-item-unit">answers</span>
-        </div>
-        <div class="s-post-summary--stats-item is-warm" title="1028 views">
-            <span class="s-post-summary--stats-item-number">1k</span>
-            <span class="s-post-summary--stats-item-unit">views</span>
-        </div>
-
-
-
-    </div>
-    <div class="s-post-summary--content">
-
-        <h3 class="s-post-summary--content-title">
-
-            
-
-            <a href="/questions/419283/when-are-this-worked-in-related-or-unrelated-technology-type-comments-worth" class="s-link">When are &quot;This worked in [related or unrelated technology]&quot; type comments worth keeping?</a>
-        </h3>
-        <div class="s-post-summary--meta">
-            <div class="s-post-summary--meta-tags tags js-tags t-discussion t-comments t-comment-flags t-no-longer-needed">
-
-<a href="/questions/tagged/discussion" class="post-tag required-tag flex--item mt0 js-tagname-discussion" title="show questions tagged &#39;discussion&#39;" rel="tag">discussion</a> <a href="/questions/tagged/comments" class="post-tag flex--item mt0 js-tagname-comments" title="show questions tagged &#39;comments&#39;" rel="tag">comments</a> <a href="/questions/tagged/comment-flags" class="post-tag flex--item mt0 js-tagname-comment-flags" title="show questions tagged &#39;comment-flags&#39;" rel="tag">comment-flags</a> <a href="/questions/tagged/no-longer-needed" class="post-tag flex--item mt0 js-tagname-no-longer-needed" title="show questions tagged &#39;no-longer-needed&#39;" rel="tag">no-longer-needed</a> 
-            </div>
-            
-
-
-<div class="s-user-card s-user-card__minimal">
-
-            <a href="/users/415448/michael-kay" class="s-avatar s-avatar__16 s-user-card--avatar">        <div class="gravatar-wrapper-16 js-user-hover-target" data-user-id="415448">
-            <img src="https://i.stack.imgur.com/P2vVZ.png?s=32&amp;g=1" alt="user avatar" width="16" , height="16" class="s-avatar--image" />
-        </div>
-</a>
-
-    <div class="s-user-card--info">
-            <div class="s-user-card--link d-flex gs4" >
-                <a href="/users/415448/michael-kay" class="flex--item">Michael Kay</a>
-            </div>
-        
-                <ul class="s-user-card--awards">
-            <li class="s-user-card--rep"><span class="todo-no-class-here" title="reputation score 148,439" dir="ltr">148k</span></li>
-
-        </ul>
-
-        
-    </div>
-
-        <time class="s-user-card--time">
-                <a href="/questions/419283/when-are-this-worked-in-related-or-unrelated-technology-type-comments-worth?lastactivity" class="s-link s-link__muted">modified <span title="2022-07-21 14:44:09Z" class="relativetime">Jul 21 at 14:44</span></a>
-            </time>
-</div>
-
-        </div>
-    </div>
-</div>
-
-                        
-
-
-<div id="question-summary-419350" class="s-post-summary js-post-summary" data-post-id="419350" data-post-type-id="1">
-    <div class="s-post-summary--stats js-post-summary-stats">
-        
-
-                <div class="s-post-summary--stats-item s-post-summary--stats-item__emphasized" title="Score of 2">
-            <span class="s-post-summary--stats-item-number">2</span>
-            <span class="s-post-summary--stats-item-unit">votes</span>
-        </div>
-        <div class="s-post-summary--stats-item has-answers " title="2 answers">
-            <span class="s-post-summary--stats-item-number">2</span>
-            <span class="s-post-summary--stats-item-unit">answers</span>
-        </div>
-        <div class="s-post-summary--stats-item " title="239 views">
-            <span class="s-post-summary--stats-item-number">239</span>
-            <span class="s-post-summary--stats-item-unit">views</span>
-        </div>
-
-
-
-    </div>
-    <div class="s-post-summary--content">
-
-        <h3 class="s-post-summary--content-title">
-
-            
-
-            <a href="/questions/419350/how-can-i-improve-this-question-i-have-at-hand" class="s-link">How can I improve this question I have at hand?</a>
-        </h3>
-        <div class="s-post-summary--meta">
-            <div class="s-post-summary--meta-tags tags js-tags t-discussion t-specific-question t-quality-improvement">
-
-<a href="/questions/tagged/discussion" class="post-tag required-tag flex--item mt0 js-tagname-discussion" title="show questions tagged &#39;discussion&#39;" rel="tag">discussion</a> <a href="/questions/tagged/specific-question" class="post-tag flex--item mt0 js-tagname-specific-question" title="show questions tagged &#39;specific-question&#39;" rel="tag">specific-question</a> <a href="/questions/tagged/quality-improvement" class="post-tag flex--item mt0 js-tagname-quality-improvement" title="show questions tagged &#39;quality-improvement&#39;" rel="tag">quality-improvement</a> 
-            </div>
-            
-
-
-<div class="s-user-card s-user-card__minimal">
-
-            <a href="/users/273767/cubbi" class="s-avatar s-avatar__16 s-user-card--avatar">        <div class="gravatar-wrapper-16 js-user-hover-target" data-user-id="273767">
-            <img src="https://www.gravatar.com/avatar/363e49843e26763a496164190940ece4?s=32&amp;d=identicon&amp;r=PG" alt="user avatar" width="16" , height="16" class="s-avatar--image" />
-        </div>
-</a>
-
-    <div class="s-user-card--info">
-            <div class="s-user-card--link d-flex gs4" >
-                <a href="/users/273767/cubbi" class="flex--item">Cubbi</a>
-            </div>
-        
-                <ul class="s-user-card--awards">
-            <li class="s-user-card--rep"><span class="todo-no-class-here" title="reputation score 45,193" dir="ltr">45.2k</span></li>
-
-        </ul>
-
-        
-    </div>
-
-        <time class="s-user-card--time">
-                <a href="/questions/419350/how-can-i-improve-this-question-i-have-at-hand?lastactivity" class="s-link s-link__muted">modified <span title="2022-07-21 14:28:12Z" class="relativetime">Jul 21 at 14:28</span></a>
-            </time>
-</div>
-
-        </div>
-    </div>
-</div>
-
-                        
-
-
-<div id="question-summary-419331" class="s-post-summary js-post-summary" data-post-id="419331" data-post-type-id="1">
-    <div class="s-post-summary--stats js-post-summary-stats">
-        
-
-                <div class="s-post-summary--stats-item s-post-summary--stats-item__emphasized" title="Score of 102">
-            <span class="s-post-summary--stats-item-number">102</span>
-            <span class="s-post-summary--stats-item-unit">votes</span>
-        </div>
-        <div class="s-post-summary--stats-item has-answers has-accepted-answer" title="one of the answers was accepted as the correct answer">
-<svg aria-hidden="true" class="svg-icon iconCheckmarkSm" width="14" height="14" viewBox="0 0 14 14"><path d="M13 3.41 11.59 2 5 8.59 2.41 6 1 7.41l4 4 8-8Z"/></svg>            <span class="s-post-summary--stats-item-number">2</span>
-            <span class="s-post-summary--stats-item-unit">answers</span>
-        </div>
-        <div class="s-post-summary--stats-item is-warm" title="1960 views">
-            <span class="s-post-summary--stats-item-number">2k</span>
-            <span class="s-post-summary--stats-item-unit">views</span>
-        </div>
-
-
-
-    </div>
-    <div class="s-post-summary--content">
-
-        <h3 class="s-post-summary--content-title">
-
-            
-
-            <a href="/questions/419331/microsoft-azure-customer-engineers-giving-low-quality-answers" class="s-link">Microsoft Azure Customer Engineers Giving Low Quality Answers</a>
-        </h3>
-        <div class="s-post-summary--meta">
-            <div class="s-post-summary--meta-tags tags js-tags t-discussion t-answers t-low-quality-posts">
-
-<a href="/questions/tagged/discussion" class="post-tag required-tag flex--item mt0 js-tagname-discussion" title="show questions tagged &#39;discussion&#39;" rel="tag">discussion</a> <a href="/questions/tagged/answers" class="post-tag flex--item mt0 js-tagname-answers" title="show questions tagged &#39;answers&#39;" rel="tag">answers</a> <a href="/questions/tagged/low-quality-posts" class="post-tag flex--item mt0 js-tagname-low-quality-posts" title="show questions tagged &#39;low-quality-posts&#39;" rel="tag">low-quality-posts</a> 
-            </div>
-            
-
-
-<div class="s-user-card s-user-card__minimal">
-
-            <a href="/users/4032703/ejoshuas-stand-with-ukraine" class="s-avatar s-avatar__16 s-user-card--avatar">        <div class="gravatar-wrapper-16 js-user-hover-target" data-user-id="4032703">
-            <img src="https://i.stack.imgur.com/oxjij.png?s=32&amp;g=1" alt="user avatar" width="16" , height="16" class="s-avatar--image" />
-        </div>
-</a>
-
-    <div class="s-user-card--info">
-            <div class="s-user-card--link d-flex gs4" >
-                <a href="/users/4032703/ejoshuas-stand-with-ukraine" class="flex--item">EJoshuaS - Stand with Ukraine</a>
-            </div>
-        
-                <ul class="s-user-card--awards">
-            <li class="s-user-card--rep"><span class="todo-no-class-here" title="reputation score 11,192" dir="ltr">11.2k</span></li>
-
-        </ul>
-
-        
-    </div>
-
-        <time class="s-user-card--time">
-                <a href="/questions/419331/microsoft-azure-customer-engineers-giving-low-quality-answers?lastactivity" class="s-link s-link__muted">modified <span title="2022-07-21 13:08:38Z" class="relativetime">Jul 21 at 13:08</span></a>
             </time>
 </div>
 
@@ -3384,14 +3248,14 @@ your communities            </h3>
             <div class="flex--item1 fl-shrink0">
 <svg aria-hidden="true" class="va-text-top svg-icon iconPencilSm" width="14" height="14" viewBox="0 0 14 14"><path d="m11.1 1.71 1.13 1.12c.2.2.2.51 0 .71L11.1 4.7 9.21 2.86l1.17-1.15c.2-.2.51-.2.71 0ZM2 10.12l6.37-6.43 1.88 1.88L3.88 12H2v-1.88Z"/></svg>            </div>
             <div class="flex--item wmn0 ow-break-word">
-                <a href="https://stackoverflow.blog/2022/07/25/automate-the-boring-parts-of-your-job/" class="js-gps-track" data-ga="[&quot;community bulletin board&quot;,&quot;The Overflow Blog&quot;,&quot;https://stackoverflow.blog/2022/07/25/automate-the-boring-parts-of-your-job/&quot;,null,null]" data-gps-track="communitybulletin.click({ priority: 1, position: 0 })">Automate the boring parts of your job</a>
+                <a href="https://stackoverflow.blog/2022/07/26/data-analytics-less-creepy-more-empowering/" class="js-gps-track" data-ga="[&quot;community bulletin board&quot;,&quot;The Overflow Blog&quot;,&quot;https://stackoverflow.blog/2022/07/26/data-analytics-less-creepy-more-empowering/&quot;,null,null]" data-gps-track="communitybulletin.click({ priority: 1, position: 0 })">Data analytics: Less creepy, more empowering</a>
             </div>
         </li>
         <li class="s-sidebarwidget--item d-flex px16">
             <div class="flex--item1 fl-shrink0">
 <svg aria-hidden="true" class="va-text-top svg-icon iconPencilSm" width="14" height="14" viewBox="0 0 14 14"><path d="m11.1 1.71 1.13 1.12c.2.2.2.51 0 .71L11.1 4.7 9.21 2.86l1.17-1.15c.2-.2.51-.2.71 0ZM2 10.12l6.37-6.43 1.88 1.88L3.88 12H2v-1.88Z"/></svg>            </div>
             <div class="flex--item wmn0 ow-break-word">
-                <a href="https://stackoverflow.blog/2022/07/22/game-boy-emulators-powerpoint-developers-and-the-enduring-appeal-of-pokemon-go-ep-466/" class="js-gps-track" title="Game Boy emulators, PowerPoint developers, and the enduring appeal of Pok&#xE9;mon GO (Ep. 466)" data-ga="[&quot;community bulletin board&quot;,&quot;The Overflow Blog&quot;,&quot;https://stackoverflow.blog/2022/07/22/game-boy-emulators-powerpoint-developers-and-the-enduring-appeal-of-pokemon-go-ep-466/&quot;,null,null]" data-gps-track="communitybulletin.click({ priority: 1, position: 1 })">Game Boy emulators, PowerPoint developers, and the enduring appeal of Pok&#233;mon...</a>
+                <a href="https://stackoverflow.blog/2022/07/25/automate-the-boring-parts-of-your-job/" class="js-gps-track" data-ga="[&quot;community bulletin board&quot;,&quot;The Overflow Blog&quot;,&quot;https://stackoverflow.blog/2022/07/25/automate-the-boring-parts-of-your-job/&quot;,null,null]" data-gps-track="communitybulletin.click({ priority: 1, position: 1 })">Automate the boring parts of your job</a>
             </div>
         </li>
                     <div class="s-sidebarwidget--header s-sidebarwidget__small-bold-text fc-light d:fc-black-900 bb bbw1">
@@ -3401,14 +3265,7 @@ your communities            </h3>
             <div class="flex--item1 fl-shrink0">
 <div class="favicon favicon-stackoverflowmeta" title="Meta Stack Overflow"></div>            </div>
             <div class="flex--item wmn0 ow-break-word">
-                <a href="https://meta.stackoverflow.com/questions/417320/the-options-tag-is-being-burninated" class="js-gps-track" data-ga="[&quot;community bulletin board&quot;,&quot;Featured&quot;,&quot;https://meta.stackoverflow.com/questions/417320/the-options-tag-is-being-burninated&quot;,null,null]" data-gps-track="communitybulletin.click({ priority: 6, position: 2 })">The [options] tag is being burninated</a>
-            </div>
-        </li>
-        <li class="s-sidebarwidget--item d-flex px16">
-            <div class="flex--item1 fl-shrink0">
-<div class="favicon favicon-stackoverflowmeta" title="Meta Stack Overflow"></div>            </div>
-            <div class="flex--item wmn0 ow-break-word">
-                <a href="https://meta.stackoverflow.com/questions/418767/trending-a-new-answer-sorting-option" class="js-gps-track" data-ga="[&quot;community bulletin board&quot;,&quot;Featured&quot;,&quot;https://meta.stackoverflow.com/questions/418767/trending-a-new-answer-sorting-option&quot;,null,null]" data-gps-track="communitybulletin.click({ priority: 6, position: 3 })">Trending: A new answer sorting option</a>
+                <a href="https://meta.stackoverflow.com/questions/418767/trending-a-new-answer-sorting-option" class="js-gps-track" data-ga="[&quot;community bulletin board&quot;,&quot;Featured&quot;,&quot;https://meta.stackoverflow.com/questions/418767/trending-a-new-answer-sorting-option&quot;,null,null]" data-gps-track="communitybulletin.click({ priority: 6, position: 2 })">Trending: A new answer sorting option</a>
             </div>
         </li>
     </ul>
@@ -3420,9 +3277,6 @@ your communities            </h3>
     <div class="linked">
         <div class="spacer">
             <a href="/questions/418767/trending-a-new-answer-sorting-option" class="question-hyperlink">Trending: A new answer sorting option</a>
-        </div>           
-        <div class="spacer">
-            <a href="/questions/417320/the-options-tag-is-being-burninated" class="question-hyperlink">The [options] tag is being burninated</a>
         </div>           
         <div class="spacer">
             <a href="/questions/255583/what-can-i-do-when-getting-we-are-no-longer-accepting-questions-answers-from-th" class="question-hyperlink">What can I do when getting “We are no longer accepting questions/answers from this account”?</a>
@@ -3448,6 +3302,9 @@ your communities            </h3>
         <div class="spacer">
             <a href="/questions/324070/what-is-the-process-for-tag-removal-burnination" class="question-hyperlink">What is the process for tag removal (burnination)?</a>
         </div>           
+        <div class="spacer">
+            <a href="/questions/252944/when-is-it-appropriate-to-create-a-tag-and-how-does-it-work" class="question-hyperlink">When is it appropriate to create a tag, and how does it work?</a>
+        </div>           
         <div class="spacer ta-right">
             more <a href="/questions/tagged/faq" class="post-tag moderator-tag" title="show questions tagged &#39;faq&#39;" rel="tag">faq</a>&nbsp;&raquo;
         </div>
@@ -3466,128 +3323,86 @@ your communities            </h3>
     </h4>
     <ul>
             <li >
-                <div class="favicon favicon-japanese" title="Japanese Language Stack Exchange"></div><a href="https://japanese.stackexchange.com/questions/95542/which-%e3%81%af-is-this" class="js-gps-track question-hyperlink mb0" data-gps-track="site.switch({ item_type:8, target_site:257 }); posts_hot_network.click({ item_type:2, location:8 })">
-                    Which &#x306F; is this?
+                <div class="favicon favicon-politics" title="Politics Stack Exchange"></div><a href="https://politics.stackexchange.com/questions/74420/do-congressmen-and-senators-even-read-letters-we-send-them" class="js-gps-track question-hyperlink mb0" data-gps-track="site.switch({ item_type:8, target_site:475 }); posts_hot_network.click({ item_type:2, location:8 })">
+                    Do congressmen and senators even read letters we send them?
                 </a>
 
             </li>
             <li >
-                <div class="favicon favicon-travel" title="Travel Stack Exchange"></div><a href="https://travel.stackexchange.com/questions/175158/do-you-need-to-add-a-day-to-travel-insurance-if-your-plane-arrives-a-day-later-t" class="js-gps-track question-hyperlink mb0" data-gps-track="site.switch({ item_type:8, target_site:273 }); posts_hot_network.click({ item_type:2, location:8 })">
-                    Do you need to add a day to travel insurance if your plane arrives a day later than departure?
+                <div class="favicon favicon-gaming" title="Arqade"></div><a href="https://gaming.stackexchange.com/questions/398379/what-loot-tables-have-mending" class="js-gps-track question-hyperlink mb0" data-gps-track="site.switch({ item_type:8, target_site:41 }); posts_hot_network.click({ item_type:2, location:8 })">
+                    What loot tables have mending?
                 </a>
 
             </li>
             <li >
-                <div class="favicon favicon-ethereum" title="Ethereum Stack Exchange"></div><a href="https://ethereum.stackexchange.com/questions/132341/why-ether-transfer-sometimes-use-more-that-21000-gas" class="js-gps-track question-hyperlink mb0" data-gps-track="site.switch({ item_type:8, target_site:642 }); posts_hot_network.click({ item_type:2, location:8 })">
-                    Why ether transfer sometimes use more that 21000 gas?
+                <div class="favicon favicon-mathematica" title="Mathematica Stack Exchange"></div><a href="https://mathematica.stackexchange.com/questions/271253/simultanous-nonlinear-fitting-of-two-datasets-to-two-trial-functions-with-shared" class="js-gps-track question-hyperlink mb0" data-gps-track="site.switch({ item_type:8, target_site:387 }); posts_hot_network.click({ item_type:2, location:8 })">
+                    Simultanous nonlinear fitting of two datasets to two trial functions with shared parameters
                 </a>
 
             </li>
             <li >
-                <div class="favicon favicon-space" title="Space Exploration Stack Exchange"></div><a href="https://space.stackexchange.com/questions/59823/what-is-the-criteria-of-technology-readiness-level-9" class="js-gps-track question-hyperlink mb0" data-gps-track="site.switch({ item_type:8, target_site:508 }); posts_hot_network.click({ item_type:2, location:8 })">
-                    What is the Criteria of Technology Readiness Level 9?
+                <div class="favicon favicon-blender" title="Blender Stack Exchange"></div><a href="https://blender.stackexchange.com/questions/270324/how-to-subdivide-this-face" class="js-gps-track question-hyperlink mb0" data-gps-track="site.switch({ item_type:8, target_site:502 }); posts_hot_network.click({ item_type:2, location:8 })">
+                    How to subdivide this face?
                 </a>
 
             </li>
             <li >
-                <div class="favicon favicon-puzzling" title="Puzzling Stack Exchange"></div><a href="https://puzzling.stackexchange.com/questions/117269/double-chess-stalemate-with-60-units" class="js-gps-track question-hyperlink mb0" data-gps-track="site.switch({ item_type:8, target_site:559 }); posts_hot_network.click({ item_type:2, location:8 })">
-                    Double chess stalemate with 60 units
+                <div class="favicon favicon-cooking" title="Seasoned Advice"></div><a href="https://cooking.stackexchange.com/questions/121149/why-did-my-pizza-toppings-slide-off-while-baking" class="js-gps-track question-hyperlink mb0" data-gps-track="site.switch({ item_type:8, target_site:49 }); posts_hot_network.click({ item_type:2, location:8 })">
+                    Why did my pizza toppings slide off while baking?
                 </a>
 
             </li>
             <li >
-                <div class="favicon favicon-mathematica" title="Mathematica Stack Exchange"></div><a href="https://mathematica.stackexchange.com/questions/271246/filling-between-two-listplot-with-unequal-length" class="js-gps-track question-hyperlink mb0" data-gps-track="site.switch({ item_type:8, target_site:387 }); posts_hot_network.click({ item_type:2, location:8 })">
-                    filling between two listplot with unequal length
-                </a>
-
-            </li>
-            <li >
-                <div class="favicon favicon-english" title="English Language &amp; Usage Stack Exchange"></div><a href="https://english.stackexchange.com/questions/592433/what-is-the-term-for-words-such-as-turkish-american-canadian-mexican-polish" class="js-gps-track question-hyperlink mb0" data-gps-track="site.switch({ item_type:8, target_site:97 }); posts_hot_network.click({ item_type:2, location:8 })">
-                    What is the term for words such as Turkish, American, Canadian, Mexican, Polish, etc.?
-                </a>
-
-            </li>
-            <li >
-                <div class="favicon favicon-english" title="English Language &amp; Usage Stack Exchange"></div><a href="https://english.stackexchange.com/questions/592386/whats-another-word-for-agreeing-with-another-person-just-for-the-sake-of-it" class="js-gps-track question-hyperlink mb0" data-gps-track="site.switch({ item_type:8, target_site:97 }); posts_hot_network.click({ item_type:2, location:8 })">
-                    What&#x27;s another word for agreeing with another person just for the sake of it?
-                </a>
-
-            </li>
-            <li >
-                <div class="favicon favicon-electronics" title="Electrical Engineering Stack Exchange"></div><a href="https://electronics.stackexchange.com/questions/628685/what-does-the-voltage-of-an-i-o-pin-mean" class="js-gps-track question-hyperlink mb0" data-gps-track="site.switch({ item_type:8, target_site:135 }); posts_hot_network.click({ item_type:2, location:8 })">
-                    What does the voltage of an I/O pin mean?
-                </a>
-
-            </li>
-            <li >
-                <div class="favicon favicon-security" title="Information Security Stack Exchange"></div><a href="https://security.stackexchange.com/questions/263582/is-a-sha256-hash-of-a-unix-timestamp-a-strong-password" class="js-gps-track question-hyperlink mb0" data-gps-track="site.switch({ item_type:8, target_site:162 }); posts_hot_network.click({ item_type:2, location:8 })">
-                    Is a sha256 hash of a unix timestamp a strong password
-                </a>
-
-            </li>
-            <li >
-                <div class="favicon favicon-movies" title="Movies &amp; TV Stack Exchange"></div><a href="https://movies.stackexchange.com/questions/118170/what-exactly-is-a-european-style-of-single-source-lighting-which-involved-the" class="js-gps-track question-hyperlink mb0" data-gps-track="site.switch({ item_type:8, target_site:367 }); posts_hot_network.click({ item_type:2, location:8 })">
-                    What exactly is a &#x201C;European style of single-source lighting, which involved the use of incense burners?&#x201D;
-                </a>
-
-            </li>
-            <li >
-                <div class="favicon favicon-scifi" title="Science Fiction &amp; Fantasy Stack Exchange"></div><a href="https://scifi.stackexchange.com/questions/265892/was-the-force-stronger-in-the-past" class="js-gps-track question-hyperlink mb0" data-gps-track="site.switch({ item_type:8, target_site:186 }); posts_hot_network.click({ item_type:2, location:8 })">
-                    Was the Force stronger in the past?
-                </a>
-
-            </li>
-            <li class="dno js-hidden">
-                <div class="favicon favicon-astronomy" title="Astronomy Stack Exchange"></div><a href="https://astronomy.stackexchange.com/questions/50011/is-there-anything-currently-46-billion-light-years-away-from-earth-that-we-can-s" class="js-gps-track question-hyperlink mb0" data-gps-track="site.switch({ item_type:8, target_site:514 }); posts_hot_network.click({ item_type:2, location:8 })">
-                    Is there anything currently 46 billion light years away from Earth that we can see?
-                </a>
-
-            </li>
-            <li class="dno js-hidden">
-                <div class="favicon favicon-travel" title="Travel Stack Exchange"></div><a href="https://travel.stackexchange.com/questions/175156/how-likely-is-standby-on-austrian-airlines" class="js-gps-track question-hyperlink mb0" data-gps-track="site.switch({ item_type:8, target_site:273 }); posts_hot_network.click({ item_type:2, location:8 })">
-                    How likely is standby on Austrian Airlines?
-                </a>
-
-            </li>
-            <li class="dno js-hidden">
-                <div class="favicon favicon-diy" title="Home Improvement Stack Exchange"></div><a href="https://diy.stackexchange.com/questions/253520/is-it-legal-to-have-one-breaker-control-four-rooms" class="js-gps-track question-hyperlink mb0" data-gps-track="site.switch({ item_type:8, target_site:73 }); posts_hot_network.click({ item_type:2, location:8 })">
-                    Is it legal to have one breaker control four rooms?
-                </a>
-
-            </li>
-            <li class="dno js-hidden">
-                <div class="favicon favicon-scifi" title="Science Fiction &amp; Fantasy Stack Exchange"></div><a href="https://scifi.stackexchange.com/questions/265919/short-story-about-psychic-time-travel-to-time-of-neanderthal" class="js-gps-track question-hyperlink mb0" data-gps-track="site.switch({ item_type:8, target_site:186 }); posts_hot_network.click({ item_type:2, location:8 })">
-                    Short story about psychic time travel to time of Neanderthal
-                </a>
-
-            </li>
-            <li class="dno js-hidden">
-                <div class="favicon favicon-retrocomputing" title="Retrocomputing Stack Exchange"></div><a href="https://retrocomputing.stackexchange.com/questions/24894/how-do-i-best-simulate-a-80386" class="js-gps-track question-hyperlink mb0" data-gps-track="site.switch({ item_type:8, target_site:648 }); posts_hot_network.click({ item_type:2, location:8 })">
-                    How do I best simulate a 80386?
-                </a>
-
-            </li>
-            <li class="dno js-hidden">
-                <div class="favicon favicon-rpg" title="Role-playing Games Stack Exchange"></div><a href="https://rpg.stackexchange.com/questions/200144/how-to-handle-deception-skill-rolls-fairly-based-on-the-premise-of-the-deception" class="js-gps-track question-hyperlink mb0" data-gps-track="site.switch({ item_type:8, target_site:122 }); posts_hot_network.click({ item_type:2, location:8 })">
-                    How to handle deception skill rolls fairly based on the premise of the deception?
-                </a>
-
-            </li>
-            <li class="dno js-hidden">
-                <div class="favicon favicon-writing" title="Writing Stack Exchange"></div><a href="https://writing.stackexchange.com/questions/62849/can-a-visual-novel-with-branching-plotlines-be-translated-into-one-single-book" class="js-gps-track question-hyperlink mb0" data-gps-track="site.switch({ item_type:8, target_site:166 }); posts_hot_network.click({ item_type:2, location:8 })">
-                    Can a visual novel with branching plotlines be translated into one single book?
-                </a>
-
-            </li>
-            <li class="dno js-hidden">
-                <div class="favicon favicon-serverfault" title="Server Fault"></div><a href="https://serverfault.com/questions/1106517/how-does-dmesg-differentiate-between-different-log-levels" class="js-gps-track question-hyperlink mb0" data-gps-track="site.switch({ item_type:8, target_site:2 }); posts_hot_network.click({ item_type:2, location:8 })">
-                    How does dmesg differentiate between different log levels?
-                </a>
-
-            </li>
-            <li class="dno js-hidden">
                 <div class="favicon favicon-ell" title="English Language Learners Stack Exchange"></div><a href="https://ell.stackexchange.com/questions/319556/why-cant-i-grammatically-repeat-the-object-with-the-pronoun-it" class="js-gps-track question-hyperlink mb0" data-gps-track="site.switch({ item_type:8, target_site:481 }); posts_hot_network.click({ item_type:2, location:8 })">
                     Why can&#x27;t I grammatically repeat the object with the pronoun &quot;it&quot;?
+                </a>
+
+            </li>
+            <li >
+                <div class="favicon favicon-travel" title="Travel Stack Exchange"></div><a href="https://travel.stackexchange.com/questions/175141/am-i-allowed-to-videotape-dashcam-when-entering-the-united-states-by-car" class="js-gps-track question-hyperlink mb0" data-gps-track="site.switch({ item_type:8, target_site:273 }); posts_hot_network.click({ item_type:2, location:8 })">
+                    Am I allowed to videotape (dashcam) when entering the United States by car?
+                </a>
+
+            </li>
+            <li >
+                <div class="favicon favicon-physics" title="Physics Stack Exchange"></div><a href="https://physics.stackexchange.com/questions/720027/why-heisenbergs-uncertainty-principle" class="js-gps-track question-hyperlink mb0" data-gps-track="site.switch({ item_type:8, target_site:151 }); posts_hot_network.click({ item_type:2, location:8 })">
+                    Why Heisenberg&#x27;s Uncertainty Principle?
+                </a>
+
+            </li>
+            <li >
+                <div class="favicon favicon-law" title="Law Stack Exchange"></div><a href="https://law.stackexchange.com/questions/82477/is-calling-emergency-service-for-someone-ever-mandatory" class="js-gps-track question-hyperlink mb0" data-gps-track="site.switch({ item_type:8, target_site:617 }); posts_hot_network.click({ item_type:2, location:8 })">
+                    Is calling emergency service for someone ever mandatory?
+                </a>
+
+            </li>
+            <li >
+                <div class="favicon favicon-scifi" title="Science Fiction &amp; Fantasy Stack Exchange"></div><a href="https://scifi.stackexchange.com/questions/265941/was-zephyr-1-really-s-h-i-e-l-d-s-first-spaceship-or-did-s-h-i-e-l-d-have-a" class="js-gps-track question-hyperlink mb0" data-gps-track="site.switch({ item_type:8, target_site:186 }); posts_hot_network.click({ item_type:2, location:8 })">
+                    Was Zephyr-1 really S.H.I.E.L.D.&#x27;s first spaceship? (Or, did S.H.I.E.L.D. have a space program prior to 2018?)
+                </a>
+
+            </li>
+            <li >
+                <div class="favicon favicon-ell" title="English Language Learners Stack Exchange"></div><a href="https://ell.stackexchange.com/questions/319563/what-are-the-effects-of-adding-despite-despite-lacking-medical-education-my" class="js-gps-track question-hyperlink mb0" data-gps-track="site.switch({ item_type:8, target_site:481 }); posts_hot_network.click({ item_type:2, location:8 })">
+                    What are the effects of adding Despite? &quot;[Despite] Lacking medical education, my stockbroker surmises that monkeypox will crash the stock market&quot;
+                </a>
+
+            </li>
+            <li >
+                <div class="favicon favicon-scifi" title="Science Fiction &amp; Fantasy Stack Exchange"></div><a href="https://scifi.stackexchange.com/questions/265933/a-long-time-ago-on-a-specific-day-of-the-week" class="js-gps-track question-hyperlink mb0" data-gps-track="site.switch({ item_type:8, target_site:186 }); posts_hot_network.click({ item_type:2, location:8 })">
+                    A long time ago, on a specific day of the week
+                </a>
+
+            </li>
+            <li class="dno js-hidden">
+                <div class="favicon favicon-stats" title="Cross Validated"></div><a href="https://stats.stackexchange.com/questions/583199/can-we-construct-a-pair-of-random-variables-having-any-given-covariance" class="js-gps-track question-hyperlink mb0" data-gps-track="site.switch({ item_type:8, target_site:65 }); posts_hot_network.click({ item_type:2, location:8 })">
+                    Can we construct a pair of random variables having any given covariance?
+                </a>
+
+            </li>
+            <li class="dno js-hidden">
+                <div class="favicon favicon-worldbuilding" title="Worldbuilding Stack Exchange"></div><a href="https://worldbuilding.stackexchange.com/questions/233260/guam-revenge-of-the-birds" class="js-gps-track question-hyperlink mb0" data-gps-track="site.switch({ item_type:8, target_site:579 }); posts_hot_network.click({ item_type:2, location:8 })">
+                    Guam - Revenge of the Birds
                 </a>
 
             </li>
@@ -3598,14 +3413,56 @@ your communities            </h3>
 
             </li>
             <li class="dno js-hidden">
+                <div class="favicon favicon-crypto" title="Cryptography Stack Exchange"></div><a href="https://crypto.stackexchange.com/questions/101215/what-does-key-version-refer-to-when-talking-about-aes-128-in-nxps-datasheet" class="js-gps-track question-hyperlink mb0" data-gps-track="site.switch({ item_type:8, target_site:281 }); posts_hot_network.click({ item_type:2, location:8 })">
+                    What does &quot;key version&quot; refer to when talking about AES 128 in NXP&#x27;s datasheet?
+                </a>
+
+            </li>
+            <li class="dno js-hidden">
+                <div class="favicon favicon-academia" title="Academia Stack Exchange"></div><a href="https://academia.stackexchange.com/questions/187270/editors-having-a-initial-idea-about-the-final-decision-from-the-first-look-at-t" class="js-gps-track question-hyperlink mb0" data-gps-track="site.switch({ item_type:8, target_site:415 }); posts_hot_network.click({ item_type:2, location:8 })">
+                    Editors, having a initial idea about the final decision from the first look at the paper?
+                </a>
+
+            </li>
+            <li class="dno js-hidden">
                 <div class="favicon favicon-space" title="Space Exploration Stack Exchange"></div><a href="https://space.stackexchange.com/questions/59825/why-do-people-experience-weightlessness-on-the-way-up-in-parabolic-flight" class="js-gps-track question-hyperlink mb0" data-gps-track="site.switch({ item_type:8, target_site:508 }); posts_hot_network.click({ item_type:2, location:8 })">
                     Why do people experience weightlessness on the way up in parabolic flight?
                 </a>
 
             </li>
             <li class="dno js-hidden">
-                <div class="favicon favicon-tex" title="TeX - LaTeX Stack Exchange"></div><a href="https://tex.stackexchange.com/questions/651874/within-a-macro-whats-the-most-convenient-way-to-force-the-compile-to-fail" class="js-gps-track question-hyperlink mb0" data-gps-track="site.switch({ item_type:8, target_site:85 }); posts_hot_network.click({ item_type:2, location:8 })">
-                    Within a macro, what&#x27;s the most convenient way to force the compile to fail?
+                <div class="favicon favicon-electronics" title="Electrical Engineering Stack Exchange"></div><a href="https://electronics.stackexchange.com/questions/628774/way-to-measure-delay-propagation-between-two-different-systems" class="js-gps-track question-hyperlink mb0" data-gps-track="site.switch({ item_type:8, target_site:135 }); posts_hot_network.click({ item_type:2, location:8 })">
+                    Way to measure delay propagation between two different systems
+                </a>
+
+            </li>
+            <li class="dno js-hidden">
+                <div class="favicon favicon-history" title="History Stack Exchange"></div><a href="https://history.stackexchange.com/questions/69488/how-did-ancient-roman-family-names-survive-to-current-day-use" class="js-gps-track question-hyperlink mb0" data-gps-track="site.switch({ item_type:8, target_site:324 }); posts_hot_network.click({ item_type:2, location:8 })">
+                    How did ancient Roman family names survive to current day use?
+                </a>
+
+            </li>
+            <li class="dno js-hidden">
+                <div class="favicon favicon-security" title="Information Security Stack Exchange"></div><a href="https://security.stackexchange.com/questions/263582/is-a-sha256-hash-of-a-unix-timestamp-a-strong-password" class="js-gps-track question-hyperlink mb0" data-gps-track="site.switch({ item_type:8, target_site:162 }); posts_hot_network.click({ item_type:2, location:8 })">
+                    Is a sha256 hash of a unix timestamp a strong password
+                </a>
+
+            </li>
+            <li class="dno js-hidden">
+                <div class="favicon favicon-literature" title="Literature Stack Exchange"></div><a href="https://literature.stackexchange.com/questions/22896/why-are-santa-barbara-denver-and-dallas-held-up-as-examples-of-the-glamorous-h" class="js-gps-track question-hyperlink mb0" data-gps-track="site.switch({ item_type:8, target_site:668 }); posts_hot_network.click({ item_type:2, location:8 })">
+                    Why are Santa Barbara, Denver, and Dallas held up as examples of the glamorous high life?
+                </a>
+
+            </li>
+            <li class="dno js-hidden">
+                <div class="favicon favicon-worldbuilding" title="Worldbuilding Stack Exchange"></div><a href="https://worldbuilding.stackexchange.com/questions/233136/ideas-for-a-human-convenient-long-term-date-system-spanning-many-trillions-of-y" class="js-gps-track question-hyperlink mb0" data-gps-track="site.switch({ item_type:8, target_site:579 }); posts_hot_network.click({ item_type:2, location:8 })">
+                    Ideas for a human convenient, long term date system spanning many trillions of years
+                </a>
+
+            </li>
+            <li class="dno js-hidden">
+                <div class="favicon favicon-movies" title="Movies &amp; TV Stack Exchange"></div><a href="https://movies.stackexchange.com/questions/118170/what-exactly-is-a-european-style-of-single-source-lighting-which-involved-the" class="js-gps-track question-hyperlink mb0" data-gps-track="site.switch({ item_type:8, target_site:367 }); posts_hot_network.click({ item_type:2, location:8 })">
+                    What exactly is a &#x201C;European style of single-source lighting, which involved the use of incense burners?&#x201D;
                 </a>
 
             </li>
@@ -3752,7 +3609,7 @@ your communities            </h3>
                 </ul>
 
                 <p class="md:mb0">
-Site design / logo &#169; 2022 Stack Exchange Inc; user contributions licensed under <a href="https://stackoverflow.com/help/licensing">CC BY-SA</a>.                    <span id="svnrev">rev&nbsp;2022.7.25.42654</span>
+Site design / logo &#169; 2022 Stack Exchange Inc; user contributions licensed under <a href="https://stackoverflow.com/help/licensing">CC BY-SA</a>.                    <span id="svnrev">rev&nbsp;2022.7.26.42663</span>
                 </p>
             </div>
         </div>

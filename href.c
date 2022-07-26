@@ -1,5 +1,8 @@
 #include "href.h"
 
+#define MAXLEN_PATH 4069
+#define MAXLEN_NAMEFILE 255
+
 void reverse(char*, int);
 char* getExtenLink(char*, int);
 char *subStr(char*, int, int, char*);
@@ -16,13 +19,14 @@ void dwlstlinks(data_links dt_links)
 	//char path[500000]; // path to witch file save
 	char *exten_file, *name_file;	
 	for (int i = 0, len_url; i < dt_links.len_links; ++i) {
-		char path[500000];
+		char path[4096 + 1];
 		len_url = strlen(dt_links.links[i]);
 		exten_file = getExtenLink(dt_links.links[i], len_url);	
 		name_file = getNameFileLink(dt_links.links[i], len_url);
 		rplcSlshLnk(name_file);
 		
 		sprintf(path, "%s/%s.%s", DOWNDIR, name_file, exten_file);
+		printf("%ld\n", strlen(name_file));
 		dwlink(path, dt_links.links[i]);
 	}
 }
