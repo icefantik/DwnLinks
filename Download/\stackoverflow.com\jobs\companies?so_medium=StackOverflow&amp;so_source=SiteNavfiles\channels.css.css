@@ -61,7 +61,7 @@ StackExchange.ga.setDimension('dimension20', 'No');
         
 
 
-    <script type="application/json" data-role="module-args" data-module-name="Shared/options.mod">{"options":{"locale":"en","serverTime":1658858018,"routeName":"Jobs: CompanyPageDisplay/Index","stackAuthUrl":"https://stackauth.com","networkMetaHostname":"meta.stackexchange.com","site":{"name":"Stack Overflow","description":"Q\u0026A for professional and enthusiast programmers","isNoticesTabEnabled":true,"enableNewTagCreationWarning":true,"insertSpaceAfterNameTabCompletion":false,"id":1,"cookieDomain":".stackoverflow.com","childUrl":"https://meta.stackoverflow.com","negativeVoteScoreFloor":null,"enableSocialMediaInSharePopup":true,"protocol":"https"},"user":{"fkey":"2ca8b6a429edf5ea2771bc9c01c5c6807cee5113f00f498ac4a5d96603b4fa61","tid":"df3e3fbf-c4f6-d9bf-8425-e49925e7ecbd","rep":0,"isAnonymous":true,"isAnonymousNetworkWide":true},"events":{"postType":{"question":1},"postEditionSection":{"title":1,"body":2,"tags":3}},"svgIconPath":"https://cdn.sstatic.net/Img/stacks-icons","svgIconHash":"e07884e71a43"}}</script>
+    <script type="application/json" data-role="module-args" data-module-name="Shared/options.mod">{"options":{"locale":"en","serverTime":1658954719,"routeName":"Jobs: CompanyPageDisplay/Index","stackAuthUrl":"https://stackauth.com","networkMetaHostname":"meta.stackexchange.com","site":{"name":"Stack Overflow","description":"Q\u0026A for professional and enthusiast programmers","isNoticesTabEnabled":true,"enableNewTagCreationWarning":true,"insertSpaceAfterNameTabCompletion":false,"id":1,"cookieDomain":".stackoverflow.com","childUrl":"https://meta.stackoverflow.com","negativeVoteScoreFloor":null,"enableSocialMediaInSharePopup":true,"protocol":"https"},"user":{"fkey":"793016f687277cf455e70e443052f21cbdd11241e8987b751dfa62c615e2b01f","tid":"8fd73dbc-9f28-46c1-2209-e94344d15369","rep":0,"isAnonymous":true,"isAnonymousNetworkWide":true},"events":{"postType":{"question":1},"postEditionSection":{"title":1,"body":2,"tags":3}},"svgIconPath":"https://cdn.sstatic.net/Img/stacks-icons","svgIconHash":"e07884e71a43"}}</script>
 <script type="application/json" data-role="module-args" data-module-name="Shared/settings.mod">{"settings":{"userMessaging":{"showNewFeatureNotice":true},"tags":{},"subscriptions":{"defaultBasicMaxTrueUpSeats":250,"defaultFreemiumMaxTrueUpSeats":50,"defaultMaxTrueUpSeats":1000},"snippets":{"renderDomain":"stacksnippets.net","snippetsEnabled":true},"site":{"allowImageUploads":true,"enableImgurHttps":true,"enableUserHovercards":true,"forceHttpsImages":true,"styleCode":true},"questions":{"enableQuestionTitleLengthLiveWarning":true,"maxTitleSize":150,"questionTitleLengthStartLiveWarningChars":50},"intercom":{"appId":"inf0secd","hostBaseUrl":"https://stacksnippets.net"},"paths":{},"monitoring":{"clientTimingsAbsoluteTimeout":30000,"clientTimingsDebounceTimeout":1000},"mentions":{"maxNumUsersInDropdown":50},"markdown":{"enableTables":true},"legal":{"oneTrustConfigId":"c3d9f1e3-55f3-4eba-b268-46cee4c6789c"},"flags":{"allowRetractingCommentFlags":true,"allowRetractingFlags":true},"elections":{"opaVoteResultsBaseUrl":"https://www.opavote.com/results/"},"comments":{},"accounts":{"currentPasswordRequiredForChangingStackIdPassword":true}}}</script>
 <script>StackExchange.init();</script>
 
@@ -817,43 +817,6 @@ your communities            </h3>
             </div>
             <div class="dismissable-company -company ps-relative js-dismiss-overlay-container p24 pr32 bb bc-black-100">
                     <div class="dismiss-overlay ps-absolute ta-center p16 t0 r0 b0 l0 d-flex ai-center jc-center o90  bg-black-050">
-                        <p class="mb0 fs-body3 fc-black-700">Okay, you won’t see this company anymore. <a href="#" class="js-undismiss-company" data-id="32169">Undo</a></p>
-                    </div>
-                    <div class="dismiss-trigger js-dismiss-company ps-absolute r12 fc-black-500 c-pointer" data-id="32169" data-referrer="CompanySearch" title="Dismiss company"><svg aria-hidden="true" class="svg-icon iconClearSm" width="14" height="14" viewBox="0 0 14 14"><path d="M12 3.41 10.59 2 7 5.59 3.41 2 2 3.41 5.59 7 2 10.59 3.41 12 7 8.41 10.59 12 12 10.59 8.41 7 12 3.41Z"/></svg></div>
-                <div class="d-flex">
-                    <div class="flex--item images">
-
-
-                            <a href="/jobs/companies/baker-hughes?c=OzPVFwyuyrVybDZS&amp;so_medium=StackOverflow&amp;amp%3Bso_source=SiteNavfiles%2Fchannels.css">
-                                <img src="https://i.stack.imgur.com/jbEsE.png?s=128" class="flex--item s-avatar s-avatar__64 bg-white overflow-hidden mr24" />
-                            </a>
-                    </div>
-
-                    <div class="flex--item fl1 text mb0">
-
-                        <h2 class="fs-body2 mb4">
-                            <a class="s-link" href="/jobs/companies/baker-hughes?c=OzPVFwyuyrVybDZS&amp;so_medium=StackOverflow&amp;amp%3Bso_source=SiteNavfiles%2Fchannels.css">Baker Hughes</a>
-
-                        </h2>
-
-                        <div class="d-flex gs12 gsx ff-row-wrap fs-body1">
-                                <div class="flex--item fc-black-500 fs-body1"><svg class="ps-relative tn2 svg-icon iconLocation" aria-hidden="true" width="12" height="12" viewBox="0 0 18 18"><path d="M8.1 17.7S2 9.9 2 6.38A6.44 6.44 0 0 1 8.5 0C12.09 0 15 2.86 15 6.38 15 9.91 8.9 17.7 8.9 17.7c-.22.29-.58.29-.8 0zm.4-8.45a2.75 2.75 0 1 0 0-5.5 2.75 2.75 0 0 0 0 5.5z"></path></svg> Houston; Cramlington; Groby</div>
-
-                                <div class="flex--item fc-black-500 fs-body1"><svg aria-hidden="true" class="ps-relative tn2 svg-icon iconIndustry" width="14" height="14" viewBox="0 0 18 18"><path d="M10 16v-4H8v4H2V4c0-1.1.9-2 2-2h6a2 2 0 0 1 2 2v2h2a2 2 0 0 1 2 2v8h-6zM4 4v2h2V4H4zm0 4v2h2V8H4zm4-4v2h2V4H8zm0 4v2h2V8H8zm-4 4v2h2v-2H4zm8 0v2h2v-2h-2zm0-4v2h2V8h-2z"></path></svg> Software Development / Engineering</div>
-                        </div>
-
-                            <p class="mt8 mb0 fs-body1 fc-black-700 v-truncate2">Our employees work on things that matter - reducing the carbon intensity of our operations, applying proven low-carbon technology to help our customers meet their environmental goals, and innovating for the future of energy.
-Baker Hughes is on a journey to utilize software and digital technology for better outcomes, both for ourselves and for our customers. For ourselves, we ar...</p>
-
-                        <div class="d-flex gs4 mt12 mb0 fw-wrap">
-                            <a href="/jobs/companies?tl=.net" class="flex--item s-tag no-tag-menu">.net</a><a href="/jobs/companies?tl=corestandard" class="flex--item s-tag no-tag-menu">corestandard</a><a href="/jobs/companies?tl=scrum" class="flex--item s-tag no-tag-menu">scrum</a>
-                           
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="dismissable-company -company ps-relative js-dismiss-overlay-container p24 pr32 bb bc-black-100">
-                    <div class="dismiss-overlay ps-absolute ta-center p16 t0 r0 b0 l0 d-flex ai-center jc-center o90  bg-black-050">
                         <p class="mb0 fs-body3 fc-black-700">Okay, you won’t see this company anymore. <a href="#" class="js-undismiss-company" data-id="23308">Undo</a></p>
                     </div>
                     <div class="dismiss-trigger js-dismiss-company ps-absolute r12 fc-black-500 c-pointer" data-id="23308" data-referrer="CompanySearch" title="Dismiss company"><svg aria-hidden="true" class="svg-icon iconClearSm" width="14" height="14" viewBox="0 0 14 14"><path d="M12 3.41 10.59 2 7 5.59 3.41 2 2 3.41 5.59 7 2 10.59 3.41 12 7 8.41 10.59 12 12 10.59 8.41 7 12 3.41Z"/></svg></div>
@@ -1075,8 +1038,45 @@ For the past ten years,...</p>
                     </div>
                 </div>
             </div>
+            <div class="dismissable-company -company ps-relative js-dismiss-overlay-container p24 pr32 bb bc-black-100">
+                    <div class="dismiss-overlay ps-absolute ta-center p16 t0 r0 b0 l0 d-flex ai-center jc-center o90  bg-black-050">
+                        <p class="mb0 fs-body3 fc-black-700">Okay, you won’t see this company anymore. <a href="#" class="js-undismiss-company" data-id="20917">Undo</a></p>
+                    </div>
+                    <div class="dismiss-trigger js-dismiss-company ps-absolute r12 fc-black-500 c-pointer" data-id="20917" data-referrer="CompanySearch" title="Dismiss company"><svg aria-hidden="true" class="svg-icon iconClearSm" width="14" height="14" viewBox="0 0 14 14"><path d="M12 3.41 10.59 2 7 5.59 3.41 2 2 3.41 5.59 7 2 10.59 3.41 12 7 8.41 10.59 12 12 10.59 8.41 7 12 3.41Z"/></svg></div>
+                <div class="d-flex">
+                    <div class="flex--item images">
+
+
+                            <a href="/jobs/companies/zeiss-group?c=wSZsZcs7hw9jnaco&amp;so_medium=StackOverflow&amp;amp%3Bso_source=SiteNavfiles%2Fchannels.css">
+                                <img src="https://i.stack.imgur.com/RQAf0.jpg?s=128" class="flex--item s-avatar s-avatar__64 bg-white overflow-hidden mr24" />
+                            </a>
+                    </div>
+
+                    <div class="flex--item fl1 text mb0">
+
+                        <h2 class="fs-body2 mb4">
+                            <a class="s-link" href="/jobs/companies/zeiss-group?c=wSZsZcs7hw9jnaco&amp;so_medium=StackOverflow&amp;amp%3Bso_source=SiteNavfiles%2Fchannels.css">ZEISS Group</a>
+
+                        </h2>
+
+                        <div class="d-flex gs12 gsx ff-row-wrap fs-body1">
+                                <div class="flex--item fc-black-500 fs-body1"><svg class="ps-relative tn2 svg-icon iconLocation" aria-hidden="true" width="12" height="12" viewBox="0 0 18 18"><path d="M8.1 17.7S2 9.9 2 6.38A6.44 6.44 0 0 1 8.5 0C12.09 0 15 2.86 15 6.38 15 9.91 8.9 17.7 8.9 17.7c-.22.29-.58.29-.8 0zm.4-8.45a2.75 2.75 0 1 0 0-5.5 2.75 2.75 0 0 0 0 5.5z"></path></svg> M&#252;nchen; Oberkochen; Jena</div>
+
+                                <div class="flex--item fc-black-500 fs-body1"><svg aria-hidden="true" class="ps-relative tn2 svg-icon iconIndustry" width="14" height="14" viewBox="0 0 18 18"><path d="M10 16v-4H8v4H2V4c0-1.1.9-2 2-2h6a2 2 0 0 1 2 2v2h2a2 2 0 0 1 2 2v8h-6zM4 4v2h2V4H4zm0 4v2h2V8H4zm4-4v2h2V4H8zm0 4v2h2V8H8zm-4 4v2h2v-2H4zm8 0v2h2v-2h-2zm0-4v2h2V8h-2z"></path></svg> Machine Learning, Medical Devices, Virtual Reality</div>
+                        </div>
+
+                            <p class="mt8 mb0 fs-body1 fc-black-700 v-truncate2">ZEISS is technology. ZEISS is optics and innovation. We develop, manufacture and sell highly innovative products and solutions for our customers in a variety of business fields. Our over 35,000 employees in 50 locations all around the world are constantly contributing to technological progress.
+Today our digital solutions accelerate medical progress, enable scientists to make t...</p>
+
+                        <div class="d-flex gs4 mt12 mb0 fw-wrap">
+                            <a href="/jobs/companies?tl=angularjs" class="flex--item s-tag no-tag-menu">angularjs</a><a href="/jobs/companies?tl=swift" class="flex--item s-tag no-tag-menu">swift</a><a href="/jobs/companies?tl=c%23" class="flex--item s-tag no-tag-menu">c#</a>
+                           
+                        </div>
+                    </div>
+                </div>
+            </div>
     </div>
-<script>document.write('<img class="impression" src="/jobs/companies/a/i?a=qVrxYMw0x0HGW1NK-NIC24YD4JWbuA3U4-qc7cbBkVeRnSQVVK-OzPVFwyuyrVybDZS-AE472SJw62RXGXAs-FgsHplLqkZubbWWQ-yCTURSFj57W4cuzK-Jzmx3ZZeiNqxOKs0-7SbbnoNfNK6qIsxi-9hIu86MwP3PKv68M" style="display:none">');</script>
+<script>document.write('<img class="impression" src="/jobs/companies/a/i?a=qVrxYMw0x0HGW1NK-NIC24YD4JWbuA3U4-qc7cbBkVeRnSQVVK-AE472SJw62RXGXAs-FgsHplLqkZubbWWQ-yCTURSFj57W4cuzK-Jzmx3ZZeiNqxOKs0-7SbbnoNfNK6qIsxi-9hIu86MwP3PKv68M-wSZsZcs7hw9jnaco" style="display:none">');</script>
 
 <div class="py32 px16">
         <div class="s-pagination">
@@ -1127,7 +1127,7 @@ For the past ten years,...</p>
                     token: "ab6d9997c71d45d082e65135f148be49",
                     application: "stack-overflow-jobs",
                     userId: '0',
-                    version: '11429'
+                    version: '11430'
                 });
         </script>
     <script type="text/javascript">
@@ -1168,7 +1168,7 @@ For the past ten years,...</p>
 
 <script type="application/json" data-role="module-args" data-module-name="analytics.prizm">{"enabled":false,"url":"/jobs/n/prizm/event"}</script>
 
-<script type="application/json" data-role="module-args" data-module-name="settings">{"isProxied":true,"XSRF_KEY":"2ca8b6a429edf5ea2771bc9c01c5c6807cee5113f00f498ac4a5d96603b4fa61","isSunset":true}</script>
+<script type="application/json" data-role="module-args" data-module-name="settings">{"isProxied":true,"XSRF_KEY":"793016f687277cf455e70e443052f21cbdd11241e8987b751dfa62c615e2b01f","isSunset":true}</script>
 
 <script type="application/json" data-role="module-args" data-module-name="Jobs/user">{"isAnonymous":true,"isModerator":false}</script>
 
@@ -1283,7 +1283,7 @@ For the past ten years,...</p>
                 </ul>
 
                 <p class="md:mb0">
-Site design / logo &#169; 2022 Stack Exchange Inc; user contributions licensed under <a href="https://stackoverflow.com/help/licensing">CC BY-SA</a>.                    <span id="svnrev">rev&nbsp;2022.7.26.42671</span>
+Site design / logo &#169; 2022 Stack Exchange Inc; user contributions licensed under <a href="https://stackoverflow.com/help/licensing">CC BY-SA</a>.                    <span id="svnrev">rev&nbsp;2022.7.27.42675</span>
                 </p>
             </div>
         </div>

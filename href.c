@@ -16,35 +16,31 @@ size_t write_data(void *ptr, size_t size, size_t nmemb, FILE *stream) {
 char* sliceNameFile(char * name_file)
 {
 	int index_result_str = 0;
-	char result[MAXLEN_PATH + 1];
+	char* result = (char*)malloc((MAXLEN_PATH + 1) * sizeof(char));
 	for (int i = 0; i < MAXLEN_PATH; ++i) {
-		result[index_result_str++] = name_file[i];
+		if (name_file[i] != ' ' || name_file[i] != '\t' || name_file[i] != '\n')
+			result[index_result_str++] = name_file[i];
 	}
-	result[MAXLEN_PATH + 1] = '\0';
+	result[MAXLEN_PATH] = '\0';
+
 	return result;	
 }
 
 // download list links and save file
-void dwlstlinks(data_links dt_links)
+void dwlstlinks(char *link)
 {
-	//char path[500000]; // path to witch file save
+	char path[MAXLEN_PATH+1]; // path to witch file save
 	char *exten_file, *name_file;	
-	for (int i = 0, len_url; i < dt_links.len_links; ++i) {
-		char path[MAXLEN_PATH+1];
-		len_url = strlen(dt_links.links[i]);
-		exten_file = getExtenLink(dt_links.links[i], len_url);	
-		name_file = getNameFileLink(dt_links.links[i], len_url);
-		rplcSlshLnk(name_file);
+	int len_url = strlen(link);
+	exten_file = getExtenLink(link, len_url);	
+	name_file = getNameFileLink(link, len_url);
+	rplcSlshLnk(name_file);
 		
-		sprintf(path, "%s/%s.%s", DOWNDIR, name_file, exten_file);
-		if (strlen(name_file) > MAXLEN_NAMEFILE) {
-			
-		}
-		else
-		{
-			dwlink(path, dt_links.links[i]);
-		}
+	if (strlen(name_file) > MAXLEN_NAMEFILE) {
+		name_file = sliceNameFile(name_file);
 	}
+	sprintf(path, "%s/%s.%s", DOWNDIR, name_file, exten_file);
+	dwlink(path, link);
 }
 
 // download file on link from href
@@ -105,8 +101,6 @@ void frdHtml(char* html_name)
 {
 	FILE *file = fopen(html_name, "r");
 	char str_from_html[LENHTML];
-	data_links dt_links;
-	dt_links.len_links = 0;
 	while(fgets(str_from_html, sizeof(str_from_html), file))
 	{
 		if (strstr(str_from_html, TAGHREF) != NULL) {
@@ -115,11 +109,10 @@ void frdHtml(char* html_name)
 			while (str_from_html[href_start_index] != '\"') {
 				link[index_link++] = str_from_html[href_start_index++];
 			}
-			strcpy(dt_links.links[dt_links.len_links++], link);
+			dwlstlinks(link);
 		}
 	}
 	fclose(file);
-	//dwlstlinks(dt_links);
 }
 
 char* fexten(char* name_file)
