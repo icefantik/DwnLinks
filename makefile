@@ -1,2 +1,2 @@
 all:
-	gcc main.c href.c href.h shref.c shref.h flink.c flink.h dir.h -lcurl -o pars
+	gcc main.c href.c shref.c -I ./include -lcurl -o pars

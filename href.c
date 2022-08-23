@@ -15,9 +15,11 @@ size_t write_data(void *ptr, size_t size, size_t nmemb, FILE *stream) {
 
 char* sliceNameFile(char * name_file)
 {
+	printf("%s\n", name_file);
 	int index_result_str = 0;
 	char* result = (char*)malloc((MAXLEN_PATH + 1) * sizeof(char));
-	for (int i = 0; i < MAXLEN_PATH; ++i) {
+	
+	for (int i = 0; name_file[i] != '\0'; ++i) { //i < MAXLEN_PATH; ++i) {
 		if (name_file[i] != ' ' || name_file[i] != '\t' || name_file[i] != '\n')
 			result[index_result_str++] = name_file[i];
 	}
@@ -53,7 +55,7 @@ void dwlink(char *path, char *url)
 	{
 		FILE *fp = fopen(path,"wb");
 		if (fp == NULL) {
-        		printf("Couldn't open %s: Segmentation faild file not create/open.\n", path);
+        		//printf("Couldn't open %s: Segmentation faild file not create/open.\n", path);
         	} else {
 			curl_easy_setopt(curl, CURLOPT_URL, url);
                 	curl_easy_setopt(curl, CURLOPT_WRITEFUNCTION, write_data);

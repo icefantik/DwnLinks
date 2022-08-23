@@ -71,7 +71,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <link rel='stylesheet' id='mo_saml_admin_settings_style-css'  href='https://149351115.v2.pressablecdn.com/wp-content/plugins/miniorange-saml-20-single-sign-on/includes/css/jquery.ui.css?ver=6.0.1' type='text/css' media='all' />
 <link rel='stylesheet' id='stacks-css'  href='https://149351115.v2.pressablecdn.com/wp-content/themes/stackoverflow/css/stacks.0.55.4.min.css' type='text/css' media='all' />
 <link rel='stylesheet' id='googlefonts-css'  href='https://fonts.googleapis.com/css?family=Roboto+Slab:700|Source+Sans+Pro:400,400i,700,700i&#038;display=swap' type='text/css' media='all' />
-<link rel='stylesheet' id='jetpack_css-css'  href='https://149351115.v2.pressablecdn.com/wp-content/plugins/jetpack/css/jetpack.css?ver=11.2-beta' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='https://149351115.v2.pressablecdn.com/wp-content/plugins/jetpack/css/jetpack.css?ver=11.3-a.9' type='text/css' media='all' />
 <script type='text/javascript' src='https://149351115.v2.pressablecdn.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
 <script type='text/javascript' src='https://149351115.v2.pressablecdn.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
 <script type='text/javascript' src='https://149351115.v2.pressablecdn.com/wp-content/plugins/miniorange-saml-20-single-sign-on/includes/js/settings.js?ver=6.0.1' id='mo_saml_admin_settings_script_widget-js'></script>
@@ -153,7 +153,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 
-<img height="1" width="1" style="display:none" alt="" src="https://www.googleadservices.com/pagead/conversion/961466557/?guid=ON&script=0&random=667262818&url=https://stackoverflow.blog/?blb=1usinessonalationr-jobsteams-talentnurl=https%3a%2f%2fstackoverflow.com%2fampaign-38&amp;utm_content=cta" />
+<img height="1" width="1" style="display:none" alt="" src="https://www.googleadservices.com/pagead/conversion/961466557/?guid=ON&script=0&random=819277014&url=https://stackoverflow.blog/?blb=1usinessonalationr-jobsteams-talentnurl=https%3a%2f%2fstackoverflow.com%2fampaign-38&amp;utm_content=cta" />
 
   
   <div id="wrapper" class="hfeed">
@@ -234,10 +234,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <div class="grid mxn16 ff-row-wrap md:fd-column">
     
               <div class="grid--cell12 overflow-hidden p16 pb48 sm:pb16 sm:fd-column">  
-          <article id="post-20466" class="grid gs32 md:fd-column pb48 bb bc-black-1 post-20466 post type-post status-publish format-standard has-post-thumbnail hentry category-announcements category-community category-company category-culture category-diversity tag-announcements tag-ceo-quarterly-post tag-collectives tag-community tag-developer-survey tag-se-stackoverflow tag-se-tech tag-stack-overflow-for-teams">
+          <article id="post-20564" class="grid gs32 md:fd-column pb48 bb bc-black-1 post-20564 post type-post status-publish format-standard has-post-thumbnail hentry category-code-for-a-living tag-burnout tag-metrics tag-se-stackoverflow tag-se-tech tag-velocity">
   <div class="grid--cell9 mb0">
-      <a href="https://stackoverflow.blog/2022/07/27/always-learning/" class="d-block bar-lg overflow-hidden imgfill ps-relative bg-black-025 bs-md h:bs-lg ps-releative">
-    <img width="1024" height="538" src="https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/q2-2022-ceo_00.png" class="w100 h100 d-block ps-absolute t0 r0 l0 b0 wp-post-image" alt="" srcset="https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/q2-2022-ceo_00.png 1200w , https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/q2-2022-ceo_00-300x158.png 300w , https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/q2-2022-ceo_00-768x403.png 768w " sizes="(max-width: 1024px) 100vw, 1024px" /> 
+      <a href="https://stackoverflow.blog/2022/08/22/does-high-velocity-lead-to-burnout-that-may-be-the-wrong-question-to-ask/" class="d-block bar-lg overflow-hidden imgfill ps-relative bg-black-025 bs-md h:bs-lg ps-releative">
+    <img width="1024" height="538" src="https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/08/081922-Stack-Overflow-Does-high-velocity-cause-burnout_-1200x630.jpg" class="w100 h100 d-block ps-absolute t0 r0 l0 b0 wp-post-image" alt="" srcset="https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/08/081922-Stack-Overflow-Does-high-velocity-cause-burnout_-1200x630.jpg 1200w , https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/08/081922-Stack-Overflow-Does-high-velocity-cause-burnout_-300x158.jpg 300w , https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/08/081922-Stack-Overflow-Does-high-velocity-cause-burnout_-768x403.jpg 768w , https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/08/081922-Stack-Overflow-Does-high-velocity-cause-burnout_-1536x806.jpg 1536w , https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/08/081922-Stack-Overflow-Does-high-velocity-cause-burnout_-2048x1075.jpg 2048w " sizes="(max-width: 1024px) 100vw, 1024px" /> 
 
       </a>
   </div>
@@ -245,25 +245,432 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <div class="grid--cell3 d-flex fd-column">
     <header>
       <section class="mb16">
-  <a href="https://stackoverflow.blog/community/" class="s-tag bar-md va-middle mr12">community</a>  
+  <a href="https://stackoverflow.blog/code-for-a-living/" class="s-tag bar-md va-middle mr12">code-for-a-living</a>  
   <span class="fc-black-300 tt-uppercase va-middle ls-sm">
-    July 27, 2022  </span>
+    August 22, 2022  </span>
 </section>
 
       <h2 class="fs-headline2 lh-sm mb24">
         <a
-          href="https://stackoverflow.blog/2022/07/27/always-learning/"
-          title="Always learning"
+          href="https://stackoverflow.blog/2022/08/22/does-high-velocity-lead-to-burnout-that-may-be-the-wrong-question-to-ask/"
+          title="Does high velocity lead to burnout? That may be the wrong question to ask."
           rel="bookmark"
           class="fc-black-800 h:fc-blue-500"
         >
-          Always learning        </a>
+          Does high velocity lead to burnout? That may be the wrong question to ask.        </a>
       </h2>
     </header>
 
-    <div class="fs-body3 mb24 lh-excerpt">It’s been a busy quarter for the company. We celebrated a handful of big milestones over the last three months. We added a new Chief Technology Officer, Jody Bailey, to our leadership team, announced Stack Overflow for Teams entering the Microsoft Azure Marketplace, launched exciting initiatives like Staging Ground, and released insights from this year’s Developer Survey.</div>    
+    <div class="fs-body3 mb24 lh-excerpt">High velocity compared to what?</div>    
     <div class="mt-auto bt bc-black-1 pt32 sm:pt0 sm:bt0">
       <div class="grid ai-center author vcard fs-body2">
+  <div class="grid__cell mr12 ws-nowrap">
+          <div class="bar-circle overflow-hidden d-inline-block ">  
+        <img alt='Avatar for Ben Matthews' src='https://secure.gravatar.com/avatar/3df0e6722cee5c15556ce71136c8d5f7?s=40&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/3df0e6722cee5c15556ce71136c8d5f7?s=80&#038;d=mm&#038;r=g 2x' class='avatar avatar-40 photo d-block' height='40' width='40' loading='lazy'/>      </div>
+      </div>
+  <div class="grid__cell fc-black-350">
+    <span class="d-block fw-bold fc-black-900">
+      <a href="https://stackoverflow.blog/author/bmatthews/" title="Posts by Ben Matthews" class="author url fn" rel="author">Ben Matthews</a>    </span>
+    Director, Engineering  </div>
+</div>
+
+    </div>
+  </div>
+</article>
+        </div>
+      
+      
+      
+          
+      
+      
+      
+              <div class="grid--cell3 overflow-hidden p16 pb48 sm:pb16">
+          <article id="post-20541" class="d-flex fd-column h100 post-20541 post type-post status-publish format-standard has-post-thumbnail hentry category-code-for-a-living tag-reading-code tag-se-stackoverflow tag-se-tech">
+    <a href="https://stackoverflow.blog/2022/08/15/how-to-interrogate-unfamiliar-code/" class="d-block bar-lg overflow-hidden imgfill ps-relative bg-black-025 bs-md h:bs-lg ps-releative">
+    <img width="1024" height="538" src="https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/08/081222-Stack-Overflow-How-to-interrogate-unfamiliar-code-1200x630.jpg" class="w100 h100 d-block ps-absolute t0 r0 l0 b0 wp-post-image" alt="" loading="lazy" srcset="https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/08/081222-Stack-Overflow-How-to-interrogate-unfamiliar-code-1200x630.jpg 1200w , https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/08/081222-Stack-Overflow-How-to-interrogate-unfamiliar-code-300x158.jpg 300w , https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/08/081222-Stack-Overflow-How-to-interrogate-unfamiliar-code-768x403.jpg 768w , https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/08/081222-Stack-Overflow-How-to-interrogate-unfamiliar-code-1536x806.jpg 1536w , https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/08/081222-Stack-Overflow-How-to-interrogate-unfamiliar-code-2048x1075.jpg 2048w " sizes="(max-width: 1024px) 100vw, 1024px" /> 
+
+      </a>
+
+  <header class="mt24 sm:mt16">
+    <section class="mb16">
+  <a href="https://stackoverflow.blog/code-for-a-living/" class="s-tag bar-md va-middle mr12">code-for-a-living</a>  
+  <span class="fc-black-300 tt-uppercase va-middle ls-sm">
+    August 15, 2022  </span>
+</section>
+    <h2 class="fs-headline1 lh-sm ww-break-word">
+  <a
+    href="https://stackoverflow.blog/2022/08/15/how-to-interrogate-unfamiliar-code/"
+    title="How to interrogate unfamiliar code"
+    rel="bookmark"
+    class="fc-black-800 h:fc-blue-500"
+  >
+    How to interrogate unfamiliar code  </a>
+</h2>  </header>
+
+  <div class="fs-body3 mb24 lh-excerpt">Readable code is great, but not all code will be immediately readable. That's when you get your interrogation tools. </div>
+  <div class="mt-auto bb bc-black-1 pb16">
+    <div class="grid ai-center author vcard fs-body2">
+  <div class="grid__cell mr12 ws-nowrap">
+          <div class="bar-circle overflow-hidden d-inline-block ">  
+        <img alt='Avatar for ' src='https://149351115.v2.pressablecdn.com/wp-content/uploads/2020/12/unnamed-1.jpg' srcset='https://149351115.v2.pressablecdn.com/wp-content/uploads/2020/12/unnamed-1.jpg 2x ' class='avatar avatar-40 photo avatar-default d-block' height='40' width='40' loading='lazy'/>      </div>
+      </div>
+  <div class="grid__cell fc-black-350">
+    <span class="d-block fw-bold fc-black-900">
+      <a href="https://stackoverflow.blog/author/isaac-lyman/" title="Posts by Isaac Lyman" class="author url fn" rel="author">Isaac Lyman</a>    </span>
+      </div>
+</div>
+
+  </div>
+</article>        </div>
+          
+      
+      
+      
+              <div class="grid--cell3 overflow-hidden p16 pb48 sm:pb16">
+          <article id="post-20533" class="d-flex fd-column h100 post-20533 post type-post status-publish format-standard has-post-thumbnail hentry category-code-for-a-living tag-low-code tag-no-code tag-se-stackoverflow tag-se-tech">
+    <a href="https://stackoverflow.blog/2022/08/10/will-low-and-no-code-tools-ever-truly-disrupt-tech-development/" class="d-block bar-lg overflow-hidden imgfill ps-relative bg-black-025 bs-md h:bs-lg ps-releative">
+    <img width="1024" height="538" src="https://149351115.v2.pressablecdn.com/wp-content/uploads/2021/06/070121-StackOverflow-The-Internet-Alex-Francis-1200x630.jpg" class="w100 h100 d-block ps-absolute t0 r0 l0 b0 wp-post-image" alt="" loading="lazy" srcset="https://149351115.v2.pressablecdn.com/wp-content/uploads/2021/06/070121-StackOverflow-The-Internet-Alex-Francis-1200x630.jpg 1200w , https://149351115.v2.pressablecdn.com/wp-content/uploads/2021/06/070121-StackOverflow-The-Internet-Alex-Francis-300x158.jpg 300w , https://149351115.v2.pressablecdn.com/wp-content/uploads/2021/06/070121-StackOverflow-The-Internet-Alex-Francis-768x403.jpg 768w , https://149351115.v2.pressablecdn.com/wp-content/uploads/2021/06/070121-StackOverflow-The-Internet-Alex-Francis-1536x806.jpg 1536w , https://149351115.v2.pressablecdn.com/wp-content/uploads/2021/06/070121-StackOverflow-The-Internet-Alex-Francis-2048x1075.jpg 2048w " sizes="(max-width: 1024px) 100vw, 1024px" /> 
+
+      </a>
+
+  <header class="mt24 sm:mt16">
+    <section class="mb16">
+  <a href="https://stackoverflow.blog/code-for-a-living/" class="s-tag bar-md va-middle mr12">code-for-a-living</a>  
+  <span class="fc-black-300 tt-uppercase va-middle ls-sm">
+    August 10, 2022  </span>
+</section>
+    <h2 class="fs-headline1 lh-sm ww-break-word">
+  <a
+    href="https://stackoverflow.blog/2022/08/10/will-low-and-no-code-tools-ever-truly-disrupt-tech-development/"
+    title="Will low and no code tools ever truly disrupt tech development?"
+    rel="bookmark"
+    class="fc-black-800 h:fc-blue-500"
+  >
+    Will low and no code tools ever truly disrupt tech development?  </a>
+</h2>  </header>
+
+  <div class="fs-body3 mb24 lh-excerpt">Will the programmers of tomorrow be shipping products written without touching too much code?</div>
+  <div class="mt-auto bb bc-black-1 pb16">
+    <div class="grid ai-center author vcard fs-body2">
+  <div class="grid__cell mr12 ws-nowrap">
+          <div class="bar-circle overflow-hidden d-inline-block ">  
+        <img alt='Avatar for Katrina Dene' src='https://secure.gravatar.com/avatar/1849f9cf0dba099915c0233933b60b49?s=40&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/1849f9cf0dba099915c0233933b60b49?s=80&#038;d=mm&#038;r=g 2x' class='avatar avatar-40 photo d-block' height='40' width='40' loading='lazy'/>      </div>
+      </div>
+  <div class="grid__cell fc-black-350">
+    <span class="d-block fw-bold fc-black-900">
+      <a href="https://stackoverflow.blog/author/kdene/" title="Posts by Katrina Dene" class="author url fn" rel="author">Katrina Dene</a>    </span>
+    Director of Communications  </div>
+</div>
+
+  </div>
+</article>        </div>
+          
+      
+      
+      
+              <div class="grid--cell3 overflow-hidden p16 pb48 sm:pb16">
+          <article id="post-20520" class="d-flex fd-column h100 post-20520 post type-post status-publish format-standard has-post-thumbnail hentry category-code-for-a-living tag-se-stackoverflow tag-se-tech">
+    <a href="https://stackoverflow.blog/2022/08/08/can-you-stop-your-open-source-project-from-being-used-for-evil/" class="d-block bar-lg overflow-hidden imgfill ps-relative bg-black-025 bs-md h:bs-lg ps-releative">
+    <img width="1024" height="538" src="https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/08/072822-Stack-Overflow-Can-you-stop-your-open-source-project-from-being-used-for-evil_-1200x630.jpg" class="w100 h100 d-block ps-absolute t0 r0 l0 b0 wp-post-image" alt="Figure with a glowing staff atop a mountain. Behind the figure is a flying red dragon. In the foreground, a figure watches them, a sword slung over their back." loading="lazy" srcset="https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/08/072822-Stack-Overflow-Can-you-stop-your-open-source-project-from-being-used-for-evil_-1200x630.jpg 1200w , https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/08/072822-Stack-Overflow-Can-you-stop-your-open-source-project-from-being-used-for-evil_-300x158.jpg 300w , https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/08/072822-Stack-Overflow-Can-you-stop-your-open-source-project-from-being-used-for-evil_-768x403.jpg 768w , https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/08/072822-Stack-Overflow-Can-you-stop-your-open-source-project-from-being-used-for-evil_-1536x806.jpg 1536w , https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/08/072822-Stack-Overflow-Can-you-stop-your-open-source-project-from-being-used-for-evil_-2048x1075.jpg 2048w " sizes="(max-width: 1024px) 100vw, 1024px" /> 
+
+      </a>
+
+  <header class="mt24 sm:mt16">
+    <section class="mb16">
+  <a href="https://stackoverflow.blog/code-for-a-living/" class="s-tag bar-md va-middle mr12">code-for-a-living</a>  
+  <span class="fc-black-300 tt-uppercase va-middle ls-sm">
+    August 8, 2022  </span>
+</section>
+    <h2 class="fs-headline1 lh-sm ww-break-word">
+  <a
+    href="https://stackoverflow.blog/2022/08/08/can-you-stop-your-open-source-project-from-being-used-for-evil/"
+    title="Can you stop your open-source project from being used for evil?"
+    rel="bookmark"
+    class="fc-black-800 h:fc-blue-500"
+  >
+    Can you stop your open-source project from being used for evil?  </a>
+</h2>  </header>
+
+  <div class="fs-body3 mb24 lh-excerpt">Can you control what you've already set free?</div>
+  <div class="mt-auto bb bc-black-1 pb16">
+    <div class="grid ai-center author vcard fs-body2">
+  <div class="grid__cell mr12 ws-nowrap">
+          <div class="bar-circle overflow-hidden d-inline-block ">  
+        <img alt='Avatar for ' src='https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/05/widder-david.jpg' srcset='https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/05/widder-david.jpg 2x ' class='avatar avatar-40 photo avatar-default d-block' height='40' width='40' loading='lazy'/>      </div>
+      </div>
+  <div class="grid__cell fc-black-350">
+    <span class="d-block fw-bold fc-black-900">
+      <a href="https://stackoverflow.blog/author/david-gray-widder/" title="Posts by David Gray Widder" class="author url fn" rel="author">David Gray Widder</a>    </span>
+      </div>
+</div>
+
+  </div>
+</article>        </div>
+          
+      
+      
+              <div id="section-podcast" class="bg-black-750 d:bg-black-025 mb48 mt12 p24 pt32 mxn24 sm:ml0 sm:mr0 sm:pl16 sm:pr16 bar-xl">
+          <div class="fc-white d:fc-black-900 fs-body3 wmx7 pl16 mb24 mt8">
+  <a href="/podcast/"><img src="https://stackoverflow.blog/wp-content/themes/stackoverflow/img/logo-podcast.svg" class="float-left mr24" alt="Podcast logo" /></a>
+
+  <a href="/podcast/" class="fw-bold fc-white d:fc-black-900">The Stack Overflow Podcast</a> is a weekly conversation about working in software development, learning to code, and the art and culture of computer programming.
+</div>
+<div class="grid grid--cell12 md:fd-column clear-both">
+      <div class="grid--cell3 overflow-hidden p16 d-flex">
+      <article class="grid fd-column bg-white bar-lg bs-lg p24 w100 ">
+        <header class="sm:mt16">
+          <div class="mb8 fc-black-300 tt-uppercase va-middle ls-sm">
+            August 23, 2022          </div>
+          <h2 class="fs-headline1 lh-sm ww-break-word">
+  <a
+    href="https://stackoverflow.blog/2022/08/23/why-ai-is-having-an-on-prem-moment-ep-476/"
+    title="Why AI is having an on-prem moment (Ep. 476)"
+    rel="bookmark"
+    class="fc-black-800 h:fc-blue-500"
+  >
+    Why AI is having an on-prem moment (Ep. 476)  </a>
+</h2>        </header>
+
+        <div class="fs-body3 mb24 lh-excerpt">The home team discusses how Instagram’s evolving platform has alienated some creators, why AI and machine learning are moving on-premises, and why Amazon’s acquisition of the company behind the Roomba is striking from a privacy perspective.</div>  
+
+        <a href="https://stackoverflow.blog/2022/08/23/why-ai-is-having-an-on-prem-moment-ep-476/" class="fc-orange-500 h:fc-orange-700 fs-body2 fw-bold mt-auto bt bc-black-1 px32 pt24 mxn24 d-block">
+          <svg aria-hidden="true" class="va-middle mr8 svg-icon iconPlay" width="24" height="25" viewBox="0 0 24 25" fill="none">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M12 24.0984C18.6274 24.0984 24 18.7258 24 12.0984C24 5.47097 18.6274 0.0983887 12 0.0983887C5.37258 0.0983887 0 5.47097 0 12.0984C0 18.7258 5.37258 24.0984 12 24.0984ZM10.8108 7.68427C10.0068 7.15102 8.93273 7.7274 8.93273 8.69207V12.0789V15.4658C8.93273 16.4305 10.0068 17.0069 10.8108 16.4736L15.916 13.0867C16.6371 12.6084 16.6371 11.5495 15.916 11.0711L10.8108 7.68427Z" fill="#F2720C"/>
+</svg>
+          Listen now
+        </a>
+      </article>
+    </div>
+      <div class="grid--cell3 overflow-hidden p16 d-flex">
+      <article class="grid fd-column bg-white bar-lg bs-lg p24 w100 ">
+        <header class="sm:mt16">
+          <div class="mb8 fc-black-300 tt-uppercase va-middle ls-sm">
+            August 19, 2022          </div>
+          <h2 class="fs-headline1 lh-sm ww-break-word">
+  <a
+    href="https://stackoverflow.blog/2022/08/19/combining-the-best-of-engineering-cultures-from-silicon-valley-and-shanghai-ep-475/"
+    title="Combining the best of engineering cultures from Silicon Valley and Shanghai (Ep. 475)"
+    rel="bookmark"
+    class="fc-black-800 h:fc-blue-500"
+  >
+    Combining the best of engineering cultures from Silicon Valley and Shanghai (Ep. 475)  </a>
+</h2>        </header>
+
+        <div class="fs-body3 mb24 lh-excerpt">The home team sits down with Liam Zhao, founder and CEO of Immersive, a startup that gives creators tools to produce engaging virtual content and events. </div>  
+
+        <a href="https://stackoverflow.blog/2022/08/19/combining-the-best-of-engineering-cultures-from-silicon-valley-and-shanghai-ep-475/" class="fc-orange-500 h:fc-orange-700 fs-body2 fw-bold mt-auto bt bc-black-1 px32 pt24 mxn24 d-block">
+          <svg aria-hidden="true" class="va-middle mr8 svg-icon iconPlay" width="24" height="25" viewBox="0 0 24 25" fill="none">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M12 24.0984C18.6274 24.0984 24 18.7258 24 12.0984C24 5.47097 18.6274 0.0983887 12 0.0983887C5.37258 0.0983887 0 5.47097 0 12.0984C0 18.7258 5.37258 24.0984 12 24.0984ZM10.8108 7.68427C10.0068 7.15102 8.93273 7.7274 8.93273 8.69207V12.0789V15.4658C8.93273 16.4305 10.0068 17.0069 10.8108 16.4736L15.916 13.0867C16.6371 12.6084 16.6371 11.5495 15.916 11.0711L10.8108 7.68427Z" fill="#F2720C"/>
+</svg>
+          Listen now
+        </a>
+      </article>
+    </div>
+      <div class="grid--cell3 overflow-hidden p16 d-flex">
+      <article class="grid fd-column bg-white bar-lg bs-lg p24 w100 ">
+        <header class="sm:mt16">
+          <div class="mb8 fc-black-300 tt-uppercase va-middle ls-sm">
+            August 17, 2022          </div>
+          <h2 class="fs-headline1 lh-sm ww-break-word">
+  <a
+    href="https://stackoverflow.blog/2022/08/17/the-last-technical-interview-youll-ever-take/"
+    title="The last technical interview you&#8217;ll ever take (Ep. 474)"
+    rel="bookmark"
+    class="fc-black-800 h:fc-blue-500"
+  >
+    The last technical interview you&#8217;ll ever take (Ep. 474)  </a>
+</h2>        </header>
+
+        <div class="fs-body3 mb24 lh-excerpt">Since the day a hiring manager first wheeled a whiteboard into a conference room, software engineers have dreaded the technical interview, which can be an all-day process (or multi-day homework assignment). If you’re interviewing for multiple roles, you can expect to write out a bubble sort in pseudocode for each one. These technical interviews do…</div>  
+
+        <a href="https://stackoverflow.blog/2022/08/17/the-last-technical-interview-youll-ever-take/" class="fc-orange-500 h:fc-orange-700 fs-body2 fw-bold mt-auto bt bc-black-1 px32 pt24 mxn24 d-block">
+          <svg aria-hidden="true" class="va-middle mr8 svg-icon iconPlay" width="24" height="25" viewBox="0 0 24 25" fill="none">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M12 24.0984C18.6274 24.0984 24 18.7258 24 12.0984C24 5.47097 18.6274 0.0983887 12 0.0983887C5.37258 0.0983887 0 5.47097 0 12.0984C0 18.7258 5.37258 24.0984 12 24.0984ZM10.8108 7.68427C10.0068 7.15102 8.93273 7.7274 8.93273 8.69207V12.0789V15.4658C8.93273 16.4305 10.0068 17.0069 10.8108 16.4736L15.916 13.0867C16.6371 12.6084 16.6371 11.5495 15.916 11.0711L10.8108 7.68427Z" fill="#F2720C"/>
+</svg>
+          Listen now
+        </a>
+      </article>
+    </div>
+      <div class="grid--cell3 overflow-hidden p16 d-flex">
+      <article class="grid fd-column bg-white bar-lg bs-lg p24 w100 ">
+        <header class="sm:mt16">
+          <div class="mb8 fc-black-300 tt-uppercase va-middle ls-sm">
+            August 16, 2022          </div>
+          <h2 class="fs-headline1 lh-sm ww-break-word">
+  <a
+    href="https://stackoverflow.blog/2022/08/16/a-history-of-open-source-licensing-from-a-lawyer-who-helped-blaze-the-trail-ep-473/"
+    title="A history of open-source licensing from a lawyer who helped blaze the trail (Ep. 473)"
+    rel="bookmark"
+    class="fc-black-800 h:fc-blue-500"
+  >
+    A history of open-source licensing from a lawyer who helped blaze the trail (Ep. 473)  </a>
+</h2>        </header>
+
+        <div class="fs-body3 mb24 lh-excerpt">The home team is joined by Heather Meeker, a specialist with a deep history in the world of open-source software licensing. </div>  
+
+        <a href="https://stackoverflow.blog/2022/08/16/a-history-of-open-source-licensing-from-a-lawyer-who-helped-blaze-the-trail-ep-473/" class="fc-orange-500 h:fc-orange-700 fs-body2 fw-bold mt-auto bt bc-black-1 px32 pt24 mxn24 d-block">
+          <svg aria-hidden="true" class="va-middle mr8 svg-icon iconPlay" width="24" height="25" viewBox="0 0 24 25" fill="none">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M12 24.0984C18.6274 24.0984 24 18.7258 24 12.0984C24 5.47097 18.6274 0.0983887 12 0.0983887C5.37258 0.0983887 0 5.47097 0 12.0984C0 18.7258 5.37258 24.0984 12 24.0984ZM10.8108 7.68427C10.0068 7.15102 8.93273 7.7274 8.93273 8.69207V12.0789V15.4658C8.93273 16.4305 10.0068 17.0069 10.8108 16.4736L15.916 13.0867C16.6371 12.6084 16.6371 11.5495 15.916 11.0711L10.8108 7.68427Z" fill="#F2720C"/>
+</svg>
+          Listen now
+        </a>
+      </article>
+    </div>
+  </div>        </div>
+      
+              <div class="grid--cell6 overflow-hidden p16 pb48 sm:pb16">
+          <article id="post-20490" class="d-flex fd-column h100 post-20490 post type-post status-publish format-standard has-post-thumbnail hentry category-code-for-a-living tag-agile tag-coding-community tag-culture tag-devops tag-hype tag-se-stackoverflow tag-se-tech">
+    <a href="https://stackoverflow.blog/2022/08/04/great-engineering-cultures-are-built-on-social-learning-communities/" class="d-block bar-lg overflow-hidden imgfill ps-relative bg-black-025 bs-md h:bs-lg ps-releative">
+    <img width="1024" height="538" src="https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/Hype-Cycle-Blog-Image.png" class="w100 h100 d-block ps-absolute t0 r0 l0 b0 wp-post-image" alt="" loading="lazy" srcset="https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/Hype-Cycle-Blog-Image.png 1200w , https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/Hype-Cycle-Blog-Image-300x158.png 300w , https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/Hype-Cycle-Blog-Image-768x403.png 768w " sizes="(max-width: 1024px) 100vw, 1024px" /> 
+
+      </a>
+
+  <header class="mt24 sm:mt16">
+    <section class="mb16">
+  <a href="https://stackoverflow.blog/code-for-a-living/" class="s-tag bar-md va-middle mr12">code-for-a-living</a>  
+  <span class="fc-black-300 tt-uppercase va-middle ls-sm">
+    August 4, 2022  </span>
+</section>
+    <h2 class="fs-headline1 lh-sm ww-break-word">
+  <a
+    href="https://stackoverflow.blog/2022/08/04/great-engineering-cultures-are-built-on-social-learning-communities/"
+    title="Great engineering cultures are built on social learning communities"
+    rel="bookmark"
+    class="fc-black-800 h:fc-blue-500"
+  >
+    Great engineering cultures are built on social learning communities  </a>
+</h2>  </header>
+
+  <div class="fs-body3 mb24 lh-excerpt">For a successful Agile and DevOps practice, organizations need to think beyond tooling. Engineering organizations need a strong community of practice culture that supports the collecting and distributing of knowledge, greater cross-organizational collaboration, and breaks down the silos that can happen in companies of all sizes.</div>
+  <div class="mt-auto bb bc-black-1 pb16">
+    <div class="grid ai-center author vcard fs-body2">
+  <div class="grid__cell mr12 ws-nowrap">
+          <div class="bar-circle overflow-hidden d-inline-block ">  
+        <img alt='Avatar for Joy Liuzzo' src='https://secure.gravatar.com/avatar/bff645bfc8dc27a1f42500319af8bdec?s=40&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/bff645bfc8dc27a1f42500319af8bdec?s=80&#038;d=mm&#038;r=g 2x' class='avatar avatar-40 photo d-block' height='40' width='40' loading='lazy'/>      </div>
+      </div>
+  <div class="grid__cell fc-black-350">
+    <span class="d-block fw-bold fc-black-900">
+      <a href="https://stackoverflow.blog/author/jliuzzo/" title="Posts by Joy Liuzzo" class="author url fn" rel="author">Joy Liuzzo</a>    </span>
+      </div>
+</div>
+
+  </div>
+</article>        </div>
+          
+      
+      
+      
+              <div class="grid--cell3 overflow-hidden p16 pb48 sm:pb16">
+          <article id="post-20511" class="d-flex fd-column h100 post-20511 post type-post status-publish format-standard has-post-thumbnail hentry category-code-for-a-living category-partner-content tag-hiring-process tag-partnercontent tag-se-stackoverflow tag-se-tech tag-skills">
+    <a href="https://stackoverflow.blog/2022/08/03/skilling-for-success-how-demand-for-development-skills-is-changing/" class="d-block bar-lg overflow-hidden imgfill ps-relative bg-black-025 bs-md h:bs-lg ps-releative">
+    <img width="1024" height="538" src="https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/08/080122-Stack-Overflow-Turing-Sponsored-Post-1200x630.jpg" class="w100 h100 d-block ps-absolute t0 r0 l0 b0 wp-post-image" alt="" loading="lazy" srcset="https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/08/080122-Stack-Overflow-Turing-Sponsored-Post-1200x630.jpg 1200w , https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/08/080122-Stack-Overflow-Turing-Sponsored-Post-300x158.jpg 300w , https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/08/080122-Stack-Overflow-Turing-Sponsored-Post-768x403.jpg 768w , https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/08/080122-Stack-Overflow-Turing-Sponsored-Post-1536x806.jpg 1536w , https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/08/080122-Stack-Overflow-Turing-Sponsored-Post-2048x1075.jpg 2048w " sizes="(max-width: 1024px) 100vw, 1024px" /> 
+
+      </a>
+
+  <header class="mt24 sm:mt16">
+    <section class="mb16">
+  <a href="https://stackoverflow.blog/code-for-a-living/" class="s-tag bar-md va-middle mr12">code-for-a-living</a>  
+  <span class="fc-black-300 tt-uppercase va-middle ls-sm">
+    August 3, 2022  </span>
+</section>
+    <h2 class="fs-headline1 lh-sm ww-break-word">
+  <a
+    href="https://stackoverflow.blog/2022/08/03/skilling-for-success-how-demand-for-development-skills-is-changing/"
+    title="Skilling for success: How demand for development skills is changing"
+    rel="bookmark"
+    class="fc-black-800 h:fc-blue-500"
+  >
+    Skilling for success: How demand for development skills is changing  </a>
+</h2>  </header>
+
+  <div class="fs-body3 mb24 lh-excerpt">Developers need to always be learning, but knowing what skills companies need can help you direct your learning towards marketable skills. </div>
+  <div class="mt-auto bb bc-black-1 pb16">
+    <div class="grid ai-center author vcard fs-body2">
+  <div class="grid__cell mr12 ws-nowrap">
+          <div class="bar-circle overflow-hidden d-inline-block ">  
+        <img alt='Avatar for ' src='https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/image-2-1.png' srcset='https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/image-2-1.png 2x ' class='avatar avatar-40 photo avatar-default d-block' height='40' width='40' loading='lazy'/>      </div>
+      </div>
+  <div class="grid__cell fc-black-350">
+    <span class="d-block fw-bold fc-black-900">
+      <a href="https://stackoverflow.blog/author/prakash-gupta/" title="Posts by Prakash Gupta" class="author url fn" rel="author">Prakash Gupta</a>    </span>
+      </div>
+</div>
+
+  </div>
+</article>        </div>
+          
+      
+      
+      
+              <div class="grid--cell3 overflow-hidden p16 pb48 sm:pb16">
+          <article id="post-20480" class="d-flex fd-column h100 post-20480 post type-post status-publish format-standard has-post-thumbnail hentry category-code-for-a-living tag-measurement tag-se-stackoverflow tag-se-tech tag-skills">
+    <a href="https://stackoverflow.blog/2022/07/28/measurable-and-meaningful-skill-levels-for-developers/" class="d-block bar-lg overflow-hidden imgfill ps-relative bg-black-025 bs-md h:bs-lg ps-releative">
+    <img width="1024" height="538" src="https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/072022-Stack-Overflow-Measurable-and-meaningful-skill-levels-for-developers-1200x630.jpg" class="w100 h100 d-block ps-absolute t0 r0 l0 b0 wp-post-image" alt="" loading="lazy" srcset="https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/072022-Stack-Overflow-Measurable-and-meaningful-skill-levels-for-developers-1200x630.jpg 1200w , https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/072022-Stack-Overflow-Measurable-and-meaningful-skill-levels-for-developers-300x158.jpg 300w , https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/072022-Stack-Overflow-Measurable-and-meaningful-skill-levels-for-developers-768x403.jpg 768w , https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/072022-Stack-Overflow-Measurable-and-meaningful-skill-levels-for-developers-1536x806.jpg 1536w , https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/072022-Stack-Overflow-Measurable-and-meaningful-skill-levels-for-developers-2048x1075.jpg 2048w " sizes="(max-width: 1024px) 100vw, 1024px" /> 
+
+      </a>
+
+  <header class="mt24 sm:mt16">
+    <section class="mb16">
+  <a href="https://stackoverflow.blog/code-for-a-living/" class="s-tag bar-md va-middle mr12">code-for-a-living</a>  
+  <span class="fc-black-300 tt-uppercase va-middle ls-sm">
+    July 28, 2022  </span>
+</section>
+    <h2 class="fs-headline1 lh-sm ww-break-word">
+  <a
+    href="https://stackoverflow.blog/2022/07/28/measurable-and-meaningful-skill-levels-for-developers/"
+    title="Measurable and meaningful skill levels for developers"
+    rel="bookmark"
+    class="fc-black-800 h:fc-blue-500"
+  >
+    Measurable and meaningful skill levels for developers  </a>
+</h2>  </header>
+
+  <div class="fs-body3 mb24 lh-excerpt">Spoken languages have distinct levels to measure skills; why shouldn't programming languages, too?</div>
+  <div class="mt-auto bb bc-black-1 pb16">
+    <div class="grid ai-center author vcard fs-body2">
+  <div class="grid__cell mr12 ws-nowrap">
+          <div class="bar-circle overflow-hidden d-inline-block ">  
+        <img alt='Avatar for ' src='https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/LCH_9078-headshot-scaled.jpg' srcset='https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/LCH_9078-headshot-scaled.jpg 2x ' class='avatar avatar-40 photo avatar-default d-block' height='40' width='40' loading='lazy'/>      </div>
+      </div>
+  <div class="grid__cell fc-black-350">
+    <span class="d-block fw-bold fc-black-900">
+      <a href="https://stackoverflow.blog/author/matt-van-itallie/" title="Posts by Matt Van Itallie" class="author url fn" rel="author">Matt Van Itallie</a>    </span>
+      </div>
+</div>
+
+  </div>
+</article>        </div>
+          
+      
+      
+      
+              <div class="grid--cell3 overflow-hidden p16 pb48 sm:pb16">
+          <article id="post-20466" class="d-flex fd-column h100 post-20466 post type-post status-publish format-standard has-post-thumbnail hentry category-announcements category-community category-company category-culture category-diversity tag-announcements tag-ceo-quarterly-post tag-collectives tag-community tag-developer-survey tag-se-stackoverflow tag-se-tech tag-stack-overflow-for-teams">
+    <a href="https://stackoverflow.blog/2022/07/27/always-learning/" class="d-block bar-lg overflow-hidden imgfill ps-relative bg-black-025 bs-md h:bs-lg ps-releative">
+    <img width="1024" height="538" src="https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/q2-2022-ceo_00.png" class="w100 h100 d-block ps-absolute t0 r0 l0 b0 wp-post-image" alt="" loading="lazy" srcset="https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/q2-2022-ceo_00.png 1200w , https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/q2-2022-ceo_00-300x158.png 300w , https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/q2-2022-ceo_00-768x403.png 768w " sizes="(max-width: 1024px) 100vw, 1024px" /> 
+
+      </a>
+
+  <header class="mt24 sm:mt16">
+    <section class="mb16">
+  <a href="https://stackoverflow.blog/community/" class="s-tag bar-md va-middle mr12">community</a>  
+  <span class="fc-black-300 tt-uppercase va-middle ls-sm">
+    July 27, 2022  </span>
+</section>
+    <h2 class="fs-headline1 lh-sm ww-break-word">
+  <a
+    href="https://stackoverflow.blog/2022/07/27/always-learning/"
+    title="Always learning"
+    rel="bookmark"
+    class="fc-black-800 h:fc-blue-500"
+  >
+    Always learning  </a>
+</h2>  </header>
+
+  <div class="fs-body3 mb24 lh-excerpt">It’s been a busy quarter for the company. We celebrated a handful of big milestones over the last three months. We added a new Chief Technology Officer, Jody Bailey, to our leadership team, announced Stack Overflow for Teams entering the Microsoft Azure Marketplace, launched exciting initiatives like Staging Ground, and released insights from this year’s Developer Survey.</div>
+  <div class="mt-auto bb bc-black-1 pb16">
+    <div class="grid ai-center author vcard fs-body2">
   <div class="grid__cell mr12 ws-nowrap">
           <div class="bar-circle overflow-hidden d-inline-block ">  
         <img alt='Avatar for Prashanth Chandrasekar' src='https://secure.gravatar.com/avatar/b6fc5ca0b9462924e8e028e389744c69?s=40&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/b6fc5ca0b9462924e8e028e389744c69?s=80&#038;d=mm&#038;r=g 2x' class='avatar avatar-40 photo d-block' height='40' width='40' loading='lazy'/>      </div>
@@ -274,13 +681,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     CEO  </div>
 </div>
 
-    </div>
   </div>
-</article>
-        </div>
-      
-      
-      
+</article>        </div>
           
       
       
@@ -407,410 +809,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
   </div>
 </article>        </div>
-          
-      
-      
-              <div id="section-podcast" class="bg-black-750 d:bg-black-025 mb48 mt12 p24 pt32 mxn24 sm:ml0 sm:mr0 sm:pl16 sm:pr16 bar-xl">
-          <div class="fc-white d:fc-black-900 fs-body3 wmx7 pl16 mb24 mt8">
-  <a href="/podcast/"><img src="https://stackoverflow.blog/wp-content/themes/stackoverflow/img/logo-podcast.svg" class="float-left mr24" alt="Podcast logo" /></a>
-
-  <a href="/podcast/" class="fw-bold fc-white d:fc-black-900">The Stack Overflow Podcast</a> is a weekly conversation about working in software development, learning to code, and the art and culture of computer programming.
-</div>
-<div class="grid grid--cell12 md:fd-column clear-both">
-      <div class="grid--cell3 overflow-hidden p16 d-flex">
-      <article class="grid fd-column bg-white bar-lg bs-lg p24 w100 ">
-        <header class="sm:mt16">
-          <div class="mb8 fc-black-300 tt-uppercase va-middle ls-sm">
-            July 26, 2022          </div>
-          <h2 class="fs-headline1 lh-sm ww-break-word">
-  <a
-    href="https://stackoverflow.blog/2022/07/26/data-analytics-less-creepy-more-empowering/"
-    title="Data analytics: Less creepy, more empowering"
-    rel="bookmark"
-    class="fc-black-800 h:fc-blue-500"
-  >
-    Data analytics: Less creepy, more empowering  </a>
-</h2>        </header>
-
-        <div class="fs-body3 mb24 lh-excerpt">Lauren Peate, founder and CEO of Multitudes, joins the home team for a conversation about how managers and executives can support their development teams through ethical data and analytics practices. Plus: What it’s like to launch a startup in a smaller country like New Zealand.</div>  
-
-        <a href="https://stackoverflow.blog/2022/07/26/data-analytics-less-creepy-more-empowering/" class="fc-orange-500 h:fc-orange-700 fs-body2 fw-bold mt-auto bt bc-black-1 px32 pt24 mxn24 d-block">
-          <svg aria-hidden="true" class="va-middle mr8 svg-icon iconPlay" width="24" height="25" viewBox="0 0 24 25" fill="none">
-<path fill-rule="evenodd" clip-rule="evenodd" d="M12 24.0984C18.6274 24.0984 24 18.7258 24 12.0984C24 5.47097 18.6274 0.0983887 12 0.0983887C5.37258 0.0983887 0 5.47097 0 12.0984C0 18.7258 5.37258 24.0984 12 24.0984ZM10.8108 7.68427C10.0068 7.15102 8.93273 7.7274 8.93273 8.69207V12.0789V15.4658C8.93273 16.4305 10.0068 17.0069 10.8108 16.4736L15.916 13.0867C16.6371 12.6084 16.6371 11.5495 15.916 11.0711L10.8108 7.68427Z" fill="#F2720C"/>
-</svg>
-          Listen now
-        </a>
-      </article>
-    </div>
-      <div class="grid--cell3 overflow-hidden p16 d-flex">
-      <article class="grid fd-column bg-white bar-lg bs-lg p24 w100 ">
-        <header class="sm:mt16">
-          <div class="mb8 fc-black-300 tt-uppercase va-middle ls-sm">
-            July 22, 2022          </div>
-          <h2 class="fs-headline1 lh-sm ww-break-word">
-  <a
-    href="https://stackoverflow.blog/2022/07/22/game-boy-emulators-powerpoint-developers-and-the-enduring-appeal-of-pokemon-go-ep-466/"
-    title="Game Boy emulators, PowerPoint developers, and the enduring appeal of Pokémon GO (Ep. 466)"
-    rel="bookmark"
-    class="fc-black-800 h:fc-blue-500"
-  >
-    Game Boy emulators, PowerPoint developers, and the enduring appeal of Pokémon GO (Ep. 466)  </a>
-</h2>        </header>
-
-        <div class="fs-body3 mb24 lh-excerpt">The home team talks game development and PowerPoint, the good ol’ days of Game Boy, and wild facts about the largest species in the deer family. Plus: Was that summer everyone was playing Pokémon GO the closest we’ll ever get to world peace?</div>  
-
-        <a href="https://stackoverflow.blog/2022/07/22/game-boy-emulators-powerpoint-developers-and-the-enduring-appeal-of-pokemon-go-ep-466/" class="fc-orange-500 h:fc-orange-700 fs-body2 fw-bold mt-auto bt bc-black-1 px32 pt24 mxn24 d-block">
-          <svg aria-hidden="true" class="va-middle mr8 svg-icon iconPlay" width="24" height="25" viewBox="0 0 24 25" fill="none">
-<path fill-rule="evenodd" clip-rule="evenodd" d="M12 24.0984C18.6274 24.0984 24 18.7258 24 12.0984C24 5.47097 18.6274 0.0983887 12 0.0983887C5.37258 0.0983887 0 5.47097 0 12.0984C0 18.7258 5.37258 24.0984 12 24.0984ZM10.8108 7.68427C10.0068 7.15102 8.93273 7.7274 8.93273 8.69207V12.0789V15.4658C8.93273 16.4305 10.0068 17.0069 10.8108 16.4736L15.916 13.0867C16.6371 12.6084 16.6371 11.5495 15.916 11.0711L10.8108 7.68427Z" fill="#F2720C"/>
-</svg>
-          Listen now
-        </a>
-      </article>
-    </div>
-      <div class="grid--cell3 overflow-hidden p16 d-flex">
-      <article class="grid fd-column bg-white bar-lg bs-lg p24 w100 ">
-        <header class="sm:mt16">
-          <div class="mb8 fc-black-300 tt-uppercase va-middle ls-sm">
-            July 20, 2022          </div>
-          <h2 class="fs-headline1 lh-sm ww-break-word">
-  <a
-    href="https://stackoverflow.blog/2022/07/20/opentext-api-legacy-systems-podcast-ep-465/"
-    title="How APIs can take the pain out of legacy system headaches (Ep. 465)"
-    rel="bookmark"
-    class="fc-black-800 h:fc-blue-500"
-  >
-    How APIs can take the pain out of legacy system headaches (Ep. 465)  </a>
-</h2>        </header>
-
-        <div class="fs-body3 mb24 lh-excerpt">Get developers the right tools, or provide the means to build them.</div>  
-
-        <a href="https://stackoverflow.blog/2022/07/20/opentext-api-legacy-systems-podcast-ep-465/" class="fc-orange-500 h:fc-orange-700 fs-body2 fw-bold mt-auto bt bc-black-1 px32 pt24 mxn24 d-block">
-          <svg aria-hidden="true" class="va-middle mr8 svg-icon iconPlay" width="24" height="25" viewBox="0 0 24 25" fill="none">
-<path fill-rule="evenodd" clip-rule="evenodd" d="M12 24.0984C18.6274 24.0984 24 18.7258 24 12.0984C24 5.47097 18.6274 0.0983887 12 0.0983887C5.37258 0.0983887 0 5.47097 0 12.0984C0 18.7258 5.37258 24.0984 12 24.0984ZM10.8108 7.68427C10.0068 7.15102 8.93273 7.7274 8.93273 8.69207V12.0789V15.4658C8.93273 16.4305 10.0068 17.0069 10.8108 16.4736L15.916 13.0867C16.6371 12.6084 16.6371 11.5495 15.916 11.0711L10.8108 7.68427Z" fill="#F2720C"/>
-</svg>
-          Listen now
-        </a>
-      </article>
-    </div>
-      <div class="grid--cell3 overflow-hidden p16 d-flex">
-      <article class="grid fd-column bg-white bar-lg bs-lg p24 w100 ">
-        <header class="sm:mt16">
-          <div class="mb8 fc-black-300 tt-uppercase va-middle ls-sm">
-            July 19, 2022          </div>
-          <h2 class="fs-headline1 lh-sm ww-break-word">
-  <a
-    href="https://stackoverflow.blog/2022/07/19/code-completion-isnt-magic-it-just-feels-that-way-ep-464/"
-    title="Code completion isn’t magic; it just feels that way (Ep. 464)"
-    rel="bookmark"
-    class="fc-black-800 h:fc-blue-500"
-  >
-    Code completion isn’t magic; it just feels that way (Ep. 464)  </a>
-</h2>        </header>
-
-        <div class="fs-body3 mb24 lh-excerpt">Meredydd Lyff, founder and CEO of Anvil, joins the home team to discuss code completion: what it is and how it works, from first principles to best practices. Plus: Is 90% of biology attributable to magic gremlins?</div>  
-
-        <a href="https://stackoverflow.blog/2022/07/19/code-completion-isnt-magic-it-just-feels-that-way-ep-464/" class="fc-orange-500 h:fc-orange-700 fs-body2 fw-bold mt-auto bt bc-black-1 px32 pt24 mxn24 d-block">
-          <svg aria-hidden="true" class="va-middle mr8 svg-icon iconPlay" width="24" height="25" viewBox="0 0 24 25" fill="none">
-<path fill-rule="evenodd" clip-rule="evenodd" d="M12 24.0984C18.6274 24.0984 24 18.7258 24 12.0984C24 5.47097 18.6274 0.0983887 12 0.0983887C5.37258 0.0983887 0 5.47097 0 12.0984C0 18.7258 5.37258 24.0984 12 24.0984ZM10.8108 7.68427C10.0068 7.15102 8.93273 7.7274 8.93273 8.69207V12.0789V15.4658C8.93273 16.4305 10.0068 17.0069 10.8108 16.4736L15.916 13.0867C16.6371 12.6084 16.6371 11.5495 15.916 11.0711L10.8108 7.68427Z" fill="#F2720C"/>
-</svg>
-          Listen now
-        </a>
-      </article>
-    </div>
-  </div>        </div>
-      
-              <div class="grid--cell6 overflow-hidden p16 pb48 sm:pb16">
-          <article id="post-20397" class="d-flex fd-column h100 post-20397 post type-post status-publish format-standard has-post-thumbnail hentry category-announcements category-so-for-teams tag-announcements tag-stack-overflow tag-stackoverflow">
-    <a href="https://stackoverflow.blog/2022/07/12/stack-overflow-joins-microsoft-azure-marketplace/" class="d-block bar-lg overflow-hidden imgfill ps-relative bg-black-025 bs-md h:bs-lg ps-releative">
-    <img width="1024" height="538" src="https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/Teams-MSFT-Azure-Marketplace-1200x630.png" class="w100 h100 d-block ps-absolute t0 r0 l0 b0 wp-post-image" alt="" loading="lazy" srcset="https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/Teams-MSFT-Azure-Marketplace-1200x630.png 1200w , https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/Teams-MSFT-Azure-Marketplace-300x158.png 300w , https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/Teams-MSFT-Azure-Marketplace-768x403.png 768w , https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/Teams-MSFT-Azure-Marketplace-1536x806.png 1536w , https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/Teams-MSFT-Azure-Marketplace-2048x1075.png 2048w " sizes="(max-width: 1024px) 100vw, 1024px" /> 
-
-      </a>
-
-  <header class="mt24 sm:mt16">
-    <section class="mb16">
-  <a href="https://stackoverflow.blog/promotion/so-for-teams/" class="s-tag bar-md va-middle mr12">so-for-teams</a>  
-  <span class="fc-black-300 tt-uppercase va-middle ls-sm">
-    July 12, 2022  </span>
-</section>
-    <h2 class="fs-headline1 lh-sm ww-break-word">
-  <a
-    href="https://stackoverflow.blog/2022/07/12/stack-overflow-joins-microsoft-azure-marketplace/"
-    title="Stack Overflow joins Microsoft Azure Marketplace as ChatOps rise in popularity"
-    rel="bookmark"
-    class="fc-black-800 h:fc-blue-500"
-  >
-    Stack Overflow joins Microsoft Azure Marketplace as ChatOps rise in popularity  </a>
-</h2>  </header>
-
-  <div class="fs-body3 mb24 lh-excerpt">Stack Overflow for Teams is now available within the Microsoft Azure Marketplace.</div>
-  <div class="mt-auto bb bc-black-1 pb16">
-    <div class="grid ai-center author vcard fs-body2">
-  <div class="grid__cell mr12 ws-nowrap">
-          <div class="bar-circle overflow-hidden d-inline-block ">  
-        <img alt='Avatar for Joy Liuzzo' src='https://secure.gravatar.com/avatar/bff645bfc8dc27a1f42500319af8bdec?s=40&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/bff645bfc8dc27a1f42500319af8bdec?s=80&#038;d=mm&#038;r=g 2x' class='avatar avatar-40 photo d-block' height='40' width='40' loading='lazy'/>      </div>
-      </div>
-  <div class="grid__cell fc-black-350">
-    <span class="d-block fw-bold fc-black-900">
-      <a href="https://stackoverflow.blog/author/jliuzzo/" title="Posts by Joy Liuzzo" class="author url fn" rel="author">Joy Liuzzo</a>    </span>
-      </div>
-</div>
-
-  </div>
-</article>        </div>
-          
-      
-      
-      
-              <div class="grid--cell3 overflow-hidden p16 pb48 sm:pb16">
-          <article id="post-20369" class="d-flex fd-column h100 post-20369 post type-post status-publish format-standard has-post-thumbnail hentry category-design tag-design tag-se-all tag-se-stackoverflow tag-themes">
-    <a href="https://stackoverflow.blog/2022/07/11/stack-exchange-sites-are-getting-prettier-faster-introducing-themes/" class="d-block bar-lg overflow-hidden imgfill ps-relative bg-black-025 bs-md h:bs-lg ps-releative">
-    <img width="1024" height="538" src="https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/Frame-2-1200x630.png" class="w100 h100 d-block ps-absolute t0 r0 l0 b0 wp-post-image" alt="" loading="lazy" srcset="https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/Frame-2-1200x630.png 1200w , https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/Frame-2-300x158.png 300w , https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/Frame-2-768x403.png 768w , https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/Frame-2-1536x806.png 1536w , https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/Frame-2-2048x1075.png 2048w " sizes="(max-width: 1024px) 100vw, 1024px" /> 
-
-      </a>
-
-  <header class="mt24 sm:mt16">
-    <section class="mb16">
-  <a href="https://stackoverflow.blog/design/" class="s-tag bar-md va-middle mr12">design</a>  
-  <span class="fc-black-300 tt-uppercase va-middle ls-sm">
-    July 11, 2022  </span>
-</section>
-    <h2 class="fs-headline1 lh-sm ww-break-word">
-  <a
-    href="https://stackoverflow.blog/2022/07/11/stack-exchange-sites-are-getting-prettier-faster-introducing-themes/"
-    title="Stack Exchange sites are getting prettier faster: Introducing Themes"
-    rel="bookmark"
-    class="fc-black-800 h:fc-blue-500"
-  >
-    Stack Exchange sites are getting prettier faster: Introducing Themes  </a>
-</h2>  </header>
-
-  <div class="fs-body3 mb24 lh-excerpt">Our April Fools joke has a nice side effect: it's easier to make Stack Exchange sites more distinct. </div>
-  <div class="mt-auto bb bc-black-1 pb16">
-    <div class="grid ai-center author vcard fs-body2">
-  <div class="grid__cell mr12 ws-nowrap">
-          <div class="bar-circle overflow-hidden d-inline-block ">  
-        <img alt='Avatar for Piper Lawson' src='https://secure.gravatar.com/avatar/5c9f174e4a2a746dc14834d3375dabb6?s=40&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/5c9f174e4a2a746dc14834d3375dabb6?s=80&#038;d=mm&#038;r=g 2x' class='avatar avatar-40 photo d-block' height='40' width='40' loading='lazy'/>      </div>
-      </div>
-  <div class="grid__cell fc-black-350">
-    <span class="d-block fw-bold fc-black-900">
-      <a href="https://stackoverflow.blog/author/plawson/" title="Posts by Piper Lawson" class="author url fn" rel="author">Piper Lawson</a>    </span>
-    Director of Product Design  </div>
-</div>
-
-  </div>
-</article>        </div>
-          
-      
-      
-      
-              <div class="grid--cell3 overflow-hidden p16 pb48 sm:pb16">
-          <article id="post-20358" class="d-flex fd-column h100 post-20358 post type-post status-publish format-standard has-post-thumbnail hentry category-code-for-a-living tag-perl tag-se-stackoverflow tag-se-tech tag-unix">
-    <a href="https://stackoverflow.blog/2022/07/06/why-perl-is-still-relevant-in-2022/" class="d-block bar-lg overflow-hidden imgfill ps-relative bg-black-025 bs-md h:bs-lg ps-releative">
-    <img width="1024" height="538" src="https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/290622-Stack-Overflow-Why-Perl-is-still-relevant-in-2022-1200x630.jpg" class="w100 h100 d-block ps-absolute t0 r0 l0 b0 wp-post-image" alt="" loading="lazy" srcset="https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/290622-Stack-Overflow-Why-Perl-is-still-relevant-in-2022-1200x630.jpg 1200w , https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/290622-Stack-Overflow-Why-Perl-is-still-relevant-in-2022-300x158.jpg 300w , https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/290622-Stack-Overflow-Why-Perl-is-still-relevant-in-2022-768x403.jpg 768w , https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/290622-Stack-Overflow-Why-Perl-is-still-relevant-in-2022-1536x806.jpg 1536w , https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/290622-Stack-Overflow-Why-Perl-is-still-relevant-in-2022-2048x1075.jpg 2048w " sizes="(max-width: 1024px) 100vw, 1024px" /> 
-
-      </a>
-
-  <header class="mt24 sm:mt16">
-    <section class="mb16">
-  <a href="https://stackoverflow.blog/code-for-a-living/" class="s-tag bar-md va-middle mr12">code-for-a-living</a>  
-  <span class="fc-black-300 tt-uppercase va-middle ls-sm">
-    July 6, 2022  </span>
-</section>
-    <h2 class="fs-headline1 lh-sm ww-break-word">
-  <a
-    href="https://stackoverflow.blog/2022/07/06/why-perl-is-still-relevant-in-2022/"
-    title="Why Perl is still relevant in 2022"
-    rel="bookmark"
-    class="fc-black-800 h:fc-blue-500"
-  >
-    Why Perl is still relevant in 2022  </a>
-</h2>  </header>
-
-  <div class="fs-body3 mb24 lh-excerpt">While Perl might seem like an outdated scripting language, it still has plenty of relevant uses today. </div>
-  <div class="mt-auto bb bc-black-1 pb16">
-    <div class="grid ai-center author vcard fs-body2">
-  <div class="grid__cell mr12 ws-nowrap">
-          <div class="bar-circle overflow-hidden d-inline-block ">  
-        <img alt='Avatar for ' src='https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/Screenshot_2022-07-06-20-11-07-477_com.android.chrome-e1657123052388.jpg' srcset='https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/Screenshot_2022-07-06-20-11-07-477_com.android.chrome-e1657123052388.jpg 2x ' class='avatar avatar-40 photo avatar-default d-block' height='40' width='40' loading='lazy'/>      </div>
-      </div>
-  <div class="grid__cell fc-black-350">
-    <span class="d-block fw-bold fc-black-900">
-      <a href="https://stackoverflow.blog/author/girish-venkatachalam/" title="Posts by Girish Venkatachalam" class="author url fn" rel="author">Girish Venkatachalam</a>    </span>
-      </div>
-</div>
-
-  </div>
-</article>        </div>
-          
-      
-      
-      
-              <div class="grid--cell3 overflow-hidden p16 pb48 sm:pb16">
-          <article id="post-20345" class="d-flex fd-column h100 post-20345 post type-post status-publish format-standard has-post-thumbnail hentry category-code-for-a-living category-engineering tag-se-stackoverflow tag-se-tech tag-testing tag-unit-tests">
-    <a href="https://stackoverflow.blog/2022/07/04/how-stack-overflow-is-leveling-up-its-unit-testing-game/" class="d-block bar-lg overflow-hidden imgfill ps-relative bg-black-025 bs-md h:bs-lg ps-releative">
-    <img width="1024" height="538" src="https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/170622-Stack-Overflow-Upping-our-unit-testing-game-1200x630.jpg" class="w100 h100 d-block ps-absolute t0 r0 l0 b0 wp-post-image" alt="" loading="lazy" srcset="https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/170622-Stack-Overflow-Upping-our-unit-testing-game-1200x630.jpg 1200w , https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/170622-Stack-Overflow-Upping-our-unit-testing-game-300x158.jpg 300w , https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/170622-Stack-Overflow-Upping-our-unit-testing-game-768x403.jpg 768w , https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/170622-Stack-Overflow-Upping-our-unit-testing-game-1536x806.jpg 1536w , https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/170622-Stack-Overflow-Upping-our-unit-testing-game-2048x1075.jpg 2048w " sizes="(max-width: 1024px) 100vw, 1024px" /> 
-
-      </a>
-
-  <header class="mt24 sm:mt16">
-    <section class="mb16">
-  <a href="https://stackoverflow.blog/code-for-a-living/" class="s-tag bar-md va-middle mr12">code-for-a-living</a>  
-  <span class="fc-black-300 tt-uppercase va-middle ls-sm">
-    July 4, 2022  </span>
-</section>
-    <h2 class="fs-headline1 lh-sm ww-break-word">
-  <a
-    href="https://stackoverflow.blog/2022/07/04/how-stack-overflow-is-leveling-up-its-unit-testing-game/"
-    title="How Stack Overflow is leveling up its unit testing game"
-    rel="bookmark"
-    class="fc-black-800 h:fc-blue-500"
-  >
-    How Stack Overflow is leveling up its unit testing game  </a>
-</h2>  </header>
-
-  <div class="fs-body3 mb24 lh-excerpt">We neglected unit tests for a long time because our code base made them difficult. But now we're putting in the work to change that. </div>
-  <div class="mt-auto bb bc-black-1 pb16">
-    <div class="grid ai-center author vcard fs-body2">
-  <div class="grid__cell mr12 ws-nowrap">
-          <div class="bar-circle overflow-hidden d-inline-block ">  
-        <img alt='Avatar for Wouter de Kort' src='https://secure.gravatar.com/avatar/88e5a1526a8738f9b81015d63592f041?s=40&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/88e5a1526a8738f9b81015d63592f041?s=80&#038;d=mm&#038;r=g 2x' class='avatar avatar-40 photo d-block' height='40' width='40' loading='lazy'/>      </div>
-      </div>
-  <div class="grid__cell fc-black-350">
-    <span class="d-block fw-bold fc-black-900">
-      <a href="https://stackoverflow.blog/author/wdekort/" title="Posts by Wouter de Kort" class="author url fn" rel="author">Wouter de Kort</a>    </span>
-      </div>
-</div>
-
-  </div>
-</article>        </div>
-          
-      
-      
-      
-              <div class="grid--cell3 overflow-hidden p16 pb48 sm:pb16">
-          <article id="post-20335" class="d-flex fd-column h100 post-20335 post type-post status-publish format-standard has-post-thumbnail hentry category-company tag-se-stackoverflow tag-se-tech">
-    <a href="https://stackoverflow.blog/2022/07/01/seeing-is-believing-the-stack-overflow-podcast-now-available-as-video/" class="d-block bar-lg overflow-hidden imgfill ps-relative bg-black-025 bs-md h:bs-lg ps-releative">
-    <img width="1024" height="578" src="https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/Screen-Shot-2022-07-01-at-9.33.01-AM-1116x630.png" class="w100 h100 d-block ps-absolute t0 r0 l0 b0 wp-post-image" alt="The four hosts of the podcasts talking on video" loading="lazy" srcset="https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/Screen-Shot-2022-07-01-at-9.33.01-AM-1116x630.png 1116w , https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/Screen-Shot-2022-07-01-at-9.33.01-AM-300x169.png 300w , https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/Screen-Shot-2022-07-01-at-9.33.01-AM-768x434.png 768w , https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/Screen-Shot-2022-07-01-at-9.33.01-AM-1536x867.png 1536w , https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/07/Screen-Shot-2022-07-01-at-9.33.01-AM-2048x1157.png 2048w " sizes="(max-width: 1024px) 100vw, 1024px" /> 
-
-      </a>
-
-  <header class="mt24 sm:mt16">
-    <section class="mb16">
-  <a href="https://stackoverflow.blog/company/" class="s-tag bar-md va-middle mr12">company</a>  
-  <span class="fc-black-300 tt-uppercase va-middle ls-sm">
-    July 1, 2022  </span>
-</section>
-    <h2 class="fs-headline1 lh-sm ww-break-word">
-  <a
-    href="https://stackoverflow.blog/2022/07/01/seeing-is-believing-the-stack-overflow-podcast-now-available-as-video/"
-    title="Seeing is believing: The Stack Overflow Podcast now available as video"
-    rel="bookmark"
-    class="fc-black-800 h:fc-blue-500"
-  >
-    Seeing is believing: The Stack Overflow Podcast now available as video  </a>
-</h2>  </header>
-
-  <div class="fs-body3 mb24 lh-excerpt">Listen up, you can see us now. The Stack Overflow podcast is coming to video.</div>
-  <div class="mt-auto bb bc-black-1 pb16">
-    <div class="grid ai-center author vcard fs-body2">
-  <div class="grid__cell mr12 ws-nowrap">
-          <div class="bar-circle overflow-hidden d-inline-block ">  
-        <img alt='Avatar for Ben Popper' src='https://secure.gravatar.com/avatar/2a9d7470a89327efabc2bfaaa5bd7c76?s=40&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/2a9d7470a89327efabc2bfaaa5bd7c76?s=80&#038;d=mm&#038;r=g 2x' class='avatar avatar-40 photo d-block' height='40' width='40' loading='lazy'/>      </div>
-      </div>
-  <div class="grid__cell fc-black-350">
-    <span class="d-block fw-bold fc-black-900">
-      <a href="https://stackoverflow.blog/author/benpopper/" title="Posts by Ben Popper" class="author url fn" rel="author">Ben Popper</a>    </span>
-    Director of Content  </div>
-</div>
-
-  </div>
-</article>        </div>
-          
-      
-      
-      
-              <div class="grid--cell3 overflow-hidden p16 pb48 sm:pb16">
-          <article id="post-20329" class="d-flex fd-column h100 post-20329 post type-post status-publish format-standard has-post-thumbnail hentry category-code-for-a-living category-partner-content tag-partner-content tag-se-stackoverflow tag-se-tech tag-skills tag-soft-skills">
-    <a href="https://stackoverflow.blog/2022/06/29/skilling-up-to-architect-what-you-need-to-land-high-paying-it-roles/" class="d-block bar-lg overflow-hidden imgfill ps-relative bg-black-025 bs-md h:bs-lg ps-releative">
-    <img width="1024" height="538" src="https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/06/160622-Stack-Overflow-How-to-skill-up-to-architect-1200x630.jpg" class="w100 h100 d-block ps-absolute t0 r0 l0 b0 wp-post-image" alt="" loading="lazy" srcset="https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/06/160622-Stack-Overflow-How-to-skill-up-to-architect-1200x630.jpg 1200w , https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/06/160622-Stack-Overflow-How-to-skill-up-to-architect-300x158.jpg 300w , https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/06/160622-Stack-Overflow-How-to-skill-up-to-architect-768x403.jpg 768w , https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/06/160622-Stack-Overflow-How-to-skill-up-to-architect-1536x806.jpg 1536w , https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/06/160622-Stack-Overflow-How-to-skill-up-to-architect-2048x1075.jpg 2048w " sizes="(max-width: 1024px) 100vw, 1024px" /> 
-
-      </a>
-
-  <header class="mt24 sm:mt16">
-    <section class="mb16">
-  <a href="https://stackoverflow.blog/code-for-a-living/" class="s-tag bar-md va-middle mr12">code-for-a-living</a>  
-  <span class="fc-black-300 tt-uppercase va-middle ls-sm">
-    June 29, 2022  </span>
-</section>
-    <h2 class="fs-headline1 lh-sm ww-break-word">
-  <a
-    href="https://stackoverflow.blog/2022/06/29/skilling-up-to-architect-what-you-need-to-land-high-paying-it-roles/"
-    title="Skilling up to architect: What you need to land high-paying IT roles"
-    rel="bookmark"
-    class="fc-black-800 h:fc-blue-500"
-  >
-    Skilling up to architect: What you need to land high-paying IT roles  </a>
-</h2>  </header>
-
-  <div class="fs-body3 mb24 lh-excerpt">﻿If you want to climb the career ladder to architect roles, you're going to have a broad base of competencies. ﻿Whether it's in cloud, security, or data science, we break down how you can land architect roles and the skills you need to learn to pay the bills.</div>
-  <div class="mt-auto bb bc-black-1 pb16">
-    <div class="grid ai-center author vcard fs-body2">
-  <div class="grid__cell mr12 ws-nowrap">
-          <div class="bar-circle overflow-hidden d-inline-block ">  
-        <img alt='Avatar for ' src='https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/02/1524706450335.png' srcset='https://149351115.v2.pressablecdn.com/wp-content/uploads/2022/02/1524706450335.png 2x ' class='avatar avatar-40 photo avatar-default d-block' height='40' width='40' loading='lazy'/>      </div>
-      </div>
-  <div class="grid__cell fc-black-350">
-    <span class="d-block fw-bold fc-black-900">
-      <a href="https://stackoverflow.blog/author/mike-hendrickson/" title="Posts by Mike Hendrickson" class="author url fn" rel="author">Mike Hendrickson</a>    </span>
-      </div>
-</div>
-
-  </div>
-</article>        </div>
-          
-      
-      
-      
-              <div class="grid--cell3 overflow-hidden p16 pb48 sm:pb16">
-          <article id="post-20320" class="d-flex fd-column h100 post-20320 post type-post status-publish format-standard has-post-thumbnail hentry category-community tag-community tag-se-all tag-se-stackoverflow">
-    <a href="https://stackoverflow.blog/2022/06/27/celebrating-the-stack-exchange-sites-that-turned-ten-years-old-in-spring-2022/" class="d-block bar-lg overflow-hidden imgfill ps-relative bg-black-025 bs-md h:bs-lg ps-releative">
-    <img width="1024" height="538" src="https://149351115.v2.pressablecdn.com/wp-content/uploads/2021/08/se-10-year.png" class="w100 h100 d-block ps-absolute t0 r0 l0 b0 wp-post-image" alt="" loading="lazy" srcset="https://149351115.v2.pressablecdn.com/wp-content/uploads/2021/08/se-10-year.png 1200w , https://149351115.v2.pressablecdn.com/wp-content/uploads/2021/08/se-10-year-300x158.png 300w , https://149351115.v2.pressablecdn.com/wp-content/uploads/2021/08/se-10-year-768x403.png 768w " sizes="(max-width: 1024px) 100vw, 1024px" /> 
-
-      </a>
-
-  <header class="mt24 sm:mt16">
-    <section class="mb16">
-  <a href="https://stackoverflow.blog/community/" class="s-tag bar-md va-middle mr12">community</a>  
-  <span class="fc-black-300 tt-uppercase va-middle ls-sm">
-    June 27, 2022  </span>
-</section>
-    <h2 class="fs-headline1 lh-sm ww-break-word">
-  <a
-    href="https://stackoverflow.blog/2022/06/27/celebrating-the-stack-exchange-sites-that-turned-ten-years-old-in-spring-2022/"
-    title="Celebrating the Stack Exchange sites that turned ten years old in Spring 2022&nbsp;"
-    rel="bookmark"
-    class="fc-black-800 h:fc-blue-500"
-  >
-    Celebrating the Stack Exchange sites that turned ten years old in Spring 2022&nbsp;  </a>
-</h2>  </header>
-
-  <div class="fs-body3 mb24 lh-excerpt">From Chemistry to Raspberry Pi:  Sites covering Q&A on tech, leisure, language, and more celebrate their first decade. </div>
-  <div class="mt-auto bb bc-black-1 pb16">
-    <div class="grid ai-center author vcard fs-body2">
-  <div class="grid__cell mr12 ws-nowrap">
-          <div class="bar-circle overflow-hidden d-inline-block ">  
-        <img alt='Avatar for Rosie' src='https://secure.gravatar.com/avatar/4c42219db7592c0d1764b7d17d43a098?s=40&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/4c42219db7592c0d1764b7d17d43a098?s=80&#038;d=mm&#038;r=g 2x' class='avatar avatar-40 photo d-block' height='40' width='40' loading='lazy'/>      </div>
-          <div class="bar-circle overflow-hidden d-inline-block mln8">  
-        <img alt='Avatar for Ryan Donovan' src='https://secure.gravatar.com/avatar/e68bc60368c3130c61e2793602206c88?s=40&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/e68bc60368c3130c61e2793602206c88?s=80&#038;d=mm&#038;r=g 2x' class='avatar avatar-40 photo d-block' height='40' width='40' loading='lazy'/>      </div>
-      </div>
-  <div class="grid__cell fc-black-350">
-    <span class="d-block fw-bold fc-black-900">
-      <a href="https://stackoverflow.blog/author/rosie/" title="Posts by Rosie" class="author url fn" rel="author">Rosie</a> and <a href="https://stackoverflow.blog/author/rdonovan/" title="Posts by Ryan Donovan" class="author url fn" rel="author">Ryan Donovan</a>    </span>
-      </div>
-</div>
-
-  </div>
-</article>        </div>
             </div>
 
   <div class="grid sm:fd-column ai-center pt32 pb64 sm:pb0">
@@ -824,7 +822,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <a class="s-pagination--item fs-body2 py4" href="https://stackoverflow.blog/page/4/?blb=1usinessonalationr-jobsteams-talentnurl%3Dhttps%3A%2F%2Fstackoverflow.com%2Fampaign-38&#038;utm_content=cta">4</a>
 <a class="s-pagination--item fs-body2 py4" href="https://stackoverflow.blog/page/5/?blb=1usinessonalationr-jobsteams-talentnurl%3Dhttps%3A%2F%2Fstackoverflow.com%2Fampaign-38&#038;utm_content=cta">5</a>
 <span class="s-pagination--item fs-body2 py4 s-pagination--item__clear">&hellip;</span>
-<a class="s-pagination--item fs-body2 py4" href="https://stackoverflow.blog/page/112/?blb=1usinessonalationr-jobsteams-talentnurl%3Dhttps%3A%2F%2Fstackoverflow.com%2Fampaign-38&#038;utm_content=cta">112</a>
+<a class="s-pagination--item fs-body2 py4" href="https://stackoverflow.blog/page/113/?blb=1usinessonalationr-jobsteams-talentnurl%3Dhttps%3A%2F%2Fstackoverflow.com%2Fampaign-38&#038;utm_content=cta">113</a>
 <a class="next s-pagination--item fs-body2 py4" href="https://stackoverflow.blog/page/2/?blb=1usinessonalationr-jobsteams-talentnurl%3Dhttps%3A%2F%2Fstackoverflow.com%2Fampaign-38&#038;utm_content=cta">Next</a></div>
 	</nav>  </div>
   
@@ -871,46 +869,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <article class="grid fd-column bg-white bar-lg bs-sm p24 w100 ">
             <header class="sm:mt16">
               <div class="mb8 fc-black-300 tt-uppercase va-middle ls-sm">
-                July 22, 2022              </div>
+                August 19, 2022              </div>
               <h2 class="fs-headline1 lh-sm ww-break-word">
   <a
-    href="https://stackoverflow.blog/2022/07/22/the-overflow-135/"
-    title="The Overflow #135: Money that moves at the speed of information"
+    href="https://stackoverflow.blog/2022/08/19/the-overflow-139-software-licenses-against-evil/"
+    title="The Overflow #139: Software licenses against evil "
     rel="bookmark"
     class="fc-black-800 h:fc-blue-500"
   >
-    The Overflow #135: Money that moves at the speed of information  </a>
-</h2>            </header>
-            <div class="mt-auto">
-              <div class="grid ai-center author vcard fs-body2">
-  <div class="grid__cell mr12 ws-nowrap">
-          <div class="bar-circle overflow-hidden d-inline-block ">  
-        <img alt='Avatar for Eira May' src='https://secure.gravatar.com/avatar/a7ee2b179e5e023884224d6646116534?s=40&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/a7ee2b179e5e023884224d6646116534?s=80&#038;d=mm&#038;r=g 2x' class='avatar avatar-40 photo d-block' height='40' width='40' loading='lazy'/>      </div>
-          <div class="bar-circle overflow-hidden d-inline-block mln8">  
-        <img alt='Avatar for Cassidy Williams' src='https://secure.gravatar.com/avatar/0915cb65a5f04d5c7f1c33629a366d03?s=40&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/0915cb65a5f04d5c7f1c33629a366d03?s=80&#038;d=mm&#038;r=g 2x' class='avatar avatar-40 photo d-block' height='40' width='40' loading='lazy'/>      </div>
-      </div>
-  <div class="grid__cell fc-black-350">
-    <span class="d-block fw-bold fc-black-900">
-      <a href="https://stackoverflow.blog/author/emay/" title="Posts by Eira May" class="author url fn" rel="author">Eira May</a> and <a href="https://stackoverflow.blog/author/cwilliams/" title="Posts by Cassidy Williams" class="author url fn" rel="author">Cassidy Williams</a>    </span>
-      </div>
-</div>
-
-            </div>
-          </article>
-        </div>
-              <div class="grid--cell3 overflow-hidden p16 d-flex">
-          <article class="grid fd-column bg-white bar-lg bs-sm p24 w100 ">
-            <header class="sm:mt16">
-              <div class="mb8 fc-black-300 tt-uppercase va-middle ls-sm">
-                July 15, 2022              </div>
-              <h2 class="fs-headline1 lh-sm ww-break-word">
-  <a
-    href="https://stackoverflow.blog/2022/07/15/the-overflow-134-avoiding-the-difficulty-bomb/"
-    title="The Overflow #134: Avoiding the difficulty bomb "
-    rel="bookmark"
-    class="fc-black-800 h:fc-blue-500"
-  >
-    The Overflow #134: Avoiding the difficulty bomb   </a>
+    The Overflow #139: Software licenses against evil   </a>
 </h2>            </header>
             <div class="mt-auto">
               <div class="grid ai-center author vcard fs-body2">
@@ -933,15 +900,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <article class="grid fd-column bg-white bar-lg bs-sm p24 w100 ">
             <header class="sm:mt16">
               <div class="mb8 fc-black-300 tt-uppercase va-middle ls-sm">
-                July 8, 2022              </div>
+                August 12, 2022              </div>
               <h2 class="fs-headline1 lh-sm ww-break-word">
   <a
-    href="https://stackoverflow.blog/2022/07/08/the-overflow-133-introducing-the-video-podcast/"
-    title="The Overflow #133: Introducing the video podcast "
+    href="https://stackoverflow.blog/2022/08/12/the-overflow-138-social-learning-for-engineers/"
+    title="The Overflow #138: Social learning for engineers"
     rel="bookmark"
     class="fc-black-800 h:fc-blue-500"
   >
-    The Overflow #133: Introducing the video podcast   </a>
+    The Overflow #138: Social learning for engineers  </a>
 </h2>            </header>
             <div class="mt-auto">
               <div class="grid ai-center author vcard fs-body2">
@@ -964,15 +931,46 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <article class="grid fd-column bg-white bar-lg bs-sm p24 w100 ">
             <header class="sm:mt16">
               <div class="mb8 fc-black-300 tt-uppercase va-middle ls-sm">
-                July 1, 2022              </div>
+                August 5, 2022              </div>
               <h2 class="fs-headline1 lh-sm ww-break-word">
   <a
-    href="https://stackoverflow.blog/2022/07/01/the-overflow-132-the-2022-dev-survey-results/"
-    title="The Overflow #132: The 2022 Dev Survey results!"
+    href="https://stackoverflow.blog/2022/08/05/the-overflow-137-the-san-francisco-exodus/"
+    title="The Overflow #137: The San Francisco exodus"
     rel="bookmark"
     class="fc-black-800 h:fc-blue-500"
   >
-    The Overflow #132: The 2022 Dev Survey results!  </a>
+    The Overflow #137: The San Francisco exodus  </a>
+</h2>            </header>
+            <div class="mt-auto">
+              <div class="grid ai-center author vcard fs-body2">
+  <div class="grid__cell mr12 ws-nowrap">
+          <div class="bar-circle overflow-hidden d-inline-block ">  
+        <img alt='Avatar for Ryan Donovan' src='https://secure.gravatar.com/avatar/e68bc60368c3130c61e2793602206c88?s=40&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/e68bc60368c3130c61e2793602206c88?s=80&#038;d=mm&#038;r=g 2x' class='avatar avatar-40 photo d-block' height='40' width='40' loading='lazy'/>      </div>
+          <div class="bar-circle overflow-hidden d-inline-block mln8">  
+        <img alt='Avatar for Cassidy Williams' src='https://secure.gravatar.com/avatar/0915cb65a5f04d5c7f1c33629a366d03?s=40&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/0915cb65a5f04d5c7f1c33629a366d03?s=80&#038;d=mm&#038;r=g 2x' class='avatar avatar-40 photo d-block' height='40' width='40' loading='lazy'/>      </div>
+      </div>
+  <div class="grid__cell fc-black-350">
+    <span class="d-block fw-bold fc-black-900">
+      <a href="https://stackoverflow.blog/author/rdonovan/" title="Posts by Ryan Donovan" class="author url fn" rel="author">Ryan Donovan</a> and <a href="https://stackoverflow.blog/author/cwilliams/" title="Posts by Cassidy Williams" class="author url fn" rel="author">Cassidy Williams</a>    </span>
+      </div>
+</div>
+
+            </div>
+          </article>
+        </div>
+              <div class="grid--cell3 overflow-hidden p16 d-flex">
+          <article class="grid fd-column bg-white bar-lg bs-sm p24 w100 ">
+            <header class="sm:mt16">
+              <div class="mb8 fc-black-300 tt-uppercase va-middle ls-sm">
+                July 29, 2022              </div>
+              <h2 class="fs-headline1 lh-sm ww-break-word">
+  <a
+    href="https://stackoverflow.blog/2022/07/29/the-overflow-136-sufficiently-advanced-code-completion-feels-like-magic/"
+    title="The Overflow #136: Sufficiently advanced code completion feels like magic "
+    rel="bookmark"
+    class="fc-black-800 h:fc-blue-500"
+  >
+    The Overflow #136: Sufficiently advanced code completion feels like magic   </a>
 </h2>            </header>
             <div class="mt-auto">
               <div class="grid ai-center author vcard fs-body2">
@@ -1129,15 +1127,11 @@ window._linkedin_data_partner_ids.push(_linkedin_partner_id);
   <img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=19337&fmt=gif" />
 </noscript>
 
-<script src='https://stats.wp.com/e-202230.js' defer></script>
+<script src='https://stats.wp.com/e-202234.js' defer></script>
 <script>
 	_stq = window._stq || [];
-	_stq.push([ 'view', {v:'ext',j:'1:11.2-beta',blog:'162153688',post:'0',tz:'-4',srv:'stackoverflow.blog',hp:'atomic',ac:'3',amp:'0'} ]);
+	_stq.push([ 'view', {v:'ext',j:'1:11.3-a.9',blog:'162153688',post:'0',tz:'-4',srv:'stackoverflow.blog',hp:'atomic',ac:'3',amp:'0'} ]);
 	_stq.push([ 'clickTrackerInit', '162153688', '0' ]);
 </script>
 </body>
 </html>
-<!--
-	generated in 0.692 seconds
-	101808 bytes batcached for 300 seconds
--->
