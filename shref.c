@@ -1,7 +1,7 @@
 #include "shref.h"
 #include <string.h>
 
-void rplcSlshLnk(char *name_file)
+void rslash(char *name_file) // replace slash link name
 {
         for (int index_name = 0; name_file[index_name] != '\0'; ++index_name) {
                 if (name_file[index_name] == '/') {
@@ -10,15 +10,15 @@ void rplcSlshLnk(char *name_file)
         }
 }
 
-char *getNameFileLink(char* url, int len_url)
+char *fnlink(char* url, int len_url) // get name file link
 {
         int index_slesh = strchr(url, '/') - url + 1;
         char dest[5001];
-        char *tmp = subStr(url, index_slesh, len_url, dest);
+        char *tmp = substr(url, index_slesh, len_url, dest);
         return tmp;
 }
 
-char *subStr(char* input, int offset, int len, char* dest)
+char *substr(char* input, int offset, int len, char* dest)
 {
         /*
         int input_len = strlen(input);

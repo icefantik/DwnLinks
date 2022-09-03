@@ -3,7 +3,7 @@
 #define MAXLEN_PATH 4096
 #define MAXLEN_NAMEFILE 255
 
-void reverse(char*, int);
+//void reverse(char*, int);
 char* getExtenLink(char*, int);
 char *subStr(char*, int, int, char*);
 void dwlink(char *path, char *url);
@@ -24,7 +24,7 @@ char* sliceNameFile(char * name_file)
 			result[index_result_str++] = name_file[i];
 	}
 	result[MAXLEN_PATH] = '\0';
-
+	printf("%s\n", result);
 	return result;	
 }
 
@@ -35,8 +35,8 @@ void dwlstlinks(char *link)
 	char *exten_file, *name_file;	
 	int len_url = strlen(link);
 	exten_file = getExtenLink(link, len_url);	
-	name_file = getNameFileLink(link, len_url);
-	rplcSlshLnk(name_file);
+	name_file = fnlink(link, len_url);
+	rslash(name_file);
 		
 	if (strlen(name_file) > MAXLEN_NAMEFILE) {
 		name_file = sliceNameFile(name_file);
